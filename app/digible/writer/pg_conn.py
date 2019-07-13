@@ -83,7 +83,7 @@ class PgConn():
         connection = self._get_connection()
         try:
             with connection.cursor() as cursor:
-                self._logger.debug("Ececuting sql")
+                self._logger.debug("Executing sql")
                 cursor.execute(sql, param_list)
                 cursor.execute("commit")
 
