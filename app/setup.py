@@ -11,5 +11,6 @@ setup(name='digible',
       packages=['digible'],
       install_requires=[
           'PyMySQL',
+          'psycopg2-binary',
       ],
      )

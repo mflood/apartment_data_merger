@@ -1,2 +1,5 @@
 pytest
 coverage
+psycopg2-binary
+google-cloud-storage
+pymysql
