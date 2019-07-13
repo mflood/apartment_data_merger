@@ -55,6 +55,21 @@ class BufferedWriter():
             "num_available_units",
         ]
 
+    def set_fields_sqlserver(self):
+        """
+            Sets the fields for the sqlserver_table
+        """
+
+        self._fields = [
+            "property_id",
+            "apt_name",
+            "address_line1",
+            "address_line2",
+            "city",
+            "state",
+            "zip",
+        ]
+
     def set_worker_id(self, worker_id):
         """
             set the worker ID associated

@@ -24,7 +24,7 @@ def db_conn():
     return postgres
 
 
-def test_usage(db_conn):
+def test_snowflake_usage(db_conn):
     writer = BufferedWriter(db_conn=db_conn,
                             fq_output_table="test_table")
 
@@ -57,7 +57,27 @@ def test_usage(db_conn):
         writer.add_record(output_record=record)
 
     writer.run_inserts()
-    print(count)
+
+def test_sqlserver_usage(db_conn):
+    writer = BufferedWriter(db_conn=db_conn,
+                            fq_output_table="test_table")
+
+    writer.init_queue(batchsize=100)
+    writer.set_fields_sqlserver()
+
+    record = {
+        'property_id': 1,
+        "apt_name": "Club at Highland Park",
+        "address_line1": "11402 Evans St, Omaha, NE 68164",
+        "address_line2": "11402 Evans St, Omaha, NE 68164",
+        "zip": "68164",
+        "city": "Omaha",
+        "state": "NE",
+    }
+
+    writer.add_record(output_record=record)
+
+    writer.run_inserts()
 
 
 def test_bad_misconfigured_fields(db_conn):
