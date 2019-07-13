@@ -26,12 +26,12 @@ def test_parse_line(snowflake_parser):
 
     result = snowflake_parser.process_line(line_dict)
     expected = {
-        "address_hash": b'\xd5c\xd4\xadM\xf8\xfd\xf5!\xd7U\xe6\xfe\xbb\x08\x8a',
+        "address_hash": b'\x85\x08?^\xcaUz\xe7\x14\xf7\xd45\x9b\xa0\xb9\xe3',
         "available_units": 10.0,
-        "apt_name": "Club at Highland Park",
-        "address": "11402 Evans St, Omaha, NE 68164",
+        "apt_name": "CLUB AT HIGHLAND PARK",
+        "address": "11402 EVANS ST, OMAHA, NE 68164",
         "zip": "68164",
-        "city": "Omaha",
+        "city": "OMAHA",
         "state": "NE",
         "date_string": "2019-06-21 22:13:10.652224",
         "date_object": datetime.datetime(2019, 6, 21, 22, 13, 10, 652224),

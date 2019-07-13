@@ -15,7 +15,7 @@ class SnowflakeTableParser():
         """
             Create hash id from apt_name and address
         """
-        concat = apt_name + "::" + address
+        concat = apt_name.strip().upper() + "::" + address.strip().upper()
         md5sum = hashlib.md5(concat.encode('utf8')).digest()
         return md5sum
 
@@ -36,8 +36,8 @@ class SnowflakeTableParser():
             assert address.upper().endswith(expected_ending.upper())
             return 1
         except AssertionError as error:
-            self._logger.warning("Failed address validation: '{}' ({}, {} {})".format(
-                address, city, state, zipcode))
+            #self._logger.warning("Failed address validation: '{}' ({}, {} {})".format(
+            #    address, city, state, zipcode))
             return 0
             
 
@@ -77,11 +77,11 @@ class SnowflakeTableParser():
             'date_object': date_object,
             'available_units': available_units,
             'valid_address_parts': valid_address_parts,
-            'apt_name': linedict['APT_NAME'],
-            'address': linedict['ADDRESS'],
-            'zip': linedict['ZIP'].zfill(5),
-            'city': linedict['CITY'],
-            'state': linedict['STATE'],
+            'apt_name': linedict['APT_NAME'].strip().upper(),
+            'address': linedict['ADDRESS'].strip().upper(),
+            'zip': linedict['ZIP'].zfill(5).strip().upper(),
+            'city': linedict['CITY'].strip().upper(),
+            'state': linedict['STATE'].strip().upper(),
             'date_string': linedict['DATE'],
         }
 
