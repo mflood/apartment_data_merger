@@ -45,6 +45,7 @@ def create_snowflake_table(table_name):
 
     build_db_conn().execute(sql)
 
+
 def create_sqlserver_table(table_name):
 
     sql = f"""drop table if exists {table_name}"""
@@ -67,5 +68,24 @@ def create_sqlserver_table(table_name):
     build_db_conn().execute(sql)
 
 
-create_snowflake_table(table_name=os.getenv("SNOWFLAKE_TABLE", "digible_schema.default_snowflake_table"))
-create_sqlserver_table(table_name=os.getenv("SQLSERVER_TABLE", "digible_schema.default_sqlserver_table"))
+def create_mapping_table(table_name):
+
+    sql = f"""drop table if exists {table_name}"""
+    build_db_conn().execute(sql)
+
+    sql = f"""
+    create table {table_name} (
+        address_hash            text,
+        property_id             text,
+        address_similarity      numeric(8, 7),
+        apt_name_similarity     numeric(8, 7),
+        _create_date            timestamptz default now()
+        )
+    """
+
+    build_db_conn().execute(sql)
+
+
+#create_snowflake_table(table_name=os.getenv("SNOWFLAKE_TABLE", "digible_schema.default_snowflake_table"))
+#create_sqlserver_table(table_name=os.getenv("SQLSERVER_TABLE", "digible_schema.default_sqlserver_table"))
+create_mapping_table(table_name=os.getenv("MAPPING_TABLE", "digible_schema.default_mapping_table"))
