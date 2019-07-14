@@ -30,8 +30,13 @@ def create_snowflake_table(table_name):
         city                    text,
         state                   text,
         zip                     text,
+        raw_apt_name            text,
+        raw_address             text,
+        raw_city                text,
+        raw_state               text,
         has_valid_address_parts boolean not null,
         num_available_units     numeric,
+        address_type            int,
         load_datetime_string    text,
         load_datetime           timestamp,
         _create_date            timestamptz default now()
@@ -48,6 +53,7 @@ def create_sqlserver_table(table_name):
     sql = f"""
     create table {table_name} (
         sqlserver_table_id      bigserial not null primary key,
+        property_id             text,
         apt_name                text,
         address_line1           text,
         address_line2           text,
