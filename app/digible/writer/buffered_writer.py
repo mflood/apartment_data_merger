@@ -44,6 +44,10 @@ class BufferedWriter():
 
         self._fields = [
             "address_hash",
+            "raw_apt_name",
+            "raw_address",
+            "raw_city",
+            "raw_state",
             "apt_name",
             "address",
             "city",
@@ -62,6 +66,7 @@ class BufferedWriter():
 
         self._fields = [
             "property_id",
+            "tokens",
             "apt_name",
             "address_line1",
             "address_line2",
