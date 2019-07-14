@@ -66,7 +66,6 @@ class BufferedWriter():
 
         self._fields = [
             "property_id",
-            "tokens",
             "apt_name",
             "address_line1",
             "address_line2",
