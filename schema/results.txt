@@ -1,0 +1,143 @@
+set search_path=digible_schema;
+SET
+with map_count as (
+    select count(*) as map_count
+    from mapping_table
+), sql_count as (
+    select count(*) as sql_count
+    from sqlserver_table
+) select
+map_count.map_count,
+sql_count.sql_count,
+(map_count.map_count::float / sql_count.sql_count::float) * 100.0 as percentage
+from map_count
+cross join sql_count;
+ map_count | sql_count |    percentage    
+-----------+-----------+------------------
+     56923 |    165981 | 34.2948891740621
+(1 row)
+
+select (address_similarity + apt_name_similarity)::numeric(2,1), count(*) from mapping_table group by 1 order by 1;
+ numeric | count 
+---------+-------
+     0.5 |  3606
+     0.6 |  6785
+     0.7 |  4995
+     0.8 |  3508
+     0.9 |  2606
+     1.0 |  4131
+     1.1 |  3915
+     1.2 |  4175
+     1.3 |  3743
+     1.4 |  2628
+     1.5 |  3339
+     1.6 |  3707
+     1.7 |  3283
+     1.8 |  2527
+     1.9 |   546
+     2.0 |  3429
+(16 rows)
+
+with base as (
+select
+      q.property_id
+    , q.apt_name as qapt_name
+    , s.raw_apt_name as sapt_name
+    , q.address_line1 as qaddress
+    , s.raw_address as saddress
+    , q.zip as qzip
+    , s.zip as szip
+    , m.address_similarity
+    , m.apt_name_similarity
+    , (apt_name_similarity + address_similarity)::numeric(2,1) as total_score
+    , row_number() over (partition by q.property_id) as the_row
+ from sqlserver_table q
+inner join mapping_table m
+   on m.property_id=q.property_id
+inner join snowflake_table s 
+   on s.address_hash = m.address_hash
+),  ranked_scores as (
+ select 
+      total_score as score
+    , qapt_name as sql_server_apt
+    , qaddress as sql_server_address
+
+    , sapt_name as snowflake_apt
+    , saddress as snowflake_address
+
+    , row_number() over (partition by total_score order by random()) as score_sample
+ from base
+where the_row = 1
+
+) 
+select * from ranked_scores
+where score_sample < 5
+order by score;
+ score |           sql_server_apt           |     sql_server_address      |                    snowflake_apt                    |               snowflake_address               | score_sample 
+-------+------------------------------------+-----------------------------+-----------------------------------------------------+-----------------------------------------------+--------------
+   0.5 | GREYSTONE VISTA                    | 2111 GREYSTONE VISTA WAY    | Greystone Pointe                                    | 10905 Hawkes Bay Way, Knoxville, TN 37932     |            1
+   0.5 | SUNRISE SHREWSBURY                 | 696 BROAD ST                | 905 Broad St                                        | Shrewsbury, NJ 07702                          |            2
+   0.5 | VILLAGE PARK                       | 3214 NORTHEAST 62ND AVENUE  | Carriage Park                                       | 5000 NE 72nd Ave, Vancouver, WA 98661         |            3
+   0.5 | 3223 WILSHIRE BOULEVARD            | 3223 WILSHIRE BOULEVARD     | 2 br, 2 bath Condo - 2300 WILSHIRE # 304 Unit # 304 | 2300 Wilshire Blvd, Santa Monica, CA 90403    |            4
+   0.6 | HARRISON HAVEN                     | 3338 HARRISON ST            | Tivoli Heights Village                              | 3180 Harrison St, Kingman, AZ 86401           |            1
+   0.6 | VILLAGE PLACE                      | 720 NE 4TH AVENUE           | EON at Flagler Village                              | 611 NE 5th Ave, Fort Lauderdale, FL 33304     |            2
+   0.6 | 21017-21027 EAST CIENEGA AVE       | 21017-21027 E CIENEGA AVE   | East Ciengea                                        | 19553 E Cienaga Ave, Covina, CA 91724         |            3
+   0.6 | ATRIUM                             | 1079 COMMONWEALTH AVENUE    | 1056 Commonwealth Avenue Unit 10                    | Boston, MA 02215                              |            4
+   0.7 | MARIPOSA PARK CO                   | 1052 SOUTH MARIPOSA AVENUE  | 1243 S Mariposa Avenue                              | 1243 S Mariposa Ave, Los Angeles, CA 90006    |            1
+   0.7 | TRUCKEE PINES                      | 10100 ESTATES DRIVE         | Truckee Donner Congregate Apartments                | 10020 Estates Dr, Truckee, CA 96161           |            2
+   0.7 | VALLEY PIKE MANOR                  | 1029 FRANKLIN STREET        | 1029 Franklin St                                    | Johnstown, PA 15905                           |            3
+   0.7 | BELMONT BY RESIDE FLATS            | 425 WEST BELMONT AVENUE     | 721 W. Belmont                                      | 721 W Belmont Ave, Chicago, IL 60657          |            4
+   0.8 | RIVERWALK                          | 1601 VALLEY VIEW DRIVE      | 1601 Valley View Dr                                 | College Station, TX 77840                     |            1
+   0.8 | CANDLELIGHT TERRACE                | 1717 WEST CAPITOL STREET    | The Catalina                                        | 1717 W Capitol St, Jackson, MS 39209          |            2
+   0.8 | WILLISTON I & II                   | 2610 24TH AVE W             | Williston Estates                                   | 1541 19th Ave W, Williston, ND 58801          |            3
+   0.8 | LORRAINE MANOR                     | 29079 LORRAINE AVENUE       | 3 br, 2.5 bath House - 29046 Lorraine Ave           | 29046 Lorraine Ave, Warren, MI 48093          |            4
+   0.9 | 440 WEST 34TH STREET               | 440 WEST 34TH STREET        | 360 West 34th Street Unit 3-Y                       | 360 W 34th St, New York, NY 10001             |            1
+   0.9 | T&E                                | 1011 WEST MARSHALL STREET   | T&E Apartments                                      | 1011 W Marshall St, Richmond, VA 23220        |            2
+   0.9 | KINGS WAY                          | 1 LORE DRIVE                | Kingsway Apartments                                 | 1 Lore Dr, Swedesboro, NJ 08085               |            3
+   0.9 | SHADOW OAK                         | 201 16TH COURT NORTHWEST    | Shadow Oak Apartments                               | 201 16th Ct NW, Fayette, AL 35555             |            4
+   1.0 | DEERFIELD                          | 715 WEST MILES AVENUE       | Deerfield Apartments                                | 715 Miles Ave, Wiggins, MS 39577              |            1
+   1.0 | CENTURY MILLENIA                   | 5100 MILLENIA BLVD          | Place on Millenia                                   | 5215 Millenia Blvd, Orlando, FL 32839         |            2
+   1.0 | SUNSET OAKS                        | 3550 TIMBERGLEN RD          | Overlook Ranch*                                     | 3550 Timberglen Rd, Dallas, TX 75287          |            3
+   1.0 | ROYAL OAKS                         | 3101 NORTH 8TH STREET       | Royal Oaks Apartments                               | 3101 N 8th St, McAllen, TX 78501              |            4
+   1.1 | TIERRA DEL VISTA                   | 16530 WEST PALMER AVENUE    | Tierra Del Vista Apartments                         | 16510 Palmer Ave, Huron, CA 93234             |            1
+   1.1 | REDBROOK                           | 220 WAREHAM ROAD            | Redbrook Apartments                                 | 220 Wareham Rd, Plymouth, MA 02360            |            2
+   1.1 | LEXINGTON VILLAGE APARTMENTS       | 8333 LEXINGTON PLACE        | Lexington Village                                   | 8720 Lexington Pl, Pleasant Prairie, WI 53158 |            3
+   1.1 | PARSON THORNE                      | 505 NORTHWEST FRONT STREET  | Parson Thorne Apartments                            | 505 NW Front St, Milford, DE 19963            |            4
+   1.2 | VILLAS AT WATERS EDGE              | 2019 31ST AVENUE WEST       | The Villas at Water's Edge - 55+                    | 2019 31st Ave W, Bradenton, FL 34205          |            1
+   1.2 | ASPEN VILLAGE                      | 3010 11TH AVENUE SOUTH      | Aspen Village Apartments                            | 3010 11th Ave S, Great Falls, MT 59405        |            2
+   1.2 | SANDHILL MANOR                     | 801 HARKEY ROAD             | Sandhill Manor Apartments                           | 801 Harkey Rd, Sanford, NC 27330              |            3
+   1.2 | MENLO MANOR                        | 13720 SW 6TH ST             | Menlo Manor Apartments                              | 13720 SW Sixth St, Beaverton, OR 97005        |            4
+   1.3 | WEST VIEW PARK                     | 2600 DECOTO ROAD            | West View Park Apartments                           | 2600 Decoto Rd, Union City, CA 94587          |            1
+   1.3 | ELK RIVERVIEW TERRACE              | 202 SOUTH MAIN STREET       | Elk Riverview Terrace                               | 1 S Main St, Webster Springs, WV 26288        |            2
+   1.3 | LARPENTEUR MANOR                   | 1740 LARPENTEUR AVENUE WEST | Larpenteur Manor Apartments                         | 1740 Larpenteur Ave W, Saint Paul, MN 55113   |            3
+   1.3 | EDGEWATER PARK                     | 118 MOCKINGBIRD LANE        | Edgewater Park Apartments                           | 118 Mockingbird Ln, Edgewater, FL 32132       |            4
+   1.4 | RUMELY LOFTS                       | 104 SOUTHWEST 4TH STREET    | Rumely Lofts                                        | 104 SW 4th St, Des Moines, IA 50309           |            1
+   1.4 | PARKSIDE SENIOR VILLAGE - HARTFORD | 325 PARK AVENUE             | Parkside Senior Village                             | 325 Park Ave, Hartford, WI 53027              |            2
+   1.4 | EXECUTIVE HOUSE                    | 6650 HAYVENHURST AVENUE     | Executive House Apartments                          | 6650 Hayvenhurst Ave, Van Nuys, CA 91406      |            3
+   1.4 | VILLAGIO                           | 19053 NORDHOFF STREET       | The Villagio                                        | 19053 Nordhoff St, Northridge, CA 91324       |            4
+   1.5 | LOGAN PLACE II                     | 1008 HAYDEN PLACE           | Logan Place                                         | 1008 Hayden Pl, Logan, OH 43138               |            1
+   1.5 | WOODMERE                           | W55N195 WOODMERE CT         | Woodmere Townhomes                                  | W55N195 Woodmere Ct, Cedarburg, WI 53012      |            2
+   1.5 | WINSLOW VILLAGE INC                | 1520 OCEAN STREET           | Winslow Village                                     | 1520 Ocean St, Marshfield, MA 02050           |            3
+   1.5 | MAYFLOWER                          | 335 EAST RIDGEWOOD AVENUE   | Mayflower                                           | 311 Ridgewood Ave, Ridgewood, NJ 07450        |            4
+   1.6 | HAMPTON PARK                       | 12320 SW 72ND AVE           | Hampton Park Apartments                             | 12320 SW 72nd Ave, Tigard, OR 97223           |            1
+   1.6 | UNIVERSITY VILLAGE OF MELBOURNE    | 3502 D'AVINCI WAY           | University Village                                  | 3502 D'Avinci Way, Melbourne, FL 32901        |            2
+   1.6 | VALLEY MANOR                       | 815 NORTH BAKER AVENUE      | Valley Manor                                        | 815 N Baker Ave, East Wenatchee, WA 98802     |            3
+   1.6 | MANOR                              | 402 NORTH CATAWBA STREET    | Manor                                               | 402 N Catawba St, Lancaster, SC 29720         |            4
+   1.7 | WATER'S BEND                       | 350 SYCAMORE LANE           | Water's Bend                                        | 350 Sycamore Ln, South Lebanon, OH 45065      |            1
+   1.7 | QUEENSWOOD                         | 54-39 100TH STREET          | Queenswood                                          | 54-39 100th St, Corona, NY 11368              |            2
+   1.7 | HUMBOLDT VILLAGE ANNEX             | 601 S BRIDGE ST             | Humboldt Village Annex Apartments                   | 601 S Bridge St, Winnemucca, NV 89445         |            3
+   1.7 | MOUNT ROYAL MANOR                  | 100 ELIZABETH STREET        | Mount Royal Manor                                   | 100 Elizabeth St, Duluth, MN 55803            |            4
+   1.8 | BELL OLMSTED PARK                  | 161 SOUTH HUNTINGTON AVE    | Bell Olmsted Park                                   | 161 S Huntington Ave, Boston, MA 02130        |            1
+   1.8 | CITRON COURT                       | 7383 BROADWAY               | Citron Court                                        | 7383 Broadway Ave, Lemon Grove, CA 91945      |            2
+   1.8 | AVIANA AT TUSCANY                  | 7000 MAE ANNE AVENUE        | Aviana at Tuscany                                   | 7000 Mae Anne Ave, Reno, NV 89523             |            3
+   1.8 | TERRA SYLVAN                       | 101 TERRA SYLVAN LANE       | Terra Sylvan                                        | 101 Terra Sylvan Ln, Bellefonte, PA 16823     |            4
+   1.9 | BAY BREEZE                         | 800 AVENUE F                | Bay Breeze                                          | 800 Avenue F N, Bay City, TX 77414            |            1
+   1.9 | OVERLOOK AT HUNTCREST              | 1455 SATELLITE BLVD         | Overlook At Huntcrest                               | 1455 Satellite Blvd NW, Suwanee, GA 30024     |            2
+   1.9 | NEXA                               | 1221 E APACHE BLVD          | Nexa                                                | 1205-1221 E Apache Blvd, Tempe, AZ 85281      |            3
+   1.9 | ROSEWOOD ESTATES I                 | 549 NC HWY 410              | Rosewood Estates II                                 | 549 Nc Hwy 410, Bladenboro, NC 28320          |            4
+   2.0 | ROCK CREEK AT BALLANTYNE COMMONS   | 7810 SPINDLETOP PL          | Rock Creek at Ballantyne Commons                    | 7810 Spindletop Pl, Charlotte, NC 28277       |            1
+   2.0 | ABQ ENCORE                         | 810 EUBANK BLVD NE          | ABQ Encore                                          | 810 Eubank Blvd NE, Albuquerque, NM 87123     |            2
+   2.0 | PALOMA SUMMIT                      | 26371 PALOMA                | Paloma Summit                                       | 26371 Paloma, Foothill Ranch, CA 92610        |            3
+   2.0 | WOODCREEK                          | 20347 NE HALSEY ST          | Woodcreek                                           | 20347 NE Halsey St, Fairview, OR 97024        |            4
+(64 rows)
+
