@@ -169,6 +169,8 @@ def load_config():
         'snowflake_table': os.getenv("SNOWFLAKE_TABLE"),
         'sqlserver_table': os.getenv("SQLSERVER_TABLE"),
         'mapping_table': os.getenv("MAPPING_TABLE"),
+        'snowflake_file': os.getenv("SNOWFLAKE_FILE"),
+        'sqlserver_file': os.getenv("SQLSERVER_FILE"),
     }
 
     # All values are required...
@@ -209,7 +211,7 @@ def main():
             db_conn=db_conn,
             snowflake_table=config['snowflake_table'])
 
-        process_snowflake_file(filepath="../data/snowflake_table.txt",
+        process_snowflake_file(filepath=config['snowflake_file'],
                                snowflake_writer=snowflake_writer)
 
     elif arg_object.do_sqlserver:
@@ -218,7 +220,7 @@ def main():
             db_conn=db_conn,
             sqlserver_table=config['sqlserver_table'])
 
-        process_sqlserver_file(filepath="../data/sqlserver_table.txt",
+        process_sqlserver_file(filepath=config['sqlserver_file'],
                                sqlserver_writer=sqlserver_writer)
     elif arg_object.do_merge:
         db_conn.execute(f"truncate table {config['mapping_table']}")
