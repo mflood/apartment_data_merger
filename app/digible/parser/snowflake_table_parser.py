@@ -12,7 +12,8 @@ class SnowflakeTableParser():
     def __init__(self):
         self._logger = logging.getLogger(LOGNAME)
         self._city_only_regex = re.compile("([^,]*), ([A-Z][A-Z]) (\d+)")
-        self._street_regex = re.compile("([-0-9]+) ([^,]+)")
+        self._street_and_city_regex = re.compile("(.+), ([^,]*), ([A-Z][A-Z]) (\d+)")
+        self._street_regex = re.compile("([-0-9]+[a-zA-Z]?) ([^,]+)")
 
     def make_id(self, apt_name, address):
         """
@@ -50,7 +51,6 @@ class SnowflakeTableParser():
         city_only_match = self._city_only_regex.match(address)
         if city_only_match:
             return_dict = {
-                "address_type": 2,
                 "address_line1": "",
                 "city": city_only_match.groups()[0],
                 "state": city_only_match.groups()[1],
@@ -58,13 +58,31 @@ class SnowflakeTableParser():
             }
 
             if self._street_regex.match(apt_name):
+                return_dict['apt_name'] = ""
                 return_dict["address_line1"] = apt_name
-                return_dict["address_type"] = 1
                 #print(f"Address: {apt_name}")
 
             return return_dict
-        else:
-            return None
+            
+        street_and_city_match = self._street_and_city_regex.match(address)
+        if street_and_city_match:
+            return_dict = {
+                "address_line1": street_and_city_match.groups()[0],
+                "city": street_and_city_match.groups()[1],
+                "state": street_and_city_match.groups()[2],
+                "zipcode": street_and_city_match.groups()[3].zfill(5),
+            }
+
+            return return_dict
+
+        if self._street_regex.match(address):
+            return_dict = {
+                "address_line1": address,
+            }
+            return return_dict
+            
+            
+        return None
 
     def convert_string_to_date(self, datestring):
         """
@@ -102,6 +120,12 @@ class SnowflakeTableParser():
             "30741": "GA",
             "48091": "MI",
             "97846": "OR",
+            "88310": "NM",
+            "38079": "TN",
+            "42223": "KY",
+            "60408": "IL",
+            "72072": "AR",
+            "77404": "TX",
         }
         return ZIPCODE_STATES.get(zipcode, state)
 
@@ -119,7 +143,6 @@ class SnowflakeTableParser():
         zip_five = linedict['ZIP'].zfill(5).strip()
 
         fixed_state = self._fix_state(state=upper_state, zipcode=zip_five)
-
         address_hash = self.make_id(apt_name=upper_apt_name,
                                     address=upper_address)
 
@@ -133,10 +156,12 @@ class SnowflakeTableParser():
         fixed_address = "" 
         parts = self.convert_address_to_parts(apt_name=upper_apt_name, address=upper_address)
         if parts:
-            city_part = parts["city"]
-            state_part = parts["state"]
-            zip_part = parts["zipcode"]
-            fixed_address = parts["address_line1"]
+
+            city_part = parts.get("city", upper_city)
+            state_part = parts.get("state", upper_state)
+            zip_part = parts.get("zipcode", zip_five)
+            fixed_address = parts.get("address_line1", upper_address)
+            upper_apt_name = parts.get("apt_name", upper_apt_name)
 
             if valid_address_parts and city_part == upper_city and state_part == fixed_state and zip_part == zip_five:
                 pass
@@ -146,12 +171,15 @@ class SnowflakeTableParser():
                 #print(f"ALTERNAME: {city_part} <=> {upper_city}")
                 pass
             else:
-                print("failed")
-                print(linedict)
-                print(f"'{city_part}' != '{upper_city}'")
-                print(f"'{state_part}' != '{fixed_state}'")
-                print(f"'{zip_part}' != '{zip_five}'")
+                #print("failed")
+                #print(linedict)
+                #print(f"'{city_part}' != '{upper_city}'")
+                #print(f"'{state_part}' != '{fixed_state}'")
+                #print(f"'{zip_part}' != '{zip_five}'")
+                pass
 
+        else:
+            print(f"FAILED PARTS - APT NAME: {upper_apt_name} ADDRESS: {upper_address}")
 
         # if available_units is empty, make it None
         try:
