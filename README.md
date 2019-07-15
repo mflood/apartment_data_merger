@@ -19,7 +19,7 @@ cd app/
 
 ### Set up Postgres database
 
-> See schema/README.md
+> See [schema/README.md](schema/README.md)
 
 ### Set config values
 
