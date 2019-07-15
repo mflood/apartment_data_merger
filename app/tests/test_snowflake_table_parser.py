@@ -33,7 +33,7 @@ def test_parse_line(snowflake_parser):
         "raw_city": "Omaha",
         "raw_state": "NE",
         "apt_name": "CLUB AT HIGHLAND PARK",
-        "address": "",
+        "address": "11402 EVANS ST",
         "city": "OMAHA",
         "state": "NE",
         "zip": "68164",
