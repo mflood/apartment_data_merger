@@ -49,6 +49,16 @@ export SNOWFLAKE_FILE=../data/snowflake_table_sample.txt
 export SQLSERVER_FILE=../data/sqlserver_table_sample.txt
 ```
 
+#### Creating sample files
+
+```
+head -n 1000 data/snowflake_table.txt > data/snowflake_table_sample.txt
+tail -n 1000 data/snowflake_table.txt >> data/snowflake_table_sample.txt
+
+head -n 1000 data/sqlserver_table.txt > data/sqlserver_table_sample.txt
+tail -n 1000 data/sqlserver_table.txt >> data/sqlserver_table_sample.txt
+```
+
 ### Run the app
 
 ```
