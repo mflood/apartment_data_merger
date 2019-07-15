@@ -1,12 +1,24 @@
+"""
+    driver.py
+
+    load config / parse args
+    and then perform one of the following:
+
+    snowflake: parse snowflake_table.txt and load table
+    sqlserver: parse sqlserver_table.txt and load table
+    merge: create the mapping table
+"""
+
 import argparse
 import logging
 import os
 import sys
-import digible.loggingsetup as loggingsetup
+from digible import loggingsetup
 from digible.writer.pg_conn import PgConn
 from digible.writer.buffered_writer import BufferedWriter
 from digible.parser.snowflake_table_parser import SnowflakeTableParser
 from digible.parser.sqlserver_table_parser import SqlServerTableParser
+from digible.merger import Merger
 
 def parse_args(argv=None):
     """
@@ -47,7 +59,12 @@ def parse_args(argv=None):
     results = parser.parse_args(argv)
     return results
 
+
 def build_db_conn(host, port, database, username, password):
+    """
+        Create a Db Connection object,
+        in this case a Postgres PgConn
+    """
     postgres = PgConn(host=host,
                       port=port,
                       database=database,
@@ -58,6 +75,10 @@ def build_db_conn(host, port, database, username, password):
 
 
 def build_snowflake_buffered_writer(db_conn, snowflake_table):
+    """
+        Utiliy method for creating and configuring
+        a buffered writer for snowflake table
+    """
     writer = BufferedWriter(db_conn=db_conn,
                             fq_output_table=snowflake_table)
 
@@ -67,7 +88,12 @@ def build_snowflake_buffered_writer(db_conn, snowflake_table):
 
     return writer
 
+
 def build_sqlserver_buffered_writer(db_conn, sqlserver_table):
+    """
+        Utiliy method for creating and configuring
+        a buffered writer for sqlserver table
+    """
     writer = BufferedWriter(db_conn=db_conn,
                             fq_output_table=sqlserver_table)
 
@@ -127,8 +153,13 @@ def process_sqlserver_file(filepath, sqlserver_writer):
 
     sqlserver_writer.run_inserts()
 
+
 def load_config():
-     
+    """
+        Return a config dict of al the config
+        variables we need.
+    """
+
     config = {
         'postgres_host': os.getenv("POSTGRES_HOST"),
         'postgres_port': os.getenv("POSTGRES_PORT"),
@@ -137,9 +168,10 @@ def load_config():
         'postgres_password': os.getenv("POSTGRES_PASSWORD"),
         'snowflake_table': os.getenv("SNOWFLAKE_TABLE"),
         'sqlserver_table': os.getenv("SQLSERVER_TABLE"),
+        'mapping_table': os.getenv("MAPPING_TABLE"),
     }
 
-
+    # All values are required...
     for key, value in config.items():
         if not value:
             logging.getLogger(loggingsetup.LOGNAME).error("env var %s is not set", key)
@@ -149,8 +181,9 @@ def load_config():
 
 
 def main():
-
-    import logging
+    """
+        Args / Config / invoke
+    """
 
     arg_object = parse_args()
 
@@ -166,28 +199,37 @@ def main():
                             database=config["postgres_database"],
                             username=config["postgres_username"],
                             password=config["postgres_password"])
-    
+
     if arg_object.dry_run:
         db_conn.set_dry_run(True)
-    
+
     if arg_object.do_snowflake:
         db_conn.execute(f"truncate table {config['snowflake_table']}")
-        snowflake_writer = build_snowflake_buffered_writer(db_conn=db_conn,
-                                                           snowflake_table=config['snowflake_table'])
+        snowflake_writer = build_snowflake_buffered_writer(
+            db_conn=db_conn,
+            snowflake_table=config['snowflake_table'])
 
         process_snowflake_file(filepath="../data/snowflake_table.txt",
                                snowflake_writer=snowflake_writer)
 
     elif arg_object.do_sqlserver:
         db_conn.execute(f"truncate table {config['sqlserver_table']}")
-        sqlserver_writer = build_sqlserver_buffered_writer(db_conn=db_conn,
-                                                           sqlserver_table=config['sqlserver_table'])
+        sqlserver_writer = build_sqlserver_buffered_writer(
+            db_conn=db_conn,
+            sqlserver_table=config['sqlserver_table'])
 
         process_sqlserver_file(filepath="../data/sqlserver_table.txt",
                                sqlserver_writer=sqlserver_writer)
     elif arg_object.do_merge:
-        pass
+        db_conn.execute(f"truncate table {config['mapping_table']}")
+        merger = Merger(db_conn=db_conn,
+                        snowflake_table=config['snowflake_table'],
+                        sqlserver_table=config['sqlserver_table'],
+                        mapping_table=config['mapping_table'])
+        merger.run_batches()
 
 
 if __name__ == "__main__":
-    main()    
+    main()
+
+# end
