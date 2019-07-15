@@ -1,17 +1,23 @@
+"""
+    sqlserver_table_parser.py
 
-from datetime import datetime
-
+    defines SqlServerTableParser
+"""
 import logging
 import hashlib
 import csv
 from digible.loggingsetup import LOGNAME
 
 class SqlServerTableParser():
+    """
+        Parses SQLServer file
+        and loads into database
+    """
 
     def __init__(self):
         self._logger = logging.getLogger(LOGNAME)
 
-    def make_id(self, apt_name, address):
+    def make_id(self, apt_name, address): # pylint: disable=no-self-use
         """
             Create hash id from apt_name and address
         """
@@ -19,7 +25,7 @@ class SqlServerTableParser():
         md5sum = hashlib.md5(concat.encode('utf8')).digest()
         return md5sum
 
-    def process_line(self, linedict):
+    def process_line(self, linedict): # pylint: disable=no-self-use
         """
             Given an OrderedDict from csvReader
             return a new dict with the processed data
@@ -57,4 +63,3 @@ class SqlServerTableParser():
         self._logger.info("Processed %d items from %s", count, filepath)
 
 # end
-

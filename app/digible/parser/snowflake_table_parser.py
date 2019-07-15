@@ -1,4 +1,8 @@
+"""
+    snowflake_table_parser.py
 
+    defines SnowflakeTableParser
+"""
 from datetime import datetime
 
 import logging
@@ -7,15 +11,42 @@ import csv
 import re
 from digible.loggingsetup import LOGNAME
 
+
+# used to patch states
+ZIPCODE_STATES = {
+    "99362": "WA",
+    "52761": "IA",
+    "10004": "NY",
+    "97913": "OR",
+    "79922": "TX",
+    "89439": "NV",
+    "56129": "MN",
+    "82082": "WY",
+    "38063": "TN",
+    "30741": "GA",
+    "48091": "MI",
+    "97846": "OR",
+    "88310": "NM",
+    "38079": "TN",
+    "42223": "KY",
+    "60408": "IL",
+    "72072": "AR",
+    "77404": "TX",
+}
+
 class SnowflakeTableParser():
+    """
+        Parses snowflake_table.txt
+        and loads database table
+    """
 
     def __init__(self):
         self._logger = logging.getLogger(LOGNAME)
-        self._city_only_regex = re.compile("([^,]*), ([A-Z][A-Z]) (\d+)")
-        self._street_and_city_regex = re.compile("(.+), ([^,]*), ([A-Z][A-Z]) (\d+)")
-        self._street_regex = re.compile("([-0-9]+[a-zA-Z]?) ([^,]+)")
+        self._city_only_regex = re.compile(r"([^,]*), ([A-Z][A-Z]) (\d+)")
+        self._street_and_city_regex = re.compile(r"(.+), ([^,]*), ([A-Z][A-Z]) (\d+)")
+        self._street_regex = re.compile(r"([-0-9]+[a-zA-Z]?) ([^,]+)")
 
-    def make_id(self, apt_name, address):
+    def make_id(self, apt_name, address): # pylint: disable=no-self-use
         """
             Create hash id from apt_name and address
         """
@@ -23,12 +54,12 @@ class SnowflakeTableParser():
         md5sum = hashlib.md5(concat.encode('utf8')).digest()
         return md5sum
 
-    def verify_address_parts(self, address, city, state, zipcode):
+    def verify_address_parts(self, address, city, state, zipcode): # pylint: disable=no-self-use
         """
             given this address:
             660 The Village, Redondo Beach, CA 90277
-            
-            We expect: 
+
+            We expect:
                 'zip': '90277'
                 'city': ' REDONDO BEACH'
                 'state': 'CA'
@@ -39,14 +70,19 @@ class SnowflakeTableParser():
         try:
             assert address.upper().endswith(expected_ending.upper())
             return 1
-        except AssertionError as error:
+        except AssertionError:
             #self._logger.warning("Failed address validation: '{}' ({}, {} {})".format(
             #    address, city, state, zipcode))
             return 0
-            
+
     def convert_address_to_parts(self, apt_name, address):
         """
+            looks at apt_name and address
+            to determine
+            apt_name, address_line1, city, state, zipcode
 
+            returns a dict.  If it can't determine
+            a field, it omits it from the dict
         """
         city_only_match = self._city_only_regex.match(address)
         if city_only_match:
@@ -63,7 +99,7 @@ class SnowflakeTableParser():
                 #print(f"Address: {apt_name}")
 
             return return_dict
-            
+
         street_and_city_match = self._street_and_city_regex.match(address)
         if street_and_city_match:
             return_dict = {
@@ -80,11 +116,11 @@ class SnowflakeTableParser():
                 "address_line1": address,
             }
             return return_dict
-            
-            
+
+
         return None
 
-    def convert_string_to_date(self, datestring):
+    def convert_string_to_date(self, datestring): # pylint: disable=no-self-use
         """
             given a date string like '2019-06-21 22:13:10.652224'
             return a datetime object
@@ -93,7 +129,7 @@ class SnowflakeTableParser():
         return datetime_object
 
 
-    def _strip_values(self, linedict):
+    def _strip_values(self, linedict): # pylint: disable=no-self-use
         """
             Strips and upper-cases address
             components.
@@ -102,31 +138,10 @@ class SnowflakeTableParser():
         for key, value in linedict.items():
             linedict[key] = value.strip()
 
-    def _fix_state(self, state, zipcode):
+    def _fix_state(self, state, zipcode): # pylint: disable=no-self-use
         """
             There are some border towns...
         """
-        ZIPCODE_STATES = {
-            "99362": "WA",
-            "52761": "IA",
-            "10004": "NY",
-            "97913": "OR",
-            "79922": "TX",
-            "89439": "NV",
-            "56129": "MN",
-            "82082": "WY",
-            "30741": "GA",
-            "38063": "TN",
-            "30741": "GA",
-            "48091": "MI",
-            "97846": "OR",
-            "88310": "NM",
-            "38079": "TN",
-            "42223": "KY",
-            "60408": "IL",
-            "72072": "AR",
-            "77404": "TX",
-        }
         return ZIPCODE_STATES.get(zipcode, state)
 
     def process_line(self, linedict):
@@ -149,11 +164,11 @@ class SnowflakeTableParser():
         date_object = self.convert_string_to_date(datestring=linedict['DATE'])
 
         valid_address_parts = self.verify_address_parts(address=upper_address,
-                                                        city=upper_city, 
+                                                        city=upper_city,
                                                         state=fixed_state,
                                                         zipcode=zip_five)
 
-        fixed_address = "" 
+        fixed_address = ""
         parts = self.convert_address_to_parts(apt_name=upper_apt_name, address=upper_address)
         if parts:
 
@@ -163,14 +178,30 @@ class SnowflakeTableParser():
             fixed_address = parts.get("address_line1", upper_address)
             upper_apt_name = parts.get("apt_name", upper_apt_name)
 
-            if valid_address_parts and city_part == upper_city and state_part == fixed_state and zip_part == zip_five:
+            if (valid_address_parts
+                    and city_part == upper_city
+                    and state_part == fixed_state
+                    and zip_part == zip_five):
+                # everything matches
                 pass
-            elif valid_address_parts and city_part.endswith(upper_city) and state_part == fixed_state and zip_part == zip_five:
+            elif (valid_address_parts
+                  and city_part.endswith(upper_city)
+                  and state_part == fixed_state
+                  and zip_part == zip_five):
+                # address has a more complete city name
+                # than city "NEW HAVEN" vs "HAVEN"
                 valid_address_parts = 0
-            elif not valid_address_parts and city_part != upper_city and state_part == fixed_state and zip_part == zip_five:
-                #print(f"ALTERNAME: {city_part} <=> {upper_city}")
+            elif (not valid_address_parts
+                  and city_part != upper_city
+                  and state_part == fixed_state
+                  and zip_part == zip_five):
+                # print(f"ALTERNAME: {city_part} <=> {upper_city}")
+                # when valid_address_parts is false,
+                # we expect only the city to be different
                 pass
             else:
+                # These are cases that are not being
+                # specifically handled yet
                 #print("failed")
                 #print(linedict)
                 #print(f"'{city_part}' != '{upper_city}'")
@@ -184,7 +215,7 @@ class SnowflakeTableParser():
         # if available_units is empty, make it None
         try:
             available_units = float(linedict['AVAILABLE_UNITS'])
-        except:
+        except ValueError:
             available_units = None
 
         return_dict = {
@@ -226,4 +257,3 @@ class SnowflakeTableParser():
         self._logger.info("Processed %d items from %s", count, filepath)
 
 # end
-
