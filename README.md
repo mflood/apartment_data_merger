@@ -2,6 +2,8 @@
 
 ## Download Data
 
+> After downloading, move *snowflake_table.txt* and *sqlserver_table.txt* to *data/* directory
+
 > [https://console.cloud.google.com/storage/browser/data_engineer_assessment](https://console.cloud.google.com/storage/browser/data_engineer_assessment)
 
 ## Initial Setup
