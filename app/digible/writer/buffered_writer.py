@@ -1,14 +1,13 @@
 """
    buffered_writer.py
 
-   Writes records to  table
+   Writes records to table
+   in batches
+
 """
-import os
 import logging
 import queue
 # pylint: disable=import-error
-import pymysql
-import pymysql.cursors
 from digible.loggingsetup import LOGNAME
 
 class BufferedWriterException(Exception):
@@ -155,7 +154,8 @@ class BufferedWriter():
                     param_list.extend(arg_list)
                 except KeyError as error:
 
-                    message = f"{self._fq_output_table} output field {error} is not in output_record: {output_record.keys()}"
+                    message = f"{self._fq_output_table} output field {error}"
+                    message += f" is not in output_record: {output_record.keys()}"
                     self._logger.error(message)
                     self._logger.error("Configured Fields: %s", field_list)
                     self._logger.error("Row being processed: %s", output_record.keys())
@@ -178,3 +178,4 @@ class BufferedWriter():
         self._db_conn.execute(sql, param_list)
         self._db_conn.execute("commit")
 
+# end
