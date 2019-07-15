@@ -1,0 +1,2000 @@
+propertyId¤aptName¤addressCity¤addressLine1¤addressLine2¤addressState¤addressZip
+0039aebc-bfc3-4104-b335-8550a6818083¤Idlewood Terrace¤Odessa¤3409 Brentwood Drive¤¤TX¤79761
+0003625e-f743-4694-b108-0f450d48b5f8¤Oak Hill¤Indianapolis¤5229 Old Fairgrounds Drive¤¤IN¤46226
+00654aba-bfed-44b5-9c13-ccfa93a4e28a¤White River Estates¤Hesperia¤23-65 S Winter St¤¤MI¤49421
+0091e21c-7597-4f6f-ab56-7d256bfb3cf5¤Saxony Townhomes¤Hammond¤1349 175th Street¤¤IN¤46324
+00785cd0-e43b-4a75-a214-14ddfb10cc73¤Stoneridge West¤Cincinnati¤2811-2815 Queen City Avenue¤¤OH¤45238
+0093f9f6-cffd-4145-a680-89a929a45ef9¤Stoneridge East¤Cincinnati¤2767-2771 Queen City Avenue¤¤OH¤45238
+014945a7-8b8f-4a30-b2d0-fdc63b79cc49¤Monaco¤Salt Lake City¤4115 South 430 East¤¤UT¤84107
+00da8697-2c7c-48fe-a653-5ee895d74a64¤Antelope Ridge¤Colorado Springs¤4001 Gray Fox Heights¤¤CO¤80922
+0075a9ec-3d77-4ef3-82e7-5df0ca7f2f92¤Schroeder Lofts¤Jersey City¤234 10th Street¤¤NJ¤07302
+018f00e6-0f2c-4321-8aa0-9405492e6095¤George Street Suplex¤Marshfield¤976 Cedarbrook Dr.¤¤MO¤65706
+00ff98a2-1caa-4319-8eaf-cf4e0195e10c¤B&B Holdings¤Corsicana¤533 Forest Lane¤¤TX¤75110
+00e786d4-6c7e-400b-889e-0521ff3fab84¤Cameron Park Village¤Shingle Springs¤3433 Palmer Dr¤¤CA¤95682
+01b4d1c6-79df-4840-bae7-7d98373f4207¤Courtyards at Estero¤Estero¤10445 Corkscrew Commons Dr¤¤FL¤33928
+011f30e4-80b3-4fa1-ab80-35252bb99a37¤Cottages at Seaside¤Pacifica¤1300 Palmetto Ave¤¤CA¤94044
+00eb6714-2b40-4551-baea-cf56a18a9183¤Beechmont Bluffs¤Cincinnati¤5460 Beechmont Ave.¤¤OH¤45230
+013bb2e2-dfb0-4aee-9fbc-3b6a5c4d9b5a¤Lofts at Franklin¤Richmond¤410 Hancock Street,¤#110¤VA¤23220
+017f073e-8014-4519-9a2c-8f30176f23f2¤Stoneridge at Mark Center¤Alexandria¤5797 Rayburn Avenue¤¤VA¤22311
+01e21226-6222-489e-af8d-f6c9106698be¤Court Gardens¤Boca Raton¤1200 NW 15th Court¤¤FL¤33486
+028bbb57-13f0-487a-a351-74dc802bb9b7¤Chelsea Village¤Albuquerque¤7100 Natalie Ave NE¤¤NM¤87108
+02a3e57b-e750-440c-8ca9-c5e785ef149c¤Avenues¤Raleigh¤2601 Noblewood Cir¤¤NC¤27604
+01ca29d2-8619-4680-9c07-8f5e293f7749¤Beacon Place¤Tuscaloosa¤4400 Beacon Place Pkwy¤¤AL¤35405
+023881b8-4589-49a9-b322-d5bd073cd7b2¤University North¤Denver¤1861 S University Blvd¤¤CO¤80210
+01430612-1f18-4158-8fa8-b1908b8a0bd0¤Cutler Vista¤Cutler Bay¤10376 SW 212th Street¤¤FL¤33189
+02d938f1-5b27-4332-b54b-310db79312ff¤Casa Mar - K2LW¤Lake Worth¤202 North K Street¤¤FL¤33460
+02ba15c9-2bc8-4d18-ab34-6c7dd0d92bee¤Villas¤Woodinville¤1625 NE 145th St¤¤WA¤98072
+0146b1ba-32fe-4137-aad2-2b40b9fb5020¤Retreat¤Williston¤3602 7th Street West¤¤ND¤58801
+02cbc809-d0c8-485b-9a2b-4a468fc4c769¤Bridgeway¤Chattanooga¤2415 Bridge Circle¤¤TN¤37421
+03764684-7268-4a1b-80a1-29eeaf22df2d¤Place at Presidio Trails¤Tucson¤9190 E Old Spanish Trail¤¤AZ¤85710
+04b5da4d-1fb7-43e0-949d-a185db6b4807¤Helena¤San Diego¤1655 9th Ave¤¤CA¤92101
+05bad6f1-8a8d-4059-a0ad-d153321661bd¤Capitol Places Lofts at Lourie's¤Columbia¤1601 Main Street¤¤SC¤29201
+03491baa-cd14-4adc-9793-c032ebeab3c2¤Summerside¤Cincinnati¤714-716 Old State Route 74¤¤OH¤45245
+036a307d-ca22-4cce-bec9-ac31bd297fa8¤Quaye at Palm Beach Gardens¤Palm Beach Gardens¤10000 S Gardens Dr¤¤FL¤33418
+018833db-eab6-44db-bc4e-4d478cd96ffb¤Eaves Washingtonian Center¤North Potomac¤15717 Winners Drive¤¤MD¤20878
+01c890e2-0d2e-4dd4-a25f-404b651440b0¤Boatfolk, LLC¤Spokane Valley¤10618 E Ferret Dr¤¤WA¤99206
+062c6ca5-7178-447f-bd56-67cf7e394659¤Creeks of Gladstone-Stone Creek¤Gladstone¤41 NE 60th Ter¤¤MO¤64118-4238
+021e40aa-82cc-4b09-9c33-7b2c815392c9¤Winston Villas¤Anaheim¤2533 Winston Rd¤¤CA¤92804
+07194f25-2384-4789-9f53-c237aafd85a9¤Palms¤Odessa¤613 Expressway¤¤TX¤79761
+07eb7842-80c6-49db-9b1a-aa4c53f1ff14¤Channelside¤Fort Myers¤15251 Ballast Point Dr¤#1311¤FL¤33908
+02834860-9e3a-496e-b1b6-b9b6d316114e¤Aspect¤Lone Tree¤10400 Park Meadows Dr¤¤CO¤80124
+04560cc8-6cea-493f-9e5b-2ea90d0273ae¤District¤Bothell¤17716 Bothell-Everett Highway¤¤WA¤98012
+051c5e9b-1cfe-497b-b7ab-fcc10e557542¤Fenner Garden¤Norfolk¤7433 Fenner Street¤¤VA¤23505
+089b033e-3ef3-419f-b6fc-2e09f5459279¤Wallasey¤Washington¤2426 19th Street NW¤¤DC¤20009
+08fba13a-8094-49ba-a4eb-32c4ccc99206¤Aventura at Mid Rivers¤St. Charles¤90 Molina Way¤¤MO¤63304
+055d5b2b-b208-4b56-b25b-8a497d7a7496¤Lofts at 1418¤Denver¤1418 Adams St.¤¤CO¤80206
+03e156ca-964a-45ee-a53a-1e97b7390eac¤Woodrow Wilson Commons¤Long Branch¤157 Garrett Road¤¤NJ¤07740
+05841ad4-4598-470c-a7fe-a82b25af5e83¤Waynedale¤Dayton¤4502 Waynedale Circle¤¤OH¤45424
+03f3b196-b694-440e-a88c-ced10438269b¤Urbane¤Redmond¤8296 160th Avenue NE¤¤WA¤98052
+08fecadc-fceb-4d13-b37c-9190e4d8ddd2¤Historic Rushton¤South Bend¤501 West Washington Street¤¤IN¤46601
+04a3a2f5-1c89-4f1c-a8f4-7fef7a0f64cf¤Granite Meadows¤Sandy¤PO Box 900451¤¤UT¤84090-0451
+07a43c99-a53c-45e2-9fed-ccbf42356b96¤Uptown at City Walk¤Saint Paul¤10300 City Walk Dr Unit 111¤¤MN¤55129-6932
+09445a68-5f20-4e91-917d-ff7ff535962e¤Buxton Place/The Citadel¤Cincinnati¤2225 Buxton Ave¤¤OH¤45212
+04ac5805-3098-42b0-bd4b-9fd615a9c196¤Waterlynn at Concord¤Concord¤7850 Waterway Drive¤¤NC¤28027
+0516ae38-3b3d-43ea-8d6f-a21714aa1746¤1 Lindley¤Hasbrouck Heights¤500 Route 17 South¤Suite 200¤NJ¤07604
+08324e71-9d0a-4e9d-a7c5-e1cf39ff43d4¤Stonegate¤Columbus¤634 31st Ave North¤¤MS¤39705
+09556299-f7f4-4c2f-8eb5-5fc81ef9b0f7¤Vivere - Riverstone Residentia¤Addison¤PO Box 9108¤¤TX¤75001-9108
+08db45bf-a655-43c1-92ce-a59663ae8ee6¤40 Bee Street Flats¤Charleston¤40 Bee St¤104¤SC¤29403
+059613a4-0df7-4dea-b5cf-5887de10028e¤Banner Lofts on 3rd¤Nashville¤162 3rd Ave North¤¤TN¤37201
+0a3ed1dc-f85e-4568-aac7-3aa94948ad25¤Carol Court¤Birmingham¤2920 10th Avenue South¤¤AL¤35205
+0944ef13-5720-4240-a3f0-e043602e8152¤Lark on Main¤Charlottesville¤1000 W Main Street¤¤VA¤22903
+0a587f54-dba6-49d1-9578-80b8f6e773c9¤606 Hoboken LLC¤Spring Lake¤513 Morris Ave¤¤NJ¤07762
+0afc625e-08ff-4ce5-8beb-af75dd4cf53d¤Valley & Bloom¤Montclair¤34 Valley Road¤¤NJ¤07042
+0b14ab76-94c2-4e09-8e11-6364a1f0df6c¤2348 N. Lister Ave.¤Chicago¤2348 N. Lister Ave.¤¤IL¤60614
+05b66c1c-3c05-4cef-824a-e6169435e177¤Centerpoint Gardens¤Birmingham¤121 21st Avenue NE¤¤AL¤35209
+06153678-80df-4f56-9e62-372b28a87ba5¤White Oak Manor & Schnute¤Evansville¤509 N St Joseph Ave¤¤IN¤47712
+0775d974-dabd-4daa-b246-d8a61fce30ec¤2213 N. Leavitt¤Chicago¤2213 N. Leavitt¤¤IL¤60647
+077b9e20-d842-45a3-aca8-7ef2e0ec1029¤Chatham Square¤Lafayette¤3619 Champlain Street¤¤IN¤47905
+09618c3e-ff6f-4a07-8d50-f955a61d7aaa¤Stonepost Crossing¤Overland Park¤12800 W 134th Street¤¤KS¤66213
+09c2f689-617a-4d33-8a63-21b88ed1ac31¤Pennington Place¤Rock Hill¤4231 Lotts Place¤¤SC¤29732
+09df7141-4c68-45a3-af57-14c16042355f¤Boulevard at Lakeside¤Midwest City¤11300 SE 15th St¤¤OK¤73130
+0a384bba-ecfb-46cd-898b-2a35c3adee0f¤Hudson Street¤Arlington¤1325 North Hudson Street¤¤VA¤22201
+0d2d9524-424d-4864-a982-72046ecbbd7c¤Willows Condos¤Bloomington¤1375 W Allen St¤¤IN¤47403
+09618c3e-ff6f-4a07-8d50-f955a61d7aaa¤Arium Overland Park¤Overland Park¤12800 W 134th Street¤¤KS¤66213
+0dbecad5-1bbd-4cab-96b0-34daa4bdd251¤Cypress Square¤Lafayette¤301 Ravenwood Ln¤#A¤IN¤47909
+0b1a04c6-8c59-46ce-8b71-ebee1886e913¤WP Chester Pike¤Norwood¤227 Chester Pike¤¤PA¤19074
+0a7a52d1-f224-4a05-b6c6-2aafa8beda56¤Factory 63¤Boston¤63 Melcher St¤¤MA¤02210-1528
+0bbca537-d7f2-4d3e-919c-83c8eb98f198¤Livingstone¤Hatboro¤240 E. County Road¤¤PA¤19040
+0a99e7ad-407b-47f5-9686-79629012b392¤Knollwood Commons¤Union City¤413 N Division St¤¤OH¤45390-1641
+0bcedbb6-f424-49e7-b7b9-3def9c27e0ba¤Gary Street Village¤Winnsboro¤1010 Lavendar Dr¤¤LA¤71295
+0df87ea0-8402-441d-9c73-c83d8b11ae92¤Monarch¤Lebanon¤671 South 12th Street¤¤OR¤97355
+0bdcdc06-7c74-42ac-af1d-ea2480400bb6¤Pointe West Management¤Blacksburg¤401 South Main Street, Suite 102¤¤VA¤24060
+0ed526fd-2846-45b0-bf5f-d5a55f99e4da¤Freedoms Path Hines I & II¤Hines¤5000 S 5th Ave¤Bldg 240¤IL¤60141
+0b28671e-9ecb-4f3a-a00f-2aeafa8899da¤Stonebridge of Plainview¤Plainview¤4100 16th Street¤¤TX¤79072
+0f00827d-2cbe-41ba-b8e6-55df2b326eb1¤Spyglass Hill¤Bremerton¤646 Highland Ave¤¤WA¤98337
+0c700282-a860-43d5-80a8-96332ce6d578¤Decherd Street¤Franklin¤401 W Decherd Street¤¤TX¤77856
+0c90f158-6708-4837-becc-543b189ba0c1¤Maple Tree Village¤Charlotte¤303 Packard Highway¤¤MI¤48813
+0f69c307-4e7c-4e5c-9bc7-82265b95d644¤York St Flats¤Denver¤2367-2389 S York St.¤¤CO¤80210
+0b3412f2-d842-45e1-be68-d93b3d48ffd3¤710 Westfield Avenue¤Elizabeth¤710 Westfield Avenue¤¤NJ¤07208
+0d29cf9a-35d4-4fc6-884e-c9db55a4a064¤Queens Gate¤Bound Brook¤675 Tea Street¤¤NJ¤08805
+0fcf1b45-6326-4c79-93d1-e13f073fd70c¤St. James Place¤Lexington¤169 Deweese Street¤¤KY¤40507
+0b906b58-d8f5-45b2-9136-1ad63868ad94¤Zia Townhomes¤Albuquerque¤12004 Zia Rd NE¤¤NM¤87123
+0d6fe6c8-99d2-41d1-b6b8-fe152f76105a¤Venue¤San Jose¤3737 Casa Verde Street¤¤CA¤95134
+0cad6ad6-87e3-44fb-a85f-1e17d1e2f033¤2426 Maplewood¤Chicago¤2426 N. Maplewood¤¤IL¤60647
+0d732882-64a1-42af-9e99-31fa02909ff3¤Ashton Heights¤Roanoke¤3530 Dona Drive¤¤VA¤24017
+0e88522f-64d4-4d53-bd00-b2b2416dd717¤Windsor at Cambridge Park¤Cambridge¤160 Cambridge Park Drive¤¤MA¤02140-2324
+0e96ac48-3190-40cc-a204-9b95c7b8f0d5¤Sylvester Manor¤Flint¤224 E Court Street¤¤MI¤48502
+11029441-4bf5-4809-aca2-68fcf2502f16¤Vantage¤Lynnwood¤12909 Mukilteo Speadway¤¤WA¤98087
+115a1555-6bc3-445c-8d8b-314f9699c119¤Crossroads Flats¤Albuquerque¤315 Central NW¤¤NM¤87102
+0ed526fd-2846-45b0-bf5f-d5a55f99e4da¤Freedoms Path Hines¤Hines¤5000 S 5th Ave¤Bldg 240¤IL¤60141
+0db70708-e0e5-48db-ad49-3b07139c46a4¤Wedgewood¤Wellington¤900 N Woodlawn¤¤KS¤67152
+11c280e6-1c54-437d-ad7d-9464995cf2fa¤St Benedicts Manor II¤Ogden¤1469 Darling St¤¤UT¤84403
+0fa20535-ef07-4596-91d7-2984e589ec20¤Chateau Baker¤Baker¤3204 Singletary Dr¤¤LA¤70714
+0e3e2574-cd4b-46b6-8164-d2c407ab9488¤Mingo Manor¤Tulsa¤4950 South Mingo Road¤¤OK¤74146
+12036bb3-cc28-448c-86a4-092c60c7c837¤Ravenswood¤Wilson¤3721 Ashbrook Drive¤¤NC¤27896
+1071cf4a-492d-4ffc-9093-2e49026081d5¤Capri¤Boulder City¤600 Christina Drive¤¤NV¤89005
+0e94455c-18b5-4a88-b681-6d6c5b41062f¤Marburg - 270 Ludlow¤Cincinnati¤270 Ludlow¤¤OH¤45220
+10996c7c-bf7a-46e0-96fb-6654ba6b3402¤Assocites 219/Lobsang¤Newark¤226 Lincoln Avenue/34 Carteret Street¤¤NJ¤7104
+126e594f-d469-4bb1-8b25-c48a7d41944f¤2649 Q Street SE¤Washington¤2649 Q Street SE¤¤DC¤20020
+0ed436c6-d73f-436f-92d7-19eb88b126b4¤Heer's Luxury Living¤Springfield¤138 Park Central Square West¤¤MO¤65806
+0ef35c22-673c-4f04-8056-383726cdb322¤Evans Station Lofts¤Denver¤2140 S Delaware St¤¤CO¤80223
+112e07db-b15c-4dd7-ae8c-f3bb99e296d7¤Aleda¤Trenton¤202 East Hanover Street¤¤NJ¤8608
+1291795e-6e47-4af6-823f-40ff0acea4ef¤Victory Hills¤Washington¤4211 2nd Street NW¤¤DC¤20001
+119ae816-7ead-4cf0-b124-66729e76d0ad¤Oasis at 30th¤Indianapolis¤5651 E 30th Street¤¤IN¤46218
+0efdcad6-a7dc-4494-824c-9fb12937385c¤Vue¤New Brunswick¤110 Somerset Street¤¤NJ¤08901
+13078b3b-26a5-4830-8457-97820441e8fa¤Lofts at White Furniture¤Mebane¤180 North 5th Street¤¤NC¤27302
+11f25273-bb22-4464-a22e-a7470ec876dc¤Plaza¤Winston-Salem¤500 West Fourth St¤¤NC¤27101
+13168283-4c03-41d6-a0e3-a88aa3c73f38¤Fairborn ¤Fairborn¤1616 Valley Oak Lane¤¤OH¤45324
+13168283-4c03-41d6-a0e3-a88aa3c73f38¤Fairfield Oaks¤Fairborn¤1616 Valley Oak Lane¤¤OH¤45324
+13b9dcb9-3938-4972-ab3f-0af1ce03ed02¤1000 Grant the Burnsley¤Denver¤1000 Grant Street¤¤CO¤80203
+152ba228-67a1-4d2b-87b5-e576914b6111¤Audubon Park¤Zachary¤1233 Mt Pleasant Zachary Rd¤#3450¤LA¤70791
+157969db-3ce0-435d-b30b-aaa937f41620¤Fleetwood¤Birmingham¤1131 16th Avenue South¤¤AL¤35205
+133772c9-fce9-4cf6-a570-b7faaef13f71¤English Manor¤Philadelphia¤243 West Tulpehocken Street¤¤PA¤19144
+0f254878-73fd-4a17-8fa2-29ea6d0d014f¤Mayfair Mansions III¤Washington¤3743 Jay Street NE¤#324¤DC¤20019
+138d5fbd-7b66-4df1-83b9-882b2957ebac¤1744 N. Hoyne St.¤Chicago¤1744 N. Hoyne St.¤¤IL¤60647
+15f8c88a-ac33-4f8d-856f-b5ef367c693e¤Heritage at City Center¤New Berlin¤14901 Library Ln¤¤WI¤53151-5388
+11233fd8-4565-4643-a19d-f5608e3ed342¤Fifth Avenue¤San Diego¤3534 Fifth Avenue¤¤CA¤92103
+16c9567b-e93d-466b-8a86-b03bccc0a46c¤Edmondson Park¤Baltimore¤1661 Forest Park Ave.¤¤MD¤21207
+139295fc-7f8a-485f-bb18-ce1b362ec924¤La Morada¤San Diego¤304 W Ivy Street¤¤CA¤92101
+11bed2af-403a-4fb2-9197-96ffa9b3302e¤Durham Park Townhouse Phase II¤Pooler¤100 Durham Park Way¤¤GA¤31322
+1427c0b3-88fd-421f-b394-1c80894f4036¤Bridger Gardens¤Las Vegas¤903 East Bridger/ 205 South 10th¤¤NV¤89101
+11d1e643-b2bd-4cba-b9b4-7ed5addb43d4¤Avalon At Westmont Station I & II¤Wood-Ridge¤100 Rosie Square¤¤NJ¤07075
+172d041c-2f8f-4381-a504-2e49aaf334fe¤USF Gardens¤Tampa¤2002 Colonial Parc Drive¤¤FL¤33612
+127e61aa-ecf3-4f3e-9099-63cd2f28d4fc¤Glendon at Westwood Village¤Los Angeles¤1040 Glendon Ave¤¤CA¤90024
+14c25b4d-d912-473a-be27-1028615b7b3a¤Ascent 430¤Wexford¤430 Ascent Dr¤¤PA¤15090
+151580fe-bd45-4f08-8c3d-5bb79cec1a45¤Joseph Tree Service¤Columbus¤610 W. Town Street¤¤OH¤43215
+12ea421b-55ec-4190-b83c-da9ff9410b5c¤Hazelwood ¤Rahway¤1155 St. Georges Avenue¤¤NJ¤07065
+17aab077-58af-47a1-8500-22a4d27492a2¤Fifty Nine Twelve¤Washington¤5912 14th Street NW¤¤DC¤20011
+132fdbb9-023c-42f9-903b-6d49e08cafb9¤Casa Linda¤Taylorsville¤1731 W Bowling Ave¤¤UT¤84129
+164ad9bb-14a3-4f23-9a45-b20faed418de¤Heights at Knollwood¤Hamilton¤3298 Reflection Pointe¤¤OH¤45011
+13a29a29-1823-4144-bd64-fe23893d3d5c¤Pier 4¤Boston¤142 Northern Ave¤¤MA¤02210-1802
+13d24e75-318a-4dd5-a3e0-c94bb10329ed¤Marq at Weston¤Morrisville¤3101 Rise Dr¤¤NC¤27560
+16eeeb7b-0d6c-4e2e-ae7b-f1794ed204ef¤3010¤St. Louis¤3010 Washington Ave¤¤MO¤63103
+16eeeb7b-0d6c-4e2e-ae7b-f1794ed204ef¤3010¤St. Louis¤3010 Washington Ave.¤¤MO¤63103
+16ff5a66-5f4e-41b3-a29d-4ca2a807166a¤Fultonia West- Cedar Heights¤Fresno¤541 N Fulton St¤¤CA¤93702
+1716bee1-e7ab-46c8-86c6-4b25195c9b73¤Salem Historic Homes¤Salem¤90 Carpenter Street¤¤NJ¤08079
+173d066f-5074-417b-9ec5-f1aad725da09¤Pyramid¤Albuquerque¤3600 Lafayette Dr NE¤¤NM¤87108
+183e097d-0a5f-4947-8a61-d44e21281e9f¤Rivendell Townhomes¤Antioch¤2174 Rivendell Circle¤¤TN¤37013
+184a2736-7d6f-4ed8-955f-c7b57fb03016¤Arium Emerald Isle¤Fort Walton Beach¤214 Racetrack Rd¤¤FL¤32547
+184c63df-7247-401e-9245-c70ffaa45a14¤4201 N. Damen¤Chicago¤4201 N. Damen¤¤IL¤60618
+17afba79-6926-494b-86bd-b945ed35fc12¤Upper Eastside Lofts¤Sacramento¤6400 Folsom Blvd¤¤CA¤95819
+17fb4a00-5e1a-4102-9094-67e7a614adc1¤Parkview¤Sun Valley¤8816 Laurel Canyon Blvd¤# 5¤CA¤91352
+186092de-d2b3-4e04-8138-4aef7f1eeacb¤Hamptons Statesboro¤Statesboro¤350 Rucker Lane¤¤GA¤30458
+13ee29f5-024d-44d2-adc9-e1b349424a84¤Villas at Sutherland¤Lancaster¤100-182 Stone Creek Rd¤¤PA¤17603
+1852bff0-c572-4327-8506-390c0b5ba11d¤Boonville Lofts¤Springfield¤600 N Boonville Ace¤¤MO¤65806
+1593729f-1857-458e-a41a-6a9f5ead268b¤Saint Anne¤Birmingham¤2925 Clairmont Avenue¤¤AL¤35205
+18e54902-002f-48d1-9755-88c6e0d80b65¤Bell Flatirons¤Superior¤2200 S Tyler Dr¤¤CO¤80027
+15c0299e-2700-40aa-9ebf-c856777ea91e¤Piazza at Jenkintown¤Jenkintown¤207 Leedom St.¤¤PA¤19046
+19899b23-a88b-42f5-bbac-166c4006de0a¤Liberty Square¤Fayetteville¤3611 Dornoch Dr¤¤NC¤28303
+15f345b4-16e7-4b74-a6f8-e73e04cf4ef0¤Grand Leiper¤Philadelphia¤4712 Leiper Street¤¤PA¤19124
+1964a754-0ad5-4b47-b668-22c007c8948e¤Cobblestone¤Fayetteville¤226 Tallstone Drive¤¤NC¤28311
+19ec4e67-6550-4bd6-b978-d068e3fbf4f5¤Vendome Courtyard¤Cincinnati¤4605 Vendome¤¤OH¤45227
+15f8d816-d9d6-4365-b56e-2b8b44e90a9c¤115 Christie Street¤Ridgefield Park¤115 Christie Street¤¤NJ¤07660
+19870819-ea76-4d26-aef3-a5f59140d97c¤Providence at Thornberry¤Champaign¤702 Cobblefield Rd¤¤IL¤61821
+1a296f6d-66af-4eb4-bb16-1f1a75e50d9b¤Centennial Place¤New Orleans¤1770 Tchoupitoulas St¤¤LA¤70130-1865
+198bf9e2-7b93-4632-ab55-54a414a9f9f9¤Park East¤Glendale¤1514 Gardena Street¤¤CA¤91204
+16adc6ee-81d4-4859-8adb-69f40d05cf9a¤Fairmount at Brewerytown¤Philadelphia¤1363 N 31st Street¤¤PA¤19121
+1a532bdb-3249-471a-a929-32cbe5044d34¤Curtain Lofts¤Fall River¤420 Quequechan St¤¤MA¤02723-1647
+16c9567b-e93d-466b-8a86-b03bccc0a46c¤Edmondson Park¤Baltimore¤1661 Forest Park Ave¤¤MD¤21207
+1a3f0853-b7bf-4583-92a4-5088407bda82¤Hawthorne Park¤Jefferson City¤505 Ellis Blvd¤¤MO¤65101
+1a81148b-b68f-40b1-a0ce-80c404deec53¤2524 N. Campbell Ave.¤Chicago¤2524 N. Campbell Ave.¤¤IL¤60647
+176ef2dc-aa3f-42c3-aa9d-d8d286cfff43¤Northshore Terrace¤Red Bank¤1717 White Oak Road¤¤TN¤37415
+1ac156a4-e92d-4b9d-ac82-a42888d8ddf3¤Espanola¤Albuquerque¤616 Espanola SE¤¤NM¤87108
+1b22f02f-d2ad-48bd-a18b-564284e785e7¤Canyon Pointe¤Boulder¤700 Walnut¤¤CO¤80302
+19520ece-0f71-4cb4-afb7-6f5d188b23db¤Grandview Heights¤Lancaster¤876 Salisbury Ct¤¤PA¤17601
+1b135a14-db4e-45d3-9274-4c53a8669b74¤1717 N Dayton¤Chicago¤1717 N Dayton St¤¤IL¤60614
+1b135a14-db4e-45d3-9274-4c53a8669b74¤1717 N. Dayton¤Chicago¤1717 N. Dayton¤¤IL¤60614
+196d170b-a9d5-448b-af4b-22e530de5ae9¤Hamptons¤Noblesville¤10075 Town & Country Blvd¤¤IN¤46060
+1bc3fcb3-7794-4e67-b1ff-c10257e5c713¤RM Lexington¤Lexington¤3600 Winthrop Drive¤¤KY¤40514
+19b090b0-b765-447a-a1c9-728b7c6d1870¤Walnut Lane¤Wayland¤1125 144th Avenue¤¤MI¤49348
+1d31cce6-b612-4150-9c1f-1028b2fe3622¤John Cable Centre¤Evansville¤1111 Cherry Street¤¤IN¤47713
+1b712489-0f41-4d70-82de-77d36b93fb85¤Hillside Manor¤Birmingham¤3200 Hillside Avenue¤¤AL¤35205
+1d52d690-1d24-4af7-aa6e-6892036bbdcd¤EDO Spaces, LLC¤Albuquerque¤401 Central Ave NE¤¤NM¤87102
+1a12614f-b249-4e3c-ad5b-9bdcd26a15ab¤Diagonal Court¤Boulder¤3265 30th St¤¤CO¤80304
+1b8e5580-5754-4558-9d92-17c5aafd4f13¤Willows at Fort Mill¤Fort Mill¤3115 Drewsky Lane¤¤SC¤29715
+1d5bc162-5529-4caa-8c3e-f685f43c5a45¤One Saint Helens¤Tacoma¤1 Saint Helens¤¤WA¤98402
+1a6c4afb-d9cf-4e16-90a4-7e9b1cf39193¤Queen Anne¤Lebanon¤142 E Elmore St¤¤OR¤97355
+1e2e2199-6217-4194-a1d2-a8c770b7342d¤Renaissance Stout Street Lofts¤Denver¤2180 Stout St¤¤CO¤80205
+1bf79feb-5e9e-43b4-a54d-d5270c531624¤Summit Pointe¤Columbus¤3071 Williams Rd¤¤GA¤31909
+1b1bfec8-505f-4eed-bd3b-8fe4945d9da0¤Haywood Village¤Asheville¤919 Haywood Road¤¤NC¤28806
+1e330ba6-28fc-46a8-a58b-4fc9a0889227¤Villas on Main¤Layton¤1475 N Main Street¤¤UT¤84041
+1b481591-3fe5-438b-b166-d8de347e4afb¤Casa De Chavez¤Los Lunas¤675 Hwy 314 SW¤¤NM¤87031
+1d0b983c-981b-40cc-865a-512b9fdb6b0b¤Plymouth¤Winter Park¤1550 Gay Road¤¤FL¤32789
+1e3c4c87-a809-4042-a26f-0d89e61194c3¤Treetops¤Seattle¤701 Pike Street¤¤WA¤98101
+1e65746a-da16-4c0e-8957-d7ecd274fde5¤Preserve At Meadows¤Fort Collins¤350 Riva Ridge Drive¤¤CO¤80526
+1c13e555-c731-4a07-a892-c8db4a2853bf¤CityFlats, South¤Chicago¤5419 S. Hyde Park Blvd.¤¤IL¤60615
+1d21459e-0e1b-4397-9edf-014907909c9c¤Villa Nova¤Silver Spring¤11513 Lockwood Drive¤¤MD¤20904
+1cb996e6-df9b-445e-930a-228500580b74¤Mountain Vistas¤Williamsburg¤3025 River Reach¤¤VA¤23185
+1e7031a8-9972-4979-9bdb-d2b39680fa9f¤Fountains at Linden Wood¤Kansas City¤1520 E 97th Street¤¤MO¤64131
+1d5e3667-7b73-4d5f-8b2a-5dcce4bd99f9¤855 Marygate¤Chicago¤855 N. Marygate Terrace¤¤IL¤60640
+1ce18940-0b07-4e18-b640-d2ce6532424d¤Sky Eleven¤Springfield¤331 Park Central East¤¤MO¤65806-2221
+1da3ed8c-90e8-47c4-b542-be357bce28d9¤Laurel Walk¤Charlotte¤908 Summit Walk Drive¤¤NC¤28270
+1dc74693-f4e1-4a52-a7d2-7821a1724602¤849 Jersey Avenue¤Elizabeth¤849 Jersey Avenue¤¤NJ¤07202
+1ea1ba76-f8a1-45b4-8350-1fef6c8b1a90¤Delafield¤Washington¤301 Delafield Place NW¤¤DC¤20011
+1f3f401a-de12-4d99-ba68-76c8dd4ead94¤Century Champions Gate¤Davenport¤9116 Integra Meadows Dr¤¤FL¤34747
+1fc4fff7-7ec6-4d35-a143-7c4e5cb1fbae¤Plantation Place¤Winston-Salem¤3621 Cash Drive¤¤NC¤27107
+1f6f1bd6-8d62-432c-ad24-51fd0ae11f4c¤Lincoln/Glenarm¤Denver¤2050 Glenarm Place¤¤CO¤80205
+1fb56859-8fb4-4101-895b-56462aa607ef¤Wildwood Glen¤Irvine¤97 Hearthstone¤¤CA¤92606
+1fd0136a-7db2-4809-bf57-3c45579d18a5¤3738 N. Fremont Ave.¤Chicago¤3738 N. Fremont Ave.¤¤IL¤60613
+1fd19fa8-483f-4ea5-bd59-a0f684c4d262¤Bowen Tower Senior¤Raytown¤6140 Raytown Rd¤¤MO¤64133
+1fb90d97-f5e1-46ba-ae1a-6abbda0f7e4c¤213 West Lanvale Street¤Baltimore¤213 West Lanvale Street¤¤MD¤21217
+206ca377-5bac-4e12-825b-fa0e9ab10756¤McKenzie Park¤Little Rock¤14201 Kanis Rd¤¤AR¤72223
+1fd890b8-c57a-44a0-bd38-fbaa6c8829b6¤West Village¤Davis¤1580 Jade Street¤¤CA¤95616
+20670600-c353-4709-87b2-7e6f8cc1f561¤5019 Lawrence¤Chicago¤5019 W Lawrence Ave¤¤IL¤60630
+20220921-f901-4f73-a9da-b8b53c0e74ce¤Windsor Garden¤Frederick¤1101 Key Parkway¤¤MD¤21702
+22280601-284f-446d-9163-271729c17159¤121 Towne¤Stamford¤121 Towne Street¤¤CT¤06902
+2110914b-27a6-4439-815b-a5363739e026¤Murphy¤Monroe¤2320 Oliver Road¤¤LA¤71201
+2292f20a-6e0d-4d1c-84d6-d3d209f1a0f6¤Pomeroy¤Chicago¤5650 N Kenmore¤¤IL¤60640
+20498555-b4df-45c3-af52-d83cb13c1d7e¤River Lofts at Tobacco Row¤Richmond¤2310 Esst Cary St¤¤VA¤23223
+21d15a5d-8ad1-4224-af19-07cec22dcc12¤Residence at Milford Tower¤Milford¤201 Edgecombe Dr¤#8¤OH¤45150
+22baa133-7c86-449c-929f-4bac754e8657¤Pearl Plaza¤Tacoma¤1447 N Pearl St¤¤WA¤98402
+2233641f-fe5c-4495-a50c-55e8085eb661¤Camelot ¤Marlton¤10 Baker Boulevard¤¤NJ¤08053
+225ef018-b360-4abc-bdb7-b554332598ae¤Central Park Townhomes¤Park Forest¤11 Fir St¤¤IL¤60466-1706
+22f14217-3901-4ac4-a84a-56e446156f78¤Banner Lofts on 3rd¤Nashville¤162 3rd Ave N¤¤TN¤37203
+234fdb28-811a-4b0c-be5a-891a63238ca3¤Arden¤Charlotte¤3306 N McDowell Street¤¤NC¤28205
+22d30586-6218-48a1-acad-3cfdd2083831¤C & S Lexington, LLC¤Somerville¤P.O. Box 817¤¤NJ¤8876
+23687495-6b4c-4ea2-9057-d5db17a40b10¤Somerset Villas¤Irvine¤18831 Von Karman, Suite 350¤¤CA¤92612
+23191646-2167-46ff-9e71-28025a2497ee¤Parkwood Manor¤Amarillo¤1310 S Madison¤¤TX¤79109
+23bf4a61-6b8d-4ab5-b467-71a41427844b¤136 Washington¤Denver¤136 Washington¤¤CO¤80203
+243b0b11-e8d0-4b88-9d0a-721b5861000a¤101 Ellwood¤Baltimore¤101 South Ellwood Aveneue¤¤MD¤21224
+23bfd800-b4f8-4910-895a-068d5956270d¤Compton Pointe Townhomes¤Cincinnati¤8975 Daly Road¤¤OH¤45231
+23702cfb-be87-4b70-a348-01595bbe3cc3¤1256 Waverly Place¤Elizabeth¤1256 Waverly Place¤¤NJ¤07208
+2427ce53-4b33-43f0-b647-4b5a0ddaefeb¤Ashford Pointe¤Anderson¤200 Country Club Lane¤¤SC¤29625
+2433e81b-373e-4407-8ad5-d13f05cbad5a¤Residences at Pomona Park¤Baltimore¤1 Pomona North¤¤MD¤21208
+2431f267-806a-4bf0-82f2-bd3c22c2ccac¤Badger Court¤Ruidoso¤1204 Mechem¤Suite #11¤NM¤88345
+25e47d27-9968-4d14-9b8d-06d3642e6259¤Concord Point¤Concord¤450 Parker Place¤¤PA¤19342
+262a8aa8-b1f0-4af0-8014-baefb3090346¤Highland Meadows¤Weatherford¤209 Joyce St¤¤TX¤76085
+24841454-4ae2-4b26-8362-741518b2db7c¤Village of Our Saviour's Manor¤Westland¤29495 Annapolis Road¤¤MI¤48186-5599
+24af7794-6d98-48c4-a9f1-e1d93a5e0750¤Campo Alegria¤Santa Fe¤104 Camino Del Campo¤¤NM¤87501
+243fe55c-5ebf-47d8-88db-1846037f5e89¤Park at Forestdale¤Birmingham¤1133 Pebble Creek Pkwy¤¤AL¤35214
+251602b9-d707-4a34-bc6d-644c12fa24f6¤Metamora¤Cincinnati¤226 Lorraine¤¤OH¤45220
+24644e60-246a-4f3d-b266-9c02ecf69748¤Sunrise Meadows¤Waukee¤220 NE Dartmoor Drive¤¤IA¤50263-9659
+25c6e842-0535-4642-bf48-c42d0eb65575¤2432 W. Cortez Ave.¤Chicago¤2432 W. Cortez Ave.¤¤IL¤60622
+25234095-485c-451c-97a3-c57160a52bfb¤Farmington Crossing¤Farmington¤985 Willow Garden Paseo¤¤UT¤84025
+2588c335-7f7b-41df-b735-b83f518e7c3c¤1851 W. Chicago Ave.¤Chicago¤1851 W. Chicago Ave.¤¤IL¤60622
+2599e783-57af-427b-8c5d-b2ebdecefcf8¤Enclave at Arbor Ridge¤Ypsilanti¤3901 Cloverlane Drive¤¤MI¤48197
+26fe1661-eaf7-4a37-923a-eb5af8e220b3¤Hidden Oaks¤Lufkin¤3200 Daniel McCall Dr¤¤TX¤75901-7134
+264def94-9916-4874-9633-ea53ec4d6dad¤Marketplace I¤Lansing¤313 N Cedar Street¤#202¤MI¤48912
+26fe1661-eaf7-4a37-923a-eb5af8e220b3¤Hidden Oaks¤Lufkin¤3200 Daniel McCall Dr¤¤TX¤75904-7134
+264def94-9916-4874-9633-ea53ec4d6dad¤Marketplace¤Lansing¤313 N Cedar Street¤#202¤MI¤48912
+266bcfe4-b813-49f4-946d-942c606fbfe8¤West Central¤Albuquerque¤5817 Central Avenue Northwest¤¤NM¤87102
+27436010-e4c9-4c60-8c1e-9efe8119f64c¤Stoney Creek¤Wilmington¤4801 Limestone Road¤¤DE¤19808
+266effff-23b6-4e86-9c28-b7f3f3cd3d23¤Anaheim B¤Anaheim¤184 W. Center St. Promenade¤¤CA¤92805
+2684ab09-8c7c-4ec3-8fdc-c8c9a8784ea5¤801 E. Drexel Square¤Chicago¤801 E. Drexel Square¤¤IL¤60615
+27516450-5a7c-4bce-9313-d30a7484a9fe¤Regency Pointe¤Miami¤1901 NW 79th Street¤¤FL¤33147
+267c127d-47d0-4038-a2b9-4f0124fb254b¤Vino¤Birmingham¤3616 Montclair Road¤¤AL¤35213
+27a4c6c1-134d-4d52-a135-7c46038cdae7¤Silver Pines¤Vernal¤99 E 860 S¤¤UT¤84078
+26aaf395-cd0c-4a3a-a693-82048768c0f3¤Speedwell Avenue, LLC¤Morristown¤1 Madison Ave¤¤NJ¤07960
+27a89342-0e0c-4fb5-91a4-c725381f0775¤Ark¤Bensalem¤5301 Neshaminy Blvd¤#122¤PA¤19020
+27e60acd-b754-4458-9205-88785fa23e07¤Coronado at Newport South¤Newport Beach¤880 Irvine Ave¤¤CA¤92663-6920
+26f047fe-0d8b-4399-81cd-ab74f743fdda¤CityFlats North¤Chicago¤6107 N. Cicero Avenue¤¤IL¤60646
+276f878b-83fb-4306-88f9-241b81b42be4¤Candelaria Heights¤Albuquerque¤3101 Lori Pl NE¤¤NM¤87112
+2811a229-9fd6-4b56-bf58-88dee41abba5¤Broadmoor Village¤Lakewood¤120 Jay St¤¤CO¤80226
+27c56242-c2ce-4c67-b48d-24eef0f4c111¤Rush Crossing¤Trenton¤100 Rider Avenue¤¤NJ¤08609
+289bc627-75b6-48d7-8810-b63e08b5d60f¤Historical Biggs Building¤Richmond¤900 West Marshall Street¤¤VA¤23220
+291fc44c-a5ee-4d15-80fc-701bd8058fb9¤Manor¤Easton¤11th & Bushkill¤¤PA¤18042
+2b12ceca-1b38-4020-9505-e3d81c932184¤Conestoga Park 3 #69¤Portland¤1440 SW Taylor St Ste 69¤¤OR¤97205
+287742a0-8c2c-45ad-b5da-042b88786c1b¤Walkway¤Minneapolis¤1320 West Lake Street¤¤MN¤55408
+280a293e-0f00-4053-ae8b-5c43b855aa13¤6000 Madison¤Indianapolis¤6051 Madison Avenue¤¤IN¤46227
+2b588870-13ad-4600-b49e-32b107bed63c¤Ferguson¤Detroit¤1448 Woodward Ave¤¤MI¤48226-2000
+28a4d2ad-a431-4ae9-a288-cc107da5e83c¤Foster Square Luxury¤Voorhees Township¤10000 Towne Center Boulevard¤¤NJ¤08043
+2833d4e0-76bc-4fd5-9777-e162dccd8448¤Watertown¤Watertown¤100 Woodview Way¤¤MA¤02472
+2b8f63f5-99c7-41a1-b6f2-b17d207364c2¤Vertice¤Denver¤911 S Washington St.¤¤CO¤80209
+2c16cab9-7924-4966-80ac-3994b7c8f9fd¤Dean Woods Place¤Orlando¤9871 Dean Woods Place¤¤FL¤32825
+29329c48-2bda-4560-a991-4e318668b745¤Villas at Palm Beach¤West Palm Beach¤2176 Laurel Way¤¤FL¤33415
+2c8e402c-5341-4ec0-9a8f-392b1b032a8a¤Hickory Corner¤Newark¤P.O. Box 7069¤¤NJ¤07107
+2995e1d5-4a52-47fe-a970-613aed0bd069¤Bay Street¤Emeryville¤5684 Bay St¤¤CA¤94608
+2d002c8c-3c15-48aa-9376-586a2731da7d¤Woodmont Knolls At Hanover¤Cedar Knolls¤225 Cedar Knolls Road¤¤NJ¤07927
+293933d7-a78c-4a50-ba36-2889d4d3b909¤Delray¤Delray Beach¤1541 Catherine Drive¤¤FL¤33445
+2a0cc949-ce26-4daa-9f5d-ea9450c069de¤L Apartments¤Raleigh¤205 W Davie St¤¤NC¤27601
+2d19f1f7-6456-4cb4-b6bc-a51f860e7543¤Pines¤Lakewood¤10635 W 7th Ave¤¤CO¤80215
+2a157371-ee9e-4d30-bcfe-42afca5ef1c9¤317 E Del Mar Blvd Unit 2¤Pasadena¤317 E Del Mar Blvd¤¤CA¤91101
+2a645195-93b9-4a7b-9a2e-1058955c59a7¤Phenix Infinity Park¤Glendale¤4701 E. Mississippi Ave¤¤CO¤80246
+2aa6277f-e130-4edf-a2ba-5ccdb87e0437¤Jesse Lee¤Petersburg¤401 Roberts Ave¤¤VA¤23805
+2d66e4b0-4cf9-4ea1-8a0e-b1c1f1b7d82f¤Trent Village¤Lexington¤1393 Trent Blvd¤¤KY¤40517
+2a8e4dd3-5186-40e6-ae88-187c1861647b¤Cantrell Heights¤Little Rock¤6900 Cantrell Rd¤¤AR¤72207
+2dd10537-d87d-4c47-9100-c03c766c0c96¤2229 N. Clybourn¤Chicago¤2229 N. Clybourn¤¤IL¤60614
+2adca631-b1cf-4379-b00a-4ad04d7d0eab¤Marshall Park Townhomes¤Richmond¤728 West Marshall Street¤¤VA¤23220
+2b588870-13ad-4600-b49e-32b107bed63c¤Woodward Lofts¤Detroit¤1448 Woodward Ave¤¤MI¤48226-2000
+2a92e683-f8ca-45dc-863a-ec0904800293¤Bedford Terrace¤Cincinnati¤2305 and 2323 Bedford Avenue¤¤OH¤45208
+2b6c8235-4c46-4fdd-8bcc-c8f346f20b3a¤410 Shurs Lane¤Philadelphia¤410 Shurs Lane¤¤PA¤19128
+2af93e77-86b7-4253-9c26-f282510c0084¤Carriage Gate¤Charlottesville¤675 Woodbrook Drive¤¤VA¤22901
+2e20b9da-09c0-4888-8bdc-7fd3bd358162¤Argon¤Richmond¤3805 Cutshaw Avenue¤¤VA¤23230
+2b0fee44-0aa4-4628-bd86-10a00f05051d¤Creekside at Providence¤Mount Juliet¤1000 Providence Way¤¤TN¤37122
+2e8bc25b-7fa7-4352-bb6d-726675fbe2c6¤Price Real Estate¤Blacksburg¤PO Box 199¤¤VA¤24060
+2ca620ba-c838-48c2-9499-36b7877720a0¤430 Missouri Avenue¤Washington¤430 Missouri Ave NW¤¤DC¤20011
+2e90e18f-84b2-4482-92fc-608b92db0c04¤Southtown Square¤Grand Rapids¤1167 Madison Ave SE¤¤MI¤49507
+30d011f5-72a2-4c81-a781-37189103a50a¤Villas at Forest Park¤Nixa¤840 S Red Maple Ct¤¤MO¤65714
+2ceef390-ff8e-4141-968d-1005f658006f¤Waters Edge at Rahway¤Rahway¤4 City Hall Plaza¤¤NJ¤07065
+2b3014e8-3b57-452f-a573-4e5c154eb398¤2649 Park Place SE¤Washington¤2649 Park Place SE¤¤DC¤20020
+30dd470d-d624-4726-83fa-8d8fe879bd39¤Lake View¤Fort Mill¤315 Flint Hill Road¤¤SC¤29715
+30df61d6-7933-4bb9-abc6-ac7456e7daa6¤Pine Run¤Baltimore¤103 Village of Pine Run Court¤¤MD¤21244
+2bc1d15d-d0d5-4b0d-8b68-41c638c83c15¤Passaic Park Commons¤Wood-Ridge¤505 Marlboro Road¤¤NJ¤07075
+2d49de56-76d3-4a17-b532-833d6637b135¤Farmington Oaks #37¤Portland¤1440 SW Taylor St Ste 37¤¤OR¤97205
+2c1fe52b-b81b-40e1-9094-3d3e934e9750¤3601 Market¤Philadelphia¤3601 Market St¤¤PA¤19104
+30facfe0-3f43-446c-b415-7ee4c03744c8¤Regina¤Denver¤1245 Josephine St.¤¤CO¤80206
+2d4f9a27-d6b2-425b-b7db-517b88749a0b¤Reserve at Stone Port¤Harrisonburg¤2015 Reserve Circle¤¤VA¤22801
+3121174f-302f-4f0f-866b-8824ebec1adc¤Parsons Village I¤Columbus¤1854 S Washington Ave¤¤OH¤43207-1985
+2c7f96c5-4643-4020-94bb-aa8956ead1cf¤Aria¤Portsmouth¤7 Portwalk Place¤¤NH¤03801
+2d7c734a-ceac-4e49-bc24-f4b5ec3205b8¤Grace Margaret¤Denver¤967 Marion St.¤¤CO¤80218
+2da82d96-cf70-4216-9c2d-58d0054f1078¤Grant79¤Overland Park¤9213 W 79th St¤¤KS¤66204
+3146b794-01b8-4cc1-938b-53fca15ff943¤Walnut Commons¤Chattanooga¤212 Walnut Street¤¤TN¤37403
+2d43ca9c-3342-458b-b9af-20d1fa61fe86¤Broadway East¤Boulder¤3110 Braodway St¤¤CO¤80304
+2dce7195-c132-4d42-a9df-59e4fd30f82a¤Edge at Kutztown¤Kutztown¤2200 Lifestyle Lane¤¤PA¤19530
+2e33e86f-e4c8-4c7f-9df5-b279d548c694¤Kitts Corner¤Federal Way¤1201 S 336th Street¤¤WA¤98003
+31e96838-12f7-46c2-825e-5b75dc35e22f¤Fountains at Lingo Cove¤Orlando¤6532 Pershing Ave¤Suite 106¤FL¤32822
+2efacfa1-94ab-411a-a5d1-391fc20ca78c¤TNT Flinchum¤Blacksburg¤1813 S Main St¤¤VA¤24060
+31cd52f8-aedc-4b50-b7b6-63898d01bdd4¤Oakmont Village¤Ellicott City¤11090-11030 Resort Road¤¤MD¤21042
+323ca1f8-9158-4ffe-97cc-91f548a9d6ce¤Annex at the Touraine¤Philadelphia¤1516-18 Spruce Street¤¤PA¤19102
+2f0f8f99-ad9c-4ad2-9d7b-135721710830¤Belay¤Milwaukee¤2200 N Commerce St¤¤WI¤53212
+30f40c5c-5396-4af0-bceb-ad90f4653b78¤Westmont Townhomes¤Clearfield¤163 S 1450 W¤¤UT¤84015
+31fc532e-dd7e-4500-a6c3-f2de65ce4816¤Parkview II Commons, LLC¤Teaneck¤333 Willow Street¤¤NJ¤07666
+32b32f69-abd8-4d95-8a1e-57143d7b990b¤Conestoga Park 2 #68¤Portland¤1440 SW Taylor St Ste 68¤¤OR¤97205
+3248b7a7-01a1-4e45-9157-7439a15f10f2¤Parkland¤District Heights¤6004 Parkland Court¤¤MD¤20747
+31a2e5da-6dfb-4fec-81b5-825bec878f3f¤Gateway¤Rapid City¤2915 Marlin Drive¤¤SD¤57703
+31c956ee-d805-4e81-b179-eca6a69c9710¤Addison Park¤Louisville¤1 Trafalgar Square¤¤KY¤40218-1197
+33450408-d47a-4c7a-bed4-65feb879ec9b¤Ingall Nook Townhomes¤Lakewood¤1027 Ingalls St¤¤CO¤80214
+32337563-5e9f-4c32-8bf7-a512985654f2¤Gordon James Company, L L C¤Columbus¤1620 East Broad Street,¤#801¤OH¤43203
+336fd8f5-a4ab-4fd4-87ef-3cd4f020a441¤Edgecliff Point Condominiums¤Cincinnati¤1201 Edgecliff Place¤¤OH¤45206
+32697715-bbd3-4ef3-99fd-90051d12d597¤Colony Square¤La Mesa¤4850 Williamsburg Lane¤¤CA¤91941
+337d4e0d-7ffe-4c1b-be6c-31d31d8daf83¤Gardendale Manor¤Gardendale¤1030 Grubbs Avenue¤¤AL¤35071
+33437326-8299-4dc4-a1b0-9e534967b0df¤Hodge on 7th¤Washington¤1490 7th Street NW¤¤DC¤20001
+341f72a9-b708-4dcc-9a98-7e42fb91d7b4¤Harbour Glenn¤Texas City¤1225 10th Street North¤¤TX¤77568
+334fb086-6a4c-4a87-afc9-cccd9b3b2ac8¤Charles River Landing¤Needham¤300 2nd Avenue¤¤MA¤02494
+344814a1-772a-4d2d-a2ad-6d671612bd6e¤2226 N. Freemont¤Chicago¤2226 N. Freemont¤¤IL¤60614
+348e9550-2ecf-48ca-b1ec-ef14f4827306¤B Street¤Denver¤1736 Boulder St.¤¤CO¤80211
+344ee308-12a0-4e6f-a4e0-e53be805d5df¤Indian School¤Estancia¤PO Box 1152¤¤NM¤87016
+360bb701-624d-445b-a2de-6fa410a9cf3d¤Alexander Pointe¤Mebane¤102 Village Dr¤¤NC¤27302
+367850b8-4fa4-46c5-8ad4-d56c3909ef96¤Lenox Creekside¤Antioch¤8210 Lenox Creekside Drive¤¤TN¤37013
+350881c6-2aec-4b7a-a563-5458db900606¤Courtyard at South Station¤Tukwila¤3900 Southcenter Blvd¤¤WA¤98188
+35d13f3b-9719-4681-be9a-c7b74a962358¤171 Vose Avenue¤South Orange¤50 South Orange Avenue¤#203¤NJ¤07079
+3798ae2b-368b-4f36-bb09-2efaaad71395¤Avenue¤Washington¤3506 Georgia Avenue NW¤¤DC¤20010
+37acfaff-e3cb-4f9a-b7e5-0ffc0a3621ed¤Residences At Sagemore¤Marlton¤1109 Sagemore Drive¤¤NJ¤08053
+34671c08-4712-46bd-9d6e-fde50bc5bed5¤Saron 2¤Teaneck¤34 State Street¤¤NJ¤07666
+36338f46-8f39-4da1-8da3-73a694b8998b¤Whitfield¤Cincinnati¤3240 Whitfield Ave ¤¤OH¤45220
+34a8d37f-bf8f-43c2-9ce1-c29ea3d05275¤One Hundred Grand¤Foster City¤100 Grand Lane¤¤CA¤94404
+3641bbda-1172-4fb3-8cb7-ba536d632c01¤Metropolitan Triangle¤Wayne¤306 N. Wayne Ave.¤¤PA¤19087
+3858a241-0507-4023-8dc6-e69198667a27¤Sustainable Fellwood II¤Savannah¤1325 Exley Street¤¤GA¤31415
+34e74074-d33c-4d38-9937-8fd7ac0dfc4a¤2550 South Main¤Salt Lake City¤2550 South Main Street¤¤UT¤84115
+38ed0959-514c-4dbe-8765-fab102b2d295¤Queens Gate II¤Bound Brook¤675 Tea St¤¤NJ¤08805
+36663f74-02f3-42e6-a7a7-241593f77fc8¤Foothills¤Boulder¤4580 8th St¤¤CO¤80304
+392078f8-8a32-44a7-98d5-d5107a624fa9¤Grandeur View¤Salt Lake City¤1157 E Sherman Avenue¤¤UT¤84105
+34f1458c-adf8-4dcf-8577-ca32e707b2b5¤Highland Crest¤Tacoma¤729 S. Vassault Street¤¤WA¤98402
+36b6f057-70c6-4eed-9fdb-2eae9335864f¤Kane Garden Court¤Portland¤1440 SW Taylor St¤Ste 327¤OR¤97205
+366d7f64-6d95-44e0-b1df-90ad175b2078¤St Croix¤Virginia Beach¤801 Caribe Pl¤¤VA¤23462
+39505bf8-4135-4ed4-b8e7-2096a084fedc¤Hancock Village¤Newton¤298 Independence Drive¤¤MA¤02467
+36e6b30b-4483-4a61-a978-450aa6da8d7f¤Admiralty¤Arlington¤1920 North Calvert Street¤¤VA¤22201
+368712c6-3be0-4910-9b77-363c7e95f28c¤Village at Van Cleve¤Hartford City¤503 East Van Cleve Street¤¤IN¤47348
+39bfa1a3-66fb-4d73-bb0f-1fef55446c98¤Campus Habitat¤Mount Pleasant¤806 W Broomfield Street¤¤MI¤48858
+3713bfad-7b9f-427d-b7ce-e12acd3dabe0¤Cornerstone¤San Ramon¤2200 Brookcliff Cir¤¤CA¤94582
+39eb4e01-9b3d-4f64-a590-175b715bcb10¤2417 W. Erie St.¤Chicago¤2417 W. Erie St.¤¤IL¤60612
+368a6be5-671e-47cb-be9d-d7c015e50008¤Harbor Point Estates¤Essex¤909 South Maryland Ave¤¤MD¤21221
+37604f51-40e7-4f78-a48d-55cee158d334¤Counting House Lofts 109¤Lowell¤109 Jackson St¤¤MA¤01852-2160
+3a782083-4915-4849-aba6-511f427a9f35¤Legation House¤Washington¤3737 Legation St NW¤¤DC¤20015
+36949ece-9e1b-4239-9702-3dee062c7357¤William G. Buckner Tower¤Evansville¤717 Cherry St¤¤IN¤47713
+37aebb94-df58-4fb7-9ec9-c7d63cdc67c3¤One¤Jersey City¤110 First Street¤¤NJ¤07302
+3abeba29-f51f-43bc-b161-fada2b98ce7e¤1347 E. Hyde Park Blvd.¤Chicago¤1347 E. Hyde Park Blvd.¤¤IL¤60615
+37c1edd3-0f82-4d98-a240-9584abf42f8b¤Residence at Sandhill¤Columbia¤486 Town Center Place¤¤SC¤29229
+36d55b79-4a94-4b7e-ac90-8c853116dedf¤Bridgeview¤King of Prussia¤100 Ross Road, Suite 200¤¤PA¤19406
+3ac74e16-8908-4da3-80d0-6c90e1ddf5c2¤D H Holmes¤New Orleans¤810 Bienville St¤¤LA¤70112-3151
+37f856bb-9470-4955-b457-0ccc6eadfa3a¤Avalon at Traville¤Rockville¤14240 Alta Oaks Drive¤¤MD¤20850
+3ad9a778-66bc-4eea-94aa-b4220f70d292¤Kenect¤Chicago¤504 N Green St¤¤IL¤60654
+37faf8fc-17c9-4134-8e59-6f90988810e1¤Jefferson Park¤St. George¤1023 W 540 N¤¤UT¤84770
+380430c1-d72e-4d98-9a6a-78de0181df4b¤6651 Franklin Ave¤Los Angeles¤6651 Franklin Ave¤¤CA¤90028-4125
+386b132a-c73a-454e-8bfd-2bb69c9df5aa¤Residences at Brookline¤Charlotte¤8816 Aspinwall Drive¤¤NC¤28216
+3b27f4e7-8e10-4472-8a35-2f199cdbbe59¤Monmouth Row¤Newport¤415 Monmouth Street¤¤KY¤41071
+3b80e188-b278-40a8-8958-c71c528ae41a¤12th Street¤Plainwell¤349 12th Street¤¤MI¤49080
+38a69cc9-98e2-4181-b20d-3c4599e220fd¤1620 N. Fairfield¤Chicago¤1620 N. Fairfield¤¤IL¤60647
+3b8b855b-0a70-4810-b74e-500f064f2723¤Glen Willow¤Capitol Heights¤903 Glen Willow Drive¤¤MD¤20743
+38d29f0f-f164-4c54-8ee9-3bf98dfc3897¤Haynes Run¤Medford¤1203 Haynes Run¤¤NJ¤08055
+38d7f5a2-b982-4ac4-b566-1ce46f329e7d¤La Docta¤Austin¤10524 Canyon Vista Way¤¤TX¤78726
+3c16da39-e4c3-46b6-b17b-9ad5aedc5893¤Woodland Landing¤Lanham¤10023 Greenbelt Road¤¤MD¤20706
+3900009b-8c0c-41e7-b737-d2b32c109d50¤Amberton¤Denver¤777 Corona St¤¤CO¤80218
+390441b4-b919-4399-9f3e-38e7a602df5e¤Gunbarrel Center¤Boulder¤5340 Gunbarrel Center Ct¤¤CO¤80301
+3c77c36e-7193-4653-bd3d-414196f121d6¤Marshall Woods¤Upper Darby¤6700 Marshall Road¤¤PA¤19082
+39ec771e-98ce-4c37-a8b8-e39c826ff449¤Boston Cove¤Newport News¤827 Forrest Drive¤¤VA¤23606
+392d1f8a-a68b-4ab8-8551-db7ac041d895¤Metro Crossing at Metro Centre¤Owings Mills¤10209 Grand Central Avenue Ste 116¤¤MD¤21117
+3ae6b3ba-36fa-4cee-824e-2f61cdd38749¤Arcata¤Minneapolis¤901 Xenia Avenue South¤¤MN¤55416
+3d080857-0e4c-45cf-8b94-d443635db792¤Holly Acres Apts #54¤Portland¤1440 SW Taylor St Ste 54¤¤OR¤97205
+3946e8dd-9173-4687-8ba0-1103e9a6bbd9¤Freedom Village¤Paterson¤69 Straight St¤¤NJ¤07501
+3b01c3fc-fdcd-4b32-933e-0d8572118fba¤Tidewater at Salisbury¤Salisbury¤191 Beach Road¤¤MA¤01952
+3973e7b4-80fb-4ff1-bb6f-380c01b96ddb¤Birchwood at Fairmount Hotel¤Jersey City¤2595 Kennedy Boulevard¤¤NJ¤07306
+3d3dc536-20e2-4fb1-9893-de2302fd5f33¤Rosecroft I & II ¤Charlotte¤6271 Rosecroft Dr¤¤NC¤28215
+3bc26827-2568-4e2c-a7da-2c3ebd998dec¤Phoenix¤Denver¤1415 Pearl St¤¤CO¤80206
+3d9793f6-11e9-4c1e-9718-526cbaeb457d¤L.T.P.¤Pottstown¤130 E. 4th Street¤¤PA¤19464
+39fcc3e6-4456-4c1b-a307-543802721c8a¤Nannie Helen at 4800¤Washington¤4800 Nannie Helen Burroughs Avenue NE¤¤DC¤20019
+3db87737-82a4-4054-a6cb-e8ff104c3371¤Meadow View¤Kamas¤530 South 70 East¤¤UT¤84060
+3cf4d8c6-13eb-45d6-9fb9-4da2350a8bc4¤Reunion¤Columbus¤307 Hospital Dr¤¤MS¤39705
+3a592390-d988-4858-b5c7-38c169fdc3c6¤District Lofts¤Morrisville¤3001 Village Market Place¤¤NC¤27650
+3dfc1701-d749-441e-8981-9ea62d5a7cdd¤Graduate Gardens¤Hyattsville¤3424 Tulane Drive¤¤MD¤20783
+3d0e43db-6e8b-45a9-8d17-47715c98c1eb¤Aspen Creek¤Colorado Springs¤319 E Brookside St¤¤CO¤80906
+3b2e62a6-15d9-4b0a-bfb2-9309b58e27f7¤Ironworks at Keystone¤Indianapolis¤2727 East 86th Street¤¤IN¤46240
+3f2f8496-c66a-4e3f-85d8-f11f7425c987¤Residences at Washington Street¤Kokomo¤400 N Washington St¤¤IN¤46901
+3d399844-b352-4fb4-bb6c-d57e1e6558b2¤Windsor Pointe¤Memphis¤250 Wesley Oaks Drive¤¤TN¤38109
+3f52c17a-4b98-424c-a00a-31cca41b8a14¤Village at Creek Meadows¤College Station¤15109 B Silver Springs CT¤¤TX¤77845
+3cf9d76e-f6a5-49f1-9497-5e4281f96b97¤Ascent Uptown¤Denver¤1691 Franklin Street¤¤CO¤80218
+3d7a9b18-f064-4e20-969d-79969417232f¤Hudson¤Vancouver¤500 East 13th St¤¤WA¤98660-3297
+3ff14ffa-1dee-4da6-adde-07558728224d¤Bedrock West¤Cincinnati¤3229 Queen City Avenue¤¤OH¤45238
+3da5fed9-4f31-473e-a87a-655f5ba838fd¤Fitzgerald¤Chattanooga¤622 Georgia Avenue¤¤TN¤37402
+418498fa-b3ac-4a99-81c1-8b9de4b05086¤2047 Building/2050 Building¤Opa-locka¤2047 Lincoln Ave¤¤FL¤33054
+3dcbcdef-9534-48c6-a6ec-4107e962a5f7¤Georgetown at Kettering¤Kettering¤4889 Far Hills Ave¤¤OH¤45429
+3de6a0ba-be56-4466-a5bc-9645590fc24d¤Glen Willow¤Boulder¤303 Pearl St.¤¤CO¤80302
+41931087-2bd2-4519-be8f-d6fcf9ce1c83¤Park View at Emerson¤Laurel¤9895 Palace Hall Drive¤¤MD¤20723
+3e7d8ca3-1a62-4fc3-89be-b7cf2d1fde53¤Townsend Manor¤Hummelstown¤160 Townsend Drive¤¤PA¤17036
+41fa2626-fb85-4c12-a0f6-d5eb9507af8c¤Bayberry Farms Village¤Wyoming¤2520 56th Street SW¤¤MI¤49418
+3e1598d1-9741-44e5-af44-22516572c89c¤Villages of Whitewater¤Harrison¤200 Maxwell Lane¤¤OH¤45030
+3f9c31ce-ef76-4d87-b573-1f0fd46ce9b8¤Cottages on 7th¤Sandy¤9206 S 700 E¤¤UT¤84070
+425f00bc-5fc4-47a8-8c0b-b36123fd8362¤763 Walker Ave¤Oakland¤763 Walker Ave¤¤CA¤94610
+3ff56786-2521-4163-845e-209fc8fd59ca¤Sterling at Kearney¤Kearney¤820 W 56th St¤¤NE¤68845
+404e7622-93df-4399-a1b8-fd7a3800b73b¤Dwell Cherry Hill¤Cherry Hill¤150 Greene Lane¤¤NJ¤08003
+41933eeb-9002-439e-ab74-1006c53272e1¤Mason Flats at Township Square¤Pleasanton¤1605 Lexington Lane¤¤CA¤94566
+405f26d6-5307-4bb2-ac91-e365b85e0f5a¤Potter¤Exton¤549 Dickinson Court¤¤PA¤19341
+42d2bbcd-3b2d-4558-a815-a2a4c2cefa8c¤Central Park Place¤Columbus¤1500 13th Street¤¤IN¤47201
+41c5012e-4d2b-4294-b379-80ff5f4ea75d¤Arborwood at Mann Rd¤Indianapolis¤6702 Trunk Way¤¤IN¤46221
+42fbec3e-ccde-494d-974c-cab0566afbd2¤Gloria Robinson Court Homes¤Jersey City¤348 Duncan Avenue¤¤NJ¤07306
+405f94be-e84f-4cc9-8cf0-9255bfe6187b¤Marchmont Terrace¤Shaker Heights¤3310 Warrensville Center¤¤OH¤44122
+41dc6a7c-2b4e-47ac-9ae5-03df97370fe3¤McArthur Landing¤Fayetteville¤2500 McArthur Landing Circle¤¤NC¤28311
+42313cd5-b84e-48b4-aaf2-00b56abc9c08¤Walnut Manor¤Corsicana¤2616 W 2nd Ave¤¤TX¤75151
+409d9fad-caf7-4e61-823e-0e0d43e64ee9¤North Brunswick Crescent¤North Brunswick Township¤1003 Crescent Court¤¤NJ¤08902
+4345700e-e216-43fa-93f6-e04ec30625f9¤Sinai Village¤East St. Louis¤1235 St. Louis Ave¤¤IL¤62201
+40d72061-97a7-4f23-b900-869b812e6e4d¤Tattersall¤Chesapeake¤504 Cap Stone Arch¤¤VA¤23322
+4393c020-0802-416a-90cc-b34cdc2ca59a¤Isabella¤Cincinnati¤3783 Isabella¤¤OH¤45209
+447317ac-598b-47a2-a8f2-c7bc74c91998¤200 Hermosa NE¤Albuquerque¤200 Hermosa NE¤¤NM¤87108
+4197a184-9b24-4c31-ab2a-75986a3b01b9¤Shadow Park¤Council Bluffs¤3401 12th Ave¤¤IA¤51501
+445baaaa-ad06-4071-a1d9-cb052f643bcf¤Timson Place¤Mountville¤150-232 Hampden Drive¤¤PA¤17554
+45fca976-d0a9-45ac-92ec-15e170f1c912¤Schoolhouse Flats¤Dayton¤208 8th Street¤¤KY¤41074
+445da43c-6b76-4319-a1fd-8550b8a0fdab¤Harrison I¤Huber Heights¤3044 Burgoyne Court¤¤OH¤45424
+46550d1a-8c97-4d06-ae41-d22995be4e1a¤Dunlop Street Lofts¤Petersburg¤214 N Dunlop Street¤¤VA¤23803
+445da43c-6b76-4319-a1fd-8550b8a0fdab¤Redwood Tipp City I¤Tipp City¤3044 Burgoyne Court¤¤OH¤45371
+42a1cb39-c258-4871-818a-0c2142f6ac08¤St. James¤Tigard¤11155 SW Hall Blvd¤¤OR¤97223
+446f8f5b-f535-4c41-9781-c675b4499c51¤5213 S. Dorchester¤Chicago¤5213 S. Dorchester¤¤IL¤60615
+4681ccd3-0b67-48b2-b64b-52ec42a4ef9a¤Somerset Commons¤Princess Anne¤12370 Somerset Avenue¤¤MD¤21853
+468ea87e-9865-43dc-9cf2-77f8006887ae¤Pinebrooke¤Riverdale¤9170 Dorsey Rd¤¤GA¤30274
+43c50896-fdd6-4f56-b025-b45cf37653f0¤Windy Plains¤Clovis¤4000 Lew Wallace Drive¤¤NM¤88101
+4478ffc0-7f29-4307-9008-4cd99198b374¤Meadowlark Holdings¤Wichita¤2701 E Harry St¤¤KS¤67212
+43d9ec1e-aa1f-4d9c-94c2-b1e844089715¤Emerald Ridge¤East Alton¤420 Ohio St¤¤IL¤62024
+474956e2-ece3-4255-9d57-ca28b268c449¤Rene Village #105¤Portland¤1440 SW Taylor St Ste 105¤¤OR¤97205
+452a17ee-1a11-427d-b21c-1ae2825f6496¤Meadowlark #320¤Portland¤1440 SW Taylor St Ste 320¤¤OR¤97205
+440c7841-d7de-41c2-ae3d-ebf4c91656d5¤Residences at New City¤Chicago¤1457 N Halstead L400¤¤IL¤60642
+47a2c6a0-61dc-42a2-b8e1-2633f43b19d7¤Glass Factory¤Harrisburg¤1215 North 13th Street¤¤PA¤17103
+442663bb-fa7d-42e3-a304-278656397ce9¤Promenade at Anaheim¤Anaheim¤184 W Center St Promenade¤¤CA¤92805
+452f3d9c-42c7-410f-b500-de21c2c93733¤Affinity at Southridge¤Kennewick¤5207 W Hildebrand Blvd¤¤WA¤99338
+487f40bf-cb5e-45ba-886e-c1c2c67ba817¤Ashfield¤Tremonton¤2711 W 450 N¤¤UT¤84337
+444e4e54-f15d-4ca4-af31-030cf88dbff0¤Parkside¤Davis¤1420 F Street¤¤CA¤95616
+446231bb-8a7c-4c5e-9163-289d09ae827a¤Citifront¤Salt Lake City¤641 W North Temple¤¤UT¤84116
+4920052f-c007-4f6e-b2aa-7d68d7ade2e3¤Locks¤Richmond¤311 S 11th Street¤¤VA¤23219
+4537b05a-3206-43cd-93cc-4560432bc2c2¤Cherry Creek Square¤Denver¤9900 E Florida Ave¤¤CO¤80247
+493ce1c7-8add-4a4d-8e9b-fb96958b7974¤Benchmark Meadows, LLC¤Ypsilanti¤1714 Meadow Woods Blvd¤¤MI¤48197
+44a55d48-4a3b-4f7d-90c3-d50be1f81537¤Westmont Village¤Westmont¤6713 Lakeshore Drive¤¤IL¤60559
+4541325e-6f5f-4d09-b2e5-bfc22d201852¤Kentucky Manor¤Albuquerque¤437 Kentucky St SE¤¤NM¤87108-3849
+4570ca8f-729a-4c3e-8dd2-fe9bcfdae57a¤Ordway Gardens¤Washington¤2745.49 Ordway Street NW¤¤DC¤20008
+45d6740b-d1e7-4a44-954a-9242f8569286¤1907 18th St SE¤Washington¤1907 18th St SE Washington DC¤¤DC¤20020
+4b518aa0-5c42-49ac-8d17-5d4c3ceb4cd2¤Hancock Lofts¤Los Angeles¤4700 Wilshire Blvd¤¤CA¤90069
+45716e99-e100-448e-95d0-3aecf3bdbb85¤Centerville Arms¤Dayton¤10, 30, 11, 33 Bradstreet Rd¤¤OH¤45459
+4641ae2b-ddf2-4395-a656-9900b47aef34¤Lombardi¤New Rochelle¤11 Park Pl¤¤NY¤10801
+46ba7273-69ff-4223-b6f6-12609ded221d¤266 4th Avenue¤Jersey City¤266 4th Avenue¤¤NJ¤07306
+4b97c9ae-98e1-4a7d-88b7-10cd1703cf17¤Haven at Schoal Creek¤Kansas City¤8261 N Tullis Ave¤¤MO¤64158
+46ba7273-69ff-4223-b6f6-12609ded221d¤266 4th Avenue¤Jersey City¤924 Bergen Ave Suite 292¤¤NJ¤07306
+46a8bb61-6e86-43b0-a6df-52b018b7c922¤Mark¤Alexandria¤100 South Reynolds Street¤¤VA¤22304
+4baa8625-ca69-472a-a206-86ede858fb7c¤Cove at Fountain Lake¤Brunswick¤1105 Fountain Lake Drive¤¤GA¤31525
+47efe534-1ae0-4501-89ba-a51f2840b883¤Carjo¤Pasco¤2524 W Sylvester¤¤WA¤99301
+475efaec-47f0-4dbd-a80c-55c97e23cad7¤Lofts at Savannah Park¤Sanford¤5724 Byron Anthony Place¤¤FL¤32771
+4d98b3a5-17bf-4d71-b359-5d2b782f98ef¤Glen at Hunters Run II¤Watford City¤3410 5th Avenue NE¤¤ND¤58854
+484efc65-5659-4845-8977-7853ad0a459a¤1636 - 1656 N. Bosworth¤Chicago¤1636 - 1656 N. Bosworth¤¤IL¤60642
+47e02ce2-beda-428c-8a40-b90715a8d7dc¤Ocean Air¤San Diego¤10500 Sea Pearl Cove¤¤CA¤92130
+486892aa-4999-40ea-ba26-bae3da06ef84¤Oxon Hill Village¤Oxon Hill¤2260 Alice Avenue¤¤MD¤20745
+4dd3e685-5e90-4d43-a6ff-176753423ff4¤Glenwood¤Washington¤2321 Lincoln Road NE¤¤DC¤20002
+4a35fb2f-b53d-4e8c-83e0-bad3396576e5¤Hermosa¤Albuquerque¤229 & 231 Hermosa NE¤¤NM¤87106
+49dde73f-0724-467b-8716-fca81023b4d1¤Burkhardt Valley¤Dayton¤4644 Burkhart Avenue¤¤OH¤45431
+4a7c1fe9-bc49-48c6-989a-9dd5e66bd84b¤Homestead Garden¤Spring Lake Heights¤1 Garden Place¤¤NJ¤07762
+4eb11c73-adbe-4083-b100-8310ff3b4413¤Railton¤St. Louis¤205 North 18th St¤¤MO¤63103
+4a10b1ee-0e4d-45d2-8382-cc6b5cddcc8d¤Park Apartments #345¤Portland¤1440 SW Taylor St Ste 345¤¤OR¤97205
+4f8ba6be-6f0e-4c1b-8062-a7f56839caf1¤Cloverleaf¤Virginia Beach¤964 S Military HWY¤¤VA¤23502
+4a2d3046-24f2-4b74-b34e-d4bafdd803f0¤Pointe at River Glen (formerly Oxford River Walk)¤Royersford¤5105 Anchor Ct¤¤PA¤19468
+4b6b1f0b-22db-4654-b785-ea9dfe85905c¤3021 Holmes Ave S¤Minneapolis¤3021 Holmes Ave South¤¤MN¤55408
+4fc4c1e5-9c29-4664-a7d1-e43161abb1c3¤Broadview Country Estates¤Caledonia¤300 Laneview Dr Se¤¤MI¤49316
+4bb257ed-8b42-4cde-9b26-92e57bb6c16e¤149 Central Avenue¤Ridgefield Park¤149 Central Avenue¤¤NJ¤07660
+4a589062-daa8-48de-9c70-5b59241330dd¤Birchcrest¤Bellevue¤1015-1021 Fairfax Rd¤¤NE¤68005
+5024500e-8e42-447c-97c3-d9dff6ef393b¤Ten Ten Clarkson¤Denver¤1010 Clarkson St¤¤CO¤80218
+4b6cbcbc-b774-4aae-a5b3-207646ba1935¤Clay Avenue¤San Diego¤3224 Clay Ave¤¤CA¤92113
+4be92a9f-23d7-42a2-ab12-602a0f38685d¤Opus¤Portsmouth¤99 Handover Street¤¤NH¤03801
+4c433cdd-429e-45f0-8e74-08e2eb40ecf3¤Barclay¤Chevy Chase¤4716 Bradley Blvd¤¤MD¤20815
+4c3385be-8cf8-4be5-8bac-7c4ab907ad0d¤ICO Orchard Farms¤Fruit Heights¤893 South Lily Drive¤¤UT¤84037
+4ce17ceb-9774-402c-915a-93b8c7f8f05d¤7R¤Santa Monica¤1223 Wilshire Blvd # 821¤¤CA¤90403
+50fc5800-40d6-430e-a623-07f7695a5226¤Monroe¤Portland¤318 NE Monroe¤¤OR¤97212
+4c62e3b3-70ab-4074-8e3d-dc2505112fa5¤Scott Street¤Arlington¤2022 North Scott Street¤¤VA¤22209
+4da58293-7e0f-4133-ab91-ac1ee8784a07¤Gold Key¤Cincinnati¤5609 Tompkins Ave¤¤OH¤45227
+51c4cc00-2a8d-4d7d-9f4f-ac9178609ab0¤Hoosier Place¤Union City¤310 N Walnut Street¤¤IN¤47390
+4c911a6d-58b2-4030-80f9-e3596fef8470¤Cinema Court¤Moab¤1036 Millcreek Drive¤#64¤UT¤84532
+4e6b4d26-f5b9-448a-ad6b-a461d8b22bc5¤Panorama¤Seattle¤1100 University St¤¤WA¤98101
+528c7aac-6caa-40cc-9a4b-10254a2443a0¤Catania¤Pasadena¤277 W Green St¤¤CA¤91105
+4cadd9a4-4f94-486c-b79a-aaee428a417e¤Two Thousand Post III¤San Francisco¤2161 Sutter St¤¤CA¤94115-3119
+53026f76-f16b-4175-8a46-516852063cc6¤Redwood Danville¤Danville¤297 S Country Road 300 E¤¤IN¤46122
+4e8378af-a878-4488-89a5-4c219ee118a9¤4103 Calle Juno¤San Clemente¤4103 Calle Juno¤¤CA¤92673
+4cf555e1-b56b-4af8-b59a-ba39626937f4¤Elm Tree¤Constantine¤200 Meadow Lane¤¤MI¤49042
+4ec2c99e-abfb-4c09-8a16-c6b99a87e6ff¤Villas at Grays Creek¤Cordova¤10107 Havanese Lane¤¤TN¤38016
+4ea2674c-34ec-4689-9d72-10f8e18f63f5¤38 Central Avenue¤Ridgefield¤38 Central Avenue¤¤NJ¤07660
+4f079c00-2a93-4e0f-b3d4-7a5467429e5b¤Trails at Ridge¤Kansas City¤8619 E 61st Terrace¤¤MO¤64129
+54c872bf-ad8f-452a-be5d-6c5b439fd12e¤1400 Van Buren Street¤Washington¤1400 Van Buren Street NW¤¤DC¤20011
+4ea84e64-1cd3-4dbc-a010-bb7a92b61841¤Village at Arlington II¤Youngstown¤516 Griffith Street¤¤OH¤44510-2600
+4f9fb39f-ceb3-46ef-9459-459bdd377f37¤North Trace Village¤Richland¤200 Waldron¤¤WA¤99354
+4edebc95-d0a4-493d-854e-297841dda0ca¤Forrest Pines Senior¤Newport News¤500 Big Forrest Court¤¤VA¤23608
+550ec3f8-6f1e-4b9e-a673-22b4b0fc5b83¤Avalon Place¤Dewitt¤13180 Schavey Rd¤¤MI¤48820
+50fef907-4de3-44da-a5bf-ba51179e6f30¤Watermark Seaport¤Boston¤85 Seaport Blvd¤¤MA¤02210
+4f5c0c05-213c-4a26-878b-ae9bf867fb38¤Linden Gardens¤Allentown¤2016 - F West Linden¤¤PA¤18104
+55607e81-741c-4446-bcc6-9b5e6adfa08a¤Willow Bend¤Philadelphia¤944 East Johnson Street¤¤PA¤19138
+51407109-b224-42a4-b700-dd46b295add3¤Villas at Boone Ridge¤Johnson City¤133 Boone Ridge Drive¤¤TN¤37615
+500a6a1c-190a-4336-a474-ad9cc433e2e9¤1826 N. Wood St.¤Chicago¤1826 N. Wood St.¤¤IL¤60622
+562665ca-3208-4cb9-84f6-67d02e8aa63c¤University Meadows¤Kansas City¤1410 49th St¤¤MO¤64110
+51e31695-643c-417d-9117-2dafdd83ed69¤Sierra Place¤Omaha¤2708 N 75th St¤¤NE¤68104
+564b9c41-5c64-44aa-938e-96239234b398¤Carriage House Decatur¤Decatur¤3757 Portage Place¤¤IL¤62526
+507ad7d8-2fc1-45aa-8f65-2e73c5e5ed42¤Crescent Arms¤Hollywood¤315 S Crescent Dr¤¤FL¤33021
+57185db2-22bd-47c2-b6b5-5d8e33e0bb96¤Houston Lake¤Kathleen¤2530 S Houston Lake Rd¤¤GA¤31047
+523fed7c-70ad-4e14-a762-28364ceb7f27¤Ballard 33rd¤Birmingham¤1512 33rd Street South¤¤AL¤35205
+52542c84-d2e0-4175-8afa-cb5c291b32de¤Stoneleaf at Eustace¤Eustace¤320 FM 316¤¤TX¤75124
+5345c533-0c0b-4155-954e-645193762cf2¤Hotel Flatiron¤Omaha¤1722 St Mary's Ave¤¤NE¤68102
+57672674-5750-43b9-973f-f2dc301e33da¤New Broadmoor¤Salt Lake City¤930 E 300 S¤¤UT¤84102
+529c0a65-0ab6-4fa6-b176-268045ab37a8¤Midtown Flats¤Colorado Springs¤3950 Galley Rd¤¤CO¤80909
+58098897-7d15-428c-b160-2919968cd0c6¤Carmello¤Scottsdale¤6915 E. 3rd Street¤¤AZ¤85251
+5418dc2b-a0c2-48e1-99cf-f59bbf659970¤Charleston Row at Parkway Crossing¤Pineville¤12103 Monkstown Drive¤¤NC¤28134
+52eb4298-20a0-47b6-9aad-9c849cc79a4e¤1818 Riggs Place¤Washington¤1818 Riggs Place NW¤¤DC¤20009
+551f3186-3977-4255-9280-7686c1f51fc8¤Pointe at Pickett Farm I & II¤Norfolk¤5424 Greenplain Rd¤¤VA¤23502
+589d9e2c-b372-4424-8569-39faf68cdd8d¤Residences at Pacific City I¤Huntington Beach¤2100 Pacific Coast Highway¤¤CA¤92548
+53bc90a6-c007-43c4-ab77-28293c11a843¤Payne Place¤Alexandria¤219 South Payne Street¤¤VA¤22314
+55201aae-6d72-4e1a-bb07-58565440aeda¤18 Park¤Jersey City¤18 Park Avenue¤¤NJ¤07302
+53d59a3c-b4ba-4b96-86dc-13f6c73e0bf7¤Triple Crown at Tates Creek¤Lexington¤3501 Pimlico Parkway¤¤KY¤40517
+5a3ba7fb-9121-4ad1-92d8-c0271b6ddd0c¤Luna Bella¤Lafayette¤695 South Lafayette Dr¤¤CO¤80026
+55909d23-c896-4392-9a04-e26b7b7824ed¤Point at Glen Mills¤Glen Mills¤1000 Ellis Drive¤¤PA¤19342
+5aaac65d-7319-4556-a7f9-6368f663732a¤Tremonton Terrace¤Tremonton¤2696 W 450 N¤¤UT¤84337
+54835247-9b75-4670-a709-edfec4bc7e30¤Rio Mimbres I & II¤Deming¤1608 S Tin Street¤¤NM¤88030
+5663b94d-5e33-4555-aede-991e9efc6e79¤Raeford Crossings¤Fayetteville¤6452 Raeford Road¤¤NC¤28304
+5b02cd57-ae7e-4287-88eb-94593b4fc29e¤Fairways of Rolling Ridge¤Cincinnati¤5828-5836 Montgomery Road¤¤OH¤45212
+554d7a9c-8b1c-4f7f-9b91-a408abdb55b6¤Erie Courtyard¤Cincinnati¤3201 Erie Avenue¤¤OH¤45208
+57c46cf5-b972-4943-9026-8596b6fb313f¤Newport Bay Terrace¤Newport Beach¤1691 Mesa Drive¤¤CA¤92660
+5b2e0944-0248-43be-bfa5-0a915b4d4439¤Ridley North¤Ridley Park¤10 Chester Pike¤¤PA¤19078
+55683089-9d2b-430a-8942-4aa71f997325¤Flatiron View¤Boulder¤4920 Thunderbird Cir¤¤CO¤80303
+5b51bff6-9cfd-4584-a1ac-40d307b060c9¤Clifton¤Washington¤1309 Clifton Street NW¤¤DC¤20009
+57d6e5bc-e534-4fd5-be67-749e50a40014¤Centre Meadows¤Portage¤1503 E Centre Avenue¤¤MI¤49002-4413
+55bfa5d5-43a7-4e62-bf8a-85e0f0d0287f¤10521 W 7th Place¤Lakewood¤10521 W 7th Place¤¤CO¤80215
+5c39ba27-b647-40d0-a392-0c3e5ae49696¤Morris¤Washington¤435 16th Street SE¤¤DC¤20019
+57fd2ddd-1191-45e4-b18f-6edb0302c270¤Park 16¤Federal Way¤35703 16th Avenue S¤¤WA¤98003
+55c9d704-a88b-4e4e-8b01-9e3eca81774e¤One St. Helens¤Tacoma¤1 St. Helens¤¤WA¤98402
+5cb7ca34-28cd-4878-95f8-e1e9b2fb96f4¤Cypress Way¤Cincinnati¤2704 Cypress Way¤¤OH¤45212
+5953af10-28de-4115-afac-a84d19b082a4¤Metro Woodbridge¤Woodbridge¤150 Harriot Street¤¤NJ¤07095
+5960c867-1afa-46b2-af6b-2ba14b42e396¤Prescott Square¤Baltimore¤4400 Old Court Road¤¤MD¤21208
+5610e8cc-294e-42a6-9956-73c8d37c5950¤Republic¤Philadelphia¤1930 Chestnut St¤¤PA¤19103
+5ce81aad-1863-48d7-945e-06073a811444¤Madrid & Drake¤Birmingham¤1927 15th Avenue South¤¤AL¤35205
+5a881464-7c0c-4f67-83b6-4d6c7fa3b5c9¤Luna Bella¤Lafayette¤695 South Lafayette Drive¤¤CO¤80026
+5b7c7bdc-7c77-40b1-8ac0-1de3234289f6¤Waldon Lakes¤Orion Charter Township¤2000 Elmhurst Circle¤¤MI¤48359
+58a4bf17-7830-44c4-ba4f-9805e1fefe23¤Nora Commons on the Monon¤Indianapolis¤8905 Evergreen Avenue¤¤IN¤46240
+5d3dd56f-ba15-410c-93bc-6ec0a9c6aec5¤Bristol Court¤Milwaukie¤7678 SE Michael Dr¤¤OR¤97222
+5b9f6c92-7301-4c04-8e5e-9ddcedfe8e38¤Marq at the Pinehills¤Plymouth¤40 Pinehills Dr¤¤MA¤2360
+58d954e9-a469-4511-9f68-c63603cd59a6¤Broad Street¤Hillside¤1510 North Broad Street¤¤NJ¤07205
+5cc04de9-7f83-4289-ae95-6d8a7539cdc4¤98 Apartments¤Owasso¤12700 East 100th Street North¤¤OK¤74055
+58f253a9-3ae1-444d-a2c2-8e7fd2e774d4¤Winslow Cross Creek II¤Winslow Township¤300 Lampart Avenue¤¤NJ¤08081
+5da63f8b-65d3-4884-ac5a-26501f2d601d¤Courtney Square¤Milwaukie¤2660 SE Courtney Rd Apt 21A¤¤OR¤97222
+5da7b751-f7b9-4187-ae0b-9b5ecbfea343¤9th Street¤Charlotte¤406 W 9th St¤¤NC¤28215
+594910d6-91c9-4de3-9831-009bd36ec969¤925 N. Larabee¤Chicago¤925 N. Larrabee Street¤¤IL¤60610
+5dccad2f-a5f6-4324-9afa-593eb08512dc¤Riverwood¤Sturgis¤513 Walker Street¤¤MI¤49091
+5e74aff1-4391-4a37-aacf-201fcb69c663¤Columbus Village Apts #02¤Portland¤1440 SW Taylor St Ste 2¤¤OR¤97205
+59673d03-22e4-4945-bc2e-3fdc1c8a71e9¤Village at Homewood Point¤Colorado Springs¤907 E Colorado Ave¤¤CO¤80903
+020bd953-dbed-4909-844b-1915e4764128¤Heathergate¤Langhorne¤8101 Fonthill Court¤¤PA¤19047
+5ed60e36-c6f2-40e7-82ea-131ca3fb5d81¤Casa Blanca¤Antioch¤1000 Claudia Ct¤¤CA¤94509
+5e885799-5113-485e-b169-c27bc042e3e1¤4848 Reading Road¤Cincinnati¤4848 Reading Road¤¤OH¤45237
+5eeb7b5b-4464-49f2-b794-c744687da59a¤Hilltop¤Palm Beach¤340 Royal Poinciana Way Suite 317-355¤¤FL¤33480
+598afe2b-bd96-4518-9b1d-aa41521f548e¤1860 S Komensky Avenue¤Chicago¤1860 S Komensky Avenue¤¤IL¤60623
+02570265-ad65-4729-850e-2dfebc5db970¤Central Gardens I¤Capitol Heights¤1 Cindy Lane¤¤MD¤20743
+5f710713-f7a1-4af6-a254-d16f91d05b84¤Nalbert¤Arlington¤1301 Fort Myer Drive¤¤VA¤22209
+5ef5ab55-1274-42ee-a38c-ce000b9f8368¤Division Street¤Washington¤307-11 Division Street NE¤¤DC¤20019
+5fdb7296-4ef1-4665-b007-aacd7c8d5241¤WaterCrest At City Center¤Lenexa¤8401 Renner Road¤¤KS¤66219
+5a49e226-0d40-486b-8ac2-eec3a24276c2¤Vistas at Red Creek¤San Angelo¤5751 Green Hill Road¤¤TX¤76901
+5a6bd8c7-e2e8-45a1-8582-0d876ddc4594¤Regency Point¤Fort Washington¤3253 Walters Lane¤¤MD¤20747
+601de323-d351-499f-8bca-e7c8c996c30e¤Kidde¤Paterson¤520-526 E 39th Street¤¤NJ¤07504
+5a7a4029-446b-4c17-b6b3-36dcb316f1a0¤Staples Mill¤Richmond¤4100 Townhouse Road¤¤VA¤23228
+5f1530d6-1ef5-4e97-8207-17a5a18ad4d9¤Gardens at Maplewood¤Maplewood¤10-104 Van Ness Court¤¤NJ¤07040
+6027b01b-0877-4af1-b70f-2f6d73bfcd7f¤Pine Forest Homes¤Gainesville¤4021A NE 2nd Way¤¤FL¤32609
+5a7fca79-17e5-4869-814e-89f2528cbba5¤Riverstone¤Rock Hill¤709 Patriot Pkwy¤¤SC¤29730
+5f2137fb-ee4e-4715-a45f-363ab26a0faa¤Rosewood¤Colorado Springs¤849 S Union Blvd¤¤CO¤80910
+614217d6-6a0c-4cb3-adda-a8726fee75dd¤Timber Ridge¤Lynchburg¤7500 Timberlake Road¤¤VA¤24502
+6137e796-8dca-4147-9ace-881009b44060¤Crown Village¤Tremonton¤360 N 270 W¤¤UT¤84337
+5ad13813-ee31-45c1-aed9-10353d4b5015¤Maybrook Village¤Maybrook¤105 B Broadway¤¤NY¤12543-1030
+62922f06-880d-44e8-9b8f-e125b98731e0¤Virginia Building¤Norfolk¤101 West Plume Street¤¤VA¤23510
+6140a33b-de71-4ea1-87e2-bfe18a0805ab¤Vermella Crossing¤Kearny¤302 Bergen Avenue¤¤NJ¤07032
+5ade060c-1717-42b3-9af9-3d49f83adefd¤Palmer View¤Easton¤3600 Corriere Road¤¤PA¤18045
+63741c00-338f-4fa8-8047-25ac433b8420¤Lippe Duplex I & II¤Farmington¤603, 605, 607, 609 E 15 St¤¤NM¤87401
+63f166f0-84c8-4e95-a6fa-4ae400da5486¤Linden Yards¤Memphis¤711 Linden Ave¤¤TN¤38103
+61b44f11-acb0-41db-a1c3-18073e2f34db¤Abbey Meadows¤Indianapolis¤259 N Shortridge Road¤#G6¤IN¤46219
+648f4268-a40b-421e-88c8-1933a7b4f818¤Park Meadow¤Kearney¤56, 88, 104 Villa Drive¤¤NE¤68845
+5ba5289c-0478-43ec-a50c-b446d86855a5¤NV Apartments¤Portland¤1261 NW Overton Street¤¤OR¤97209
+61be0590-dda0-417e-a160-4a701b969554¤Delton¤Washington¤3030 30th Street SE¤¤DC¤20020
+649dcbd6-b846-4c0c-829b-d55e7d2f0cd6¤Marquette Property¤Estancia¤PO Box 1152¤¤NM¤87016
+5bf3024f-c856-41f5-831e-08df3f6124bc¤Steigel Manor¤Manheim¤100 Fruitville Pike¤¤PA¤17545
+622e5529-b51f-405e-9121-806da00265fe¤Winchester Arms¤Comanche¤1201 S Austin St¤¤TX¤76422
+5c2a3963-e332-4a50-bfd9-c705b10d91b4¤437 Elmora Avenue¤Elizabeth¤437 Elmora Avenue¤¤NJ¤07208
+64adb44a-b76c-43e9-a402-29467aae13f0¤Ponderosa Village¤Reno¤1775 Evans Avenue¤¤NV¤89512
+62848f87-096e-4f37-93cd-a472d6f3c742¤Chateaux¤Palm Springs¤240 Alemeda Dr¤¤FL¤33461
+5d582ca7-c3a4-49c9-9374-fb09e19306ed¤Imperial Gardens¤Huntsville¤2024 North Memorial Pky¤¤AL¤35801
+64f2e512-a0de-4dab-9d2d-cb052ca92209¤Harrison Park¤Columbus¤565 West 1st Ave¤¤OH¤43215-5192
+630a83f0-e0e1-4de8-9f5e-7f5720031ded¤Prosperity Flats¤Fairfax¤2700 Dorr Avenue¤¤VA¤22031
+5d82825a-041e-4a76-b87b-84bc4c984bcb¤Delta Bend¤Cincinnati¤721 Delta Avenue¤¤OH¤45226
+6554e193-91e6-451f-b1cd-9b85327b97d1¤Shipley Lofts¤Princeton¤PO Box 3709¤¤NJ¤8543
+5dfe3285-93e9-475e-b53c-b97649bcfccb¤1720 N Halsted¤Chicago¤1720 N Halsted Street¤¤IL¤60614
+6460c7c5-d611-47e8-861a-82e54ff8d198¤Founders Village¤Williamsburg¤2800 Ben Franklin Circle¤¤VA¤23188
+6659b988-7796-4ade-9131-a6b9321540e1¤7451 Building¤Miami¤7451 Harding Avenue¤¤FL¤33141
+65970b53-1fc5-4ded-b8a1-ddf7ab153858¤Carriage House Apartments #8122¤Storrs¤Carriage House Dr 17D¤¤CT¤6268
+5e138168-73bd-4ad7-883b-2ec059ddb100¤Three Chopt¤Richmond¤9264 Three Chopt Rd¤¤VA¤23226
+5f6b0a78-d08b-4c84-8cf6-e7403f70db6f¤Highlands¤Birmingham¤2310 Highland Ave¤¤AL¤35205
+66affc08-6836-4e53-b03a-2170bde473a5¤Pomeroy Gardens¤Washington¤2408 Pomeroy Rd SE¤¤DC¤20020
+65ae983e-0126-4b8e-86d7-c74af4ca6c5c¤Whispering Woods¤Baltimore¤37 Alberge Lane¤¤MD¤21220
+65cdfae3-9477-459f-8cbe-2bdf0b00984f¤Eagle Pointe¤Knoxville¤8608 Eagle Pointe Dr¤¤TN¤37931
+67b67382-1f3d-4c9e-bb43-87a109d9e3a9¤Altamont¤Richmond¤1620 Altamont Avenue¤¤VA¤23230
+5f79ad5a-28be-48b3-8772-95f8d9879933¤Summit¤Hopewell¤1007 Langston Park Drive¤¤VA¤23860
+66e3439c-c4cf-4ddb-89e6-394c3ca4c7da¤Governor Square¤Gaithersburg¤409 Muddy Branch Road¤# A¤MD¤20878
+67cd8a60-fff5-4e06-839a-e0b19cffd38c¤South Bay¤Portsmouth¤1600 South Street¤¤VA¤23704
+6051067c-df61-45e1-8fc2-356333ad9ea1¤111 Broad Avenue¤Palisades Park¤111 Broad Avenue¤¤NJ¤07650
+67cd0ec8-953c-4281-b792-12da197af02e¤Ashton Park Townhomes/St. James¤Louisville¤7607 Beulah Church Road¤¤KY¤40228
+685db23c-adbc-4b7e-8c26-5795bd76a83b¤Carleton East¤Seabrook¤9747 A Good Luck Road¤¤MD¤20706
+67ee007c-1639-448f-955d-5d0d05da9014¤Annex of Vincennes¤Vincennes¤201 W St. Clair Street¤¤IN¤47591
+60581f84-f287-41f0-b371-1c5fc6dba684¤Skylofts¤Asheville¤500 S Skyloft Dr¤¤NC¤28801-0094
+60a2a56a-efdc-4b5e-a583-cbe3151f1787¤PerSei¤North Bethesda¤900 PerSei Place¤¤MD¤20852
+688b20af-d513-4766-84ed-286917f3698f¤Hub at Baton Rouge¤Baton Rouge¤5151 Highland Rd¤¤LA¤70808
+6808ad64-b397-489d-ac09-a730ed2b4e99¤716 Madison Street NW¤Washington¤716 Madison Street NW¤¤DC¤20011
+680d2f13-764e-4aa0-b262-dfab61d382c1¤Gran Prix¤Plainfield¤316-324 Franklin Place¤¤NJ¤07060
+61138323-4733-45e3-b0cd-04cffb3bed1e¤Anglican Court¤Birmingham¤724 34th Street South¤¤AL¤35222
+69acf034-f9a9-40da-be64-f57351f1abec¤T Street¤Washington¤1708 T Street SE¤¤DC¤20020
+6842468c-b8d6-448b-affe-0605e5024855¤Aljoy¤Reading¤45-103 Aljoy Court¤¤OH¤45215
+614ff187-7551-430c-a475-f1194e3a0b26¤Collins¤Philadelphia¤1125 Sansom St¤¤PA¤19107
+69e993f2-872b-4056-9921-5b28b64dc101¤Sunnyside¤Smyrna¤14 Malvern Lane¤Apt 3¤DE¤19977
+6868efb2-fa89-47de-a26e-2cf09ef95cd3¤Oaks at Paddock Place¤Clarksville¤261 Pin Oak Dr¤¤TN¤37040
+61bc12c0-bdef-4e72-b21c-5be5903d18ff¤Randolph Street¤Arlington¤1111 North Randolph Street¤¤VA¤22201
+68c9a9c3-a6da-42e7-b037-34386b8512f7¤Village at Northwood¤Northwood¤2496-7 Tracy Road¤¤OH¤43619
+61e4eab4-14f3-4da7-b7b9-91e98fec1074¤Hills at Renaissance¤Bountiful¤467 West 1875 South¤¤UT¤84010
+6a077c1c-18e9-4018-8de9-86e9e05f2074¤Farisswood¤Gresham¤555 NW Fariss Road¤¤OR¤97030
+68d73e95-4fc0-4d1f-97e5-5df9867c3093¤Aspen Trails¤St. Peters¤200 Troyers Run¤¤MO¤63376
+633927f4-b180-4058-9c25-0a4fa74042f4¤Village at Arlington I¤Youngstown¤516 Griffith Street¤¤OH¤44510-2600
+6aa7049e-4e40-4ac1-9e56-b610c9310578¤Grove¤Lake Worth¤9835-16 Lake Worth Rd, PMB 138¤¤FL¤33467
+6ad55df7-910d-44a6-aaa2-79737cb5411e¤1985 Route 27¤Edison¤P.O. Box 6688¤¤NJ¤08817
+690b7285-c7ac-4b63-902b-b08417683d55¤Carriage Club¤Sparta Township¤9 Pueblo Parkway¤¤NJ¤07871
+6376b1f9-5458-4144-9091-20c35a4f54dd¤Affinity at Coeur d'Alene¤Coeur d'Alene¤3594 N Cederblom St¤¤ID¤83815
+6c4e4dc6-c5c5-4969-b4f4-d910d5264816¤Washington Square¤Lakewood¤419 Cedar Bridges Avenue¤#114¤NJ¤08701
+63832096-8ff6-44fc-843b-ede496ee32e6¤Sundance Cape Girardeau¤Cape Girardeau¤901 Hackberry St¤¤MO¤63703-7800
+6cbe1f05-b851-4f8c-a21d-140acde2f91a¤Executive Garden¤Gaithersburg¤12-26 S Frederick Avenue¤¤MD¤20877
+6cdb3bfb-2b92-4fe3-9a13-de73c54890dc¤Leopold Place I, II, III¤Sun Prairie¤2594 Leopold Way¤¤WI¤53590-7067
+645add43-be10-4555-a6fa-68b640ad4a8c¤South 24th Street¤Omaha¤3628 S 24th Street¤¤NE¤68102
+695c3cc6-672c-43d0-9641-2ce53acdaec3¤Sono Pearl¤Norwalk¤101 Washington Street¤¤CT¤6854
+696dc7dd-d803-47de-b268-8f0e1b356eb6¤Carriage Hill¤Richmond¤7000 Coachman Ln¤¤VA¤23228
+657467c8-3a23-4fb4-94d2-529db8c1d7e9¤Savoy at the Streets of West Chester¤West Chester¤6120 Village Center Avenue¤¤OH¤45069
+69a214fe-6756-48d7-a78c-0015fe7a29c8¤Ave New Town Square¤Newtown Square¤7000 Cornerstone Dr¤¤PA¤19073
+6d0fd443-80b9-499b-821b-27b588913553¤Annex of Battle Creek¤Battle Creek¤511 North Avenue¤¤MI¤49037
+659e7927-b134-44e3-8f14-5874662cf921¤Country Manor¤Millersville¤421 N Duke Street¤¤PA¤17551
+673e089d-2596-4548-a424-601aa189d992¤Rolling Park¤Baltimore¤8331 Mindale Circle¤¤MD¤21244
+67c67f07-8b97-496c-b6e1-6392ca81441c¤Cotton Mill Lofts¤Roanoke¤505 6th St SW¤¤VA¤24016
+681a6421-8fd9-4af8-9c82-6a976a601ed0¤Jonathan Court¤Aspers¤1731 Center Mills Rd¤¤PA¤17304
+684070ae-94c5-4ebe-8fa4-dfac8d50a07f¤2410 Van Dyke¤Raleigh¤2410 Van Dyke Ave¤¤NC¤27607-6936
+6948f719-10eb-4759-af0e-05e02b65b7d2¤Milestone¤Philadelphia¤1327 Spruce Street¤¤PA¤19107
+6960a695-e7fc-4732-81f5-ef919fdce0db¤Sterling¤Springfield¤312 Park Central East¤¤MO¤65806
+6a01434d-cb01-42cc-8218-95de55d0852e¤Lakeshore Place¤Dayton¤144 Bellaire Avenue¤#112¤OH¤45420
+6d145f80-ead8-47e4-b0be-3d928cbfdea7¤1200 St. Paul¤Denver¤1200 St. Paul St.¤¤CO¤80210
+6dd7ff91-43eb-48ef-b254-13e706524439¤Somerset Place¤Seymour¤309 Holiday Square Rd¤¤IN¤47274
+6a243624-fd64-442b-b795-e711c6c4de9c¤Townside REALTORS, Inc¤Blacksburg¤220 Professional Park Drive¤¤VA¤24060
+6a4dc81e-5b35-49f8-bbe6-b188f8b97a15¤Stoney Park Place¤Shelby Charter Township¤56114 Stoney Place Dr¤¤MI¤48316
+6e549f53-bdcb-404d-8fb3-6ee02bd1fd81¤Morningside¤Owings Mills¤6 Garrison View Road¤¤MD¤21117
+6a9836e3-85d8-4415-8b1d-d1173a21ee95¤Portland Parke¤Oklahoma City¤3175 N Portland Ave¤¤OK¤73112
+6f7c18b9-c94a-4be9-a819-425fa12274a2¤Metro Marina Bay¤Quincy¤7 Seaport Drive¤¤MA¤02171
+6f8b400d-d98a-4ced-850f-34bae855b127¤Ascend at Red Rocks¤Lakewood¤13105 West 2nd Place¤¤CO¤80228
+6dd352f7-e0ff-40c9-8d9e-ce8ce8597ce1¤Flats at Neabsco¤Woodbridge¤2701 Neabsco Common Place¤¤VA¤22191
+6a2d580d-4b46-4b69-a460-58828bcf089d¤South Shore¤Alameda¤901 Shorepoint Court¤¤CA¤94501
+7064c1f9-5ba3-46b5-9380-6dce2e7d9047¤Courts at Bryan Place¤Washington¤2220 Bryan Place SE¤¤DC¤20020
+6e216124-c02b-48d9-8b01-0315ecbd2463¤Elberon¤Cincinnati¤3414 W. Eighth Street¤¤OH¤45205
+7177aa82-be20-4e2e-bec3-1ea1f62b2f81¤Casa De Chavez¤Los Lunas¤675 Hwy 314 SW¤¤NM¤87031
+6b2d06d4-44cc-41c8-b890-f99b89181145¤Shoreland¤Chicago¤5454 S Shore Drive¤¤IL¤60615
+6eacfa2d-f00d-4605-ae36-99bf17dc7bf1¤925¤Washington¤925 25th St NW¤¤DC¤20037
+6caaab36-3b59-4221-b1a0-24ff9713e6b7¤Fieldcrest¤Stanley¤101 Fieldcrest Place¤¤NC¤28164
+71fdff56-c3aa-42a1-9513-1edb94389138¤Green Bay Manor¤Evanston¤2500 Green Bay Road¤¤IL¤60201
+725aa742-231a-4ef3-a2ba-fba951b40e53¤Fraiser¤Alexandria¤615 Swann Ave¤¤VA¤22301
+72c55fb1-c4ab-492e-93f4-11774c7f1603¤Southern Dunes¤Indianapolis¤7247 Vista Circle¤¤IN¤46217
+6e97b73b-54bd-48ee-8c33-2172c5294072¤South Cathedral Mansions¤Washington¤2900 Connecticut Ave NW¤¤DC¤20008
+73ce0312-2fd2-43c1-b1b4-a534840d69d4¤Gabella at Parkside¤Apple Valley¤6859 152nd Street West¤¤MN¤55124
+7179dd9d-6908-4700-8925-146da0ac77ea¤Majestic Heights¤Lakewood¤10755 W. 7th Place¤¤CO¤80215
+6f74a26d-c81c-4441-938b-b73bc626404c¤Pointe at Robinhood Village¤Winston-Salem¤5749 Colin Village Way¤¤NC¤27106
+749164de-de9c-48e3-a64e-14490305fd93¤Young Manor¤Mount Vernon¤413-425 E. 10th St¤¤IN¤47620
+71ee0d12-7f3d-4b58-9486-1f2b4e6ae80f¤Emerson Flats¤Denver¤1244 Emerson St¤¤CO¤80218
+71fdff56-c3aa-42a1-9513-1edb94389138¤2500 Green Bay Road¤Evanston¤2500 Green Bay Road¤¤IL¤60201
+74a2a026-12be-4129-83df-cd59fa022afb¤Avesta Coronado Springs¤West Palm Beach¤555 Kirk Road¤¤FL¤33461
+72043108-5445-4701-b7df-f7e429b13e24¤Villager¤Reno¤1500 Valley Rd¤¤NV¤89512
+7047a0c4-f869-48ad-9b01-671145e6f92f¤Woodlands Venture¤Eugene¤555 Coburg Rd¤¤OR¤97401
+74b2a6bf-d05f-4a5d-a4fc-3a4d227a8e9c¤Olive Pointe¤Olivette¤1102 Indian Circle Drive Apt D¤Apt D¤MO¤63132
+7208d522-d2b1-433c-b2ab-df7b3affd5e2¤Dickinson Meadows ¤Dickinson¤1600 Mike Street¤#612¤ND¤58601
+70793357-d533-4d99-9c8d-c78e5c01386b¤5700 Madison¤Indianapolis¤5757 Madison Avenue¤¤IN¤46227
+72f37580-d03e-47f1-846e-da753ae5cc5b¤Zinc Mill Terrace¤Greencastle¤903 Zinc Mill Terrace¤¤IN¤46135
+74f97d5a-91a9-4410-a3f4-3b0df89eaa1f¤Lakeview Apartments of Farmington Hills¤Farmington¤23960 Middlebelt Rd¤¤MI¤48336-2973
+730867e4-d15a-46f1-85cd-d9dbb5fe5c4d¤Sunrise South¤Albuquerque¤1101 Del Rey Ave NE¤¤NM¤87122
+717895de-54ec-4aae-96a9-8de2391003d2¤Cambridge Heights Senior¤Westminster¤7541 Wyoming Street¤¤CA¤92683
+731a532b-7f45-4940-9e97-5d2cbaf8cb20¤PerSei at Pike & Rose¤North Bethesda¤900 PerSei Place¤¤MD¤20852
+7535dcb1-0775-4da9-99b8-b81115a78277¤Hanover Shady Grove¤Rockville¤9305 Corporate Blvd¤¤MD¤20850
+73b2b6eb-6da0-4a84-9b83-91a23743745b¤Cotton Hill¤Philadelphia¤170 Cotton Street¤¤PA¤19128
+75f16626-bcfc-42ba-a3dc-b09bb0e143da¤Carmel Pointe¤Los Angeles¤1990 S Bundy Drive Suite 250¤¤CA¤90025
+7378b1a5-37c3-493f-88a9-8e5d77443d85¤Nottingham Village¤Gardner¤29701 W 188th St¤¤KS¤66030
+73c7f004-72cf-44db-a19d-7ad5c985ee09¤Inwood Place¤Houston¤6706 Wagon Wheel Ln¤¤TX¤77088
+73867302-1564-44f6-9c15-7cc603ed6765¤Hickory Hill¤Timonium¤10 Dodworth Court¤104¤MD¤21093
+7691ac3c-213e-4f65-a1c7-02c66d80b57d¤Willow Ridge Village¤Marlton¤1 Meridian Court¤¤NJ¤08053
+73ff067b-50ca-4d33-a1bc-8411bf4b8770¤Villages of Independence¤Independence¤1743 Delaware Crossing¤¤KY¤41051
+76f2e3da-a46d-47be-a304-6e91954b8234¤Park Vista¤Washington¤3432 13th Street SE¤¤DC¤20032
+7433bc02-ac84-411c-a119-84c198ad8f13¤1809 Spruce Street¤Philadelphia¤1809 Spruce St¤¤PA¤19103-5820
+748d7f4f-f7d9-457a-a52b-8cd771869959¤Kimball Towers¤Burlington¤8 Kimball Court¤¤MA¤01803
+749468d0-e882-40f6-b6e1-7d180cd48c3c¤Miller's Crossing¤Monroe¤100 Michelle Court¤¤LA¤71202
+76fc8cc3-73a2-47e1-93e3-46e4c71778aa¤Lincoln Crossing¤Prospect Park¤701 Lincoln Ave¤¤PA¤19076
+7554ef61-6fd0-41fe-8453-0943a36d2d7f¤Alaska 45¤Seattle¤4546 45th Ave SW¤¤WA¤98116
+7726a512-d7e2-4236-a864-62875748b171¤Toro Ridge LLC¤Spanish Fort¤31611 Plaza de Toro¤¤AL¤36527
+75d972ea-16af-4b35-8d33-049810ce4b98¤Willow Bend Townhomes¤Reynoldsburg¤423 Post Woods Drive¤¤OH¤43068-4816
+74f3ef71-a5c8-4d6d-a7b1-8223ccf45638¤George¤Wheaton¤11411 Georgia Ave¤¤MD¤20902
+77372374-3b31-43c1-bc5d-e68a72431b65¤Amador¤Albuquerque¤904 Seattle Slew Ave SE¤¤NM¤87123
+76760195-735b-4df3-89e2-043887ec9e07¤Ram's Crossing East Townhomes¤Fort Collins¤1517 W Elizabeth Street¤¤CO¤80521
+7550b72c-774f-4b3c-b3d5-aaecc80484d9¤San Marco II¤Pompano Beach¤3111 NE 1st Avenue¤¤FL¤33064
+769861fd-7fa3-4b48-9f0d-2249fcea15cb¤Retreat At Shawnee¤Shawnee¤11128 West 76th Terrace¤¤KS¤66214-1295
+77a1a13a-a188-440a-abfb-366bcfc52b9b¤Sheridan¤Washington¤1417 Sheridan Street NW¤¤DC¤20005
+76d55333-b1bd-49cf-9d2c-ac63b1ea921b¤Lyric¤Seattle¤1938 Fairview Ave East¤¤WA¤98102
+755a3ba0-f3fb-4958-abbe-496dd74ef272¤Vienola¤Lompoc¤1512 East North Ave¤¤CA¤93436-7207
+77a6ec6d-5a61-45fd-afa8-aa3e0ff7b671¤Villages of Belle Hill¤Elkton¤200 Clear Blossom Dr¤¤MD¤21921
+786d3d2b-de6d-45f4-a185-ce0eaac0e958¤Pine Cove¤Hinesville¤909 W Pine Street¤¤GA¤31313
+75b58e7d-18de-41e6-8d76-5713a21aefe8¤Oak Lane¤Hopkins¤402 E Main Street¤¤MI¤49328
+789d6ba7-0fba-4953-91b5-210513c5ac4e¤Encino Gardens¤Albuquerque¤412 Alvarado Dr SE¤¤NM¤87108
+791cddc8-453c-4656-b201-92f980f87b5d¤Met¤Denver¤1265 Emerson St¤¤CO¤80218
+75bd4cd0-d043-45bf-9d54-e2e02213aebc¤Country Woods Village¤Cleves¤7450 Country Village Drive¤¤OH¤45002
+7c83d947-47c5-4849-9190-03c95f02c8d4¤DeKalb Apartments - Premier¤East Norriton¤2609 DeKalb Pike¤¤PA¤19401
+78fe2678-698f-4cac-99c8-e7e6c0d73d36¤Big 5¤Las Vegas¤113 North 13th Street¤¤NV¤89101
+796f54f7-b25c-496b-8212-7b57963c518f¤Riverside 9¤Wenatchee¤895 Riverside Drive¤¤WA¤98801
+793bac3c-9585-4c86-9a05-4e395a6650b6¤Clemmons Town Center¤Clemmons¤6400 Gentry Circle¤¤NC¤27012
+7979943d-4ce3-4e46-ab70-03a32ff1fdb2¤Mi-Place at West Rancocas¤Mount Holly¤1 Kirby Court¤¤NJ¤08060
+7cd34666-51ba-4fef-9ba9-23dbd65a5946¤Pavillion Pointe¤Cincinnati¤930 Ohio Pike¤¤OH¤45245
+795d8157-70ac-460a-9763-d130da862a0e¤Villas of Castleton¤Marietta¤310 Honeysuckle Dr¤¤PA¤17547
+7da79e76-8679-4a6c-8627-a5568bf28f10¤BCR Property Management¤Blacksburg¤1108 N. Main Street¤¤VA¤24060
+797ca7d2-b2d9-456e-a009-2d14de939d59¤5100 Connecticut Avenue¤Washington¤5100 Connecticut Avenue NW¤¤DC¤20008
+7974b38a-755c-4a52-8431-c31ef41e7b52¤Crossings at Union Township¤Union¤1221 Magie Avenue Union¤¤NJ¤07083
+798616cf-2734-457a-a885-e32dc520aebd¤Hillside Garden¤Belmont¤P.O. Box414¤¤MA¤02478
+7e134b22-c4b9-4bd1-9118-f6c1fac369b9¤Cadet Point¤Biloxi¤200 Maple St¤¤MS¤39530
+7a0d40b2-af86-41ad-bc74-8c1c1a96cd88¤Carousel¤Denver¤1905 S York Street¤¤CO¤80210
+79e8eaf2-fe19-4f3f-ab6e-970082dcd052¤Towm View¤Birmingham¤1517 16th Avenue South¤¤AL¤35205
+7e33237f-0fbd-4f47-954c-fd4062c20fd3¤Bella Vista¤Greensboro¤1827 Merritt Drive¤¤NC¤27407
+7a227c66-67ef-40c2-bca1-c5d0f56b475c¤Huntington at King Farm¤Rockville¤801 Elcroft Boulevard¤¤MD¤20850
+7a022fe3-df2f-43f6-89cb-d918b7e950e5¤Somerset¤Washington¤1418 Somerset Place NW¤¤DC¤20011
+7a6bc380-cf5c-4c2a-a3a1-203d3778c80d¤Oak Terrace¤Hatboro¤2621 Horsham Rd. Apt. H1¤¤PA¤19040
+7e41f948-a109-4d08-9640-44f0f3d5240e¤Robley Place¤Lafayette¤1100 Robley Drive¤¤LA¤70508-6676
+7aeb93e7-958a-4f59-a9d6-cd6a8ebf8d23¤2903 North Charles Street¤Baltimore¤2903 North Charles Street¤¤MD¤21218
+7e6d8e7c-5efb-44c7-9ed2-87efb8fd6b71¤Nottingham¤Omaha¤3304  Burt St¤¤NE¤68131
+7b20c423-51c8-4316-80bc-49bed7dada97¤North Star Lodge¤Spokane¤6614 N Cedar Rd¤¤WA¤99208
+7e6e8158-3cdc-4f2d-a047-cc022d88446d¤NCBC Gulfport Homes¤Gulfport¤3502 E 8th¤¤MS¤39501
+7b398831-49e0-4f48-904b-00cb0e1f1d72¤Ardmore Cates Creek¤Hillsborough¤100 Waterstone Park Circle¤¤NC¤27278
+7b289f46-96bf-4038-86af-67fa8f349603¤Reserve at the Boulevard¤Yaphank¤1 Reserve Dr¤¤NY¤11980
+7ea8fe25-14c2-431e-b505-79ba4cbf5e54¤Marlowe Lake Boone¤Raleigh¤1731 Tupelo Hill Ln¤¤NC¤27607-3447
+7ce7cfb1-9e09-482b-956d-ab1cbb791943¤Takoma Flats¤Washington¤7730 Eastern Avenue NW¤¤DC¤20012
+7b692ace-becb-46a5-b6f4-399f5962b104¤Market¤Oklahoma City¤2930 Paseo Drive¤¤OK¤73103
+7c334873-2893-4ac3-b83f-5a784950416b¤Troy Hill¤Americus¤303 E Glessner St¤¤GA¤31709
+7d207f80-e313-4c69-9544-c05dc446aba5¤Whitten Triplex¤Birmingham¤1623 11th Place South¤¤AL¤35205
+7c73b6a1-7b0f-41e4-bbc8-fbf8674b92a7¤1237 Queen Street NE¤Washington¤1237 Queen Street NE¤¤DC¤20002
+7d3d2b3f-bb53-42eb-8204-748737d7fd54¤Springline¤Seattle¤3220 California Ave SW¤¤WA¤98116
+7dacddc1-18c8-456b-b761-c1d1da9bd0e9¤Evergreen Manor¤Ruidoso¤1204 Mechem¤Suite #11¤NM¤88345
+80880a89-8b43-4259-8d57-87fb37f8d220¤Auburn Ridge¤Watford City¤702 Hunters Run Street¤¤ND¤58854
+7d936065-8b59-4efd-8af6-7a0a7d1e5f09¤Foundry¤West Haven¤680 3rd Avenue¤¤CT¤06516
+7d974878-4dd1-4d33-87d7-d5b20bca56a3¤Meridian Watermark¤North Chesterfield¤4237 Richwine Rd¤¤VA¤23234
+7e1c563e-86d2-4e0e-9221-b0e844e605a2¤Willowbrook I¤Cleveland¤5309 Transportation Boulevard¤¤OH¤44125
+7e6d8e7c-5efb-44c7-9ed2-87efb8fd6b71¤Nottingham¤Omaha¤3304 Burt St¤¤NE¤68131
+80bfeda7-afb1-4561-b589-f7bd6dd36195¤Springs at Woodlands South¤Tulsa¤7541 South Mingo Road¤¤OK¤74133
+7fad9f07-300b-4316-b601-ada5e340c172¤Roxbury Corners¤Boston¤134 Northampton St¤¤MA¤02119
+7dca267c-69c6-42c2-a27f-2045b5f07b34¤Pawnee¤Birmingham¤2912 Pawnee Avenue¤¤AL¤35205
+815df138-8e61-485a-91f8-3779c7e33220¤Ivanhoe¤Washington¤6401 14th Street NW¤¤DC¤20011
+80f326f5-1d66-48d6-bd83-784176e6baf9¤Stoney Ridge¤Dale City¤14397 Westminster Lane¤¤VA¤22193
+7e08e16e-85a5-47a8-a42e-950e4c6d1eba¤Princeton Lake View¤Princeton¤103 Lakeview Terrace¤¤NJ¤08540
+7eb2dc5a-a8cd-46eb-8df4-76a55baa6448¤Josephine House¤Denver¤1215 Josephine St.¤¤CO¤80206
+7eb5a9ad-c7dc-4b60-abc7-2c544a0adcf5¤2301 Roscomare¤Los Angeles¤2301 Roscomare Rd¤¤CA¤90077
+81e1635d-3212-4299-83f4-21529d7b238a¤Azura¤Phoenix¤2700 W Sahuaro Dr¤¤AZ¤85029
+80f75b73-5bdc-4074-b4eb-948066ded940¤Genavieve Garden¤St. Louis¤Marion St¤¤MO¤63026
+7ebd1694-c6ba-42b7-b487-326b273f902e¤Ardmore King's Grant¤Charlotte¤9015 King's Grant Dr¤¤NC¤28262
+81ee9cc3-217e-4f99-b9e4-6bb7e60f9633¤TownView¤Birmingham¤1521 16th Ave South¤¤AL¤35205
+831e2479-78aa-4c6c-a760-f3c2a552e9d0¤Residences At Portwalk¤Portsmouth¤99 Hanover Street¤¤NH¤03801-3987
+7edde958-6d6c-4a2e-8bb5-2c16cce3820e¤7th Flats¤Washington¤1825 7th Street NW¤¤DC¤20001
+8273eb27-e3fc-4f91-9ff9-eae52dbaaf58¤Circle Drive¤Florence¤2 Circle Drive¤¤KY¤41042
+838c4413-a541-4449-9307-992ef3232fe7¤Ponderosa Pines¤Los Alamos¤3000 Trinity Drive¤¤NM¤87544-2374
+7f74d8df-ffa4-48fb-ab2a-63c05c63d593¤Heron Springs Townhomes &¤Auburn Hills¤3005 University Dr¤¤MI¤48326
+7fc59936-6779-493e-9bbd-3d82cc9c8d26¤Cue¤Seattle¤701 Poke St¤¤WA¤98101
+84328402-716c-4ec1-8943-7f15df243f1c¤Oakview Condominiums¤Indianapolis¤7420-7461 Sharzard Place¤¤IN¤46205
+83cb6f8e-4306-4c36-8011-855dc653ba7a¤Parker¤Alexandria¤2550 Huntington Avenue¤¤VA¤22303
+80072bba-99d9-4f18-8df4-21ac95f1fd92¤Park at Fifth Street, LLC¤Corvallis¤720 NW 5th St Apt 41¤¤OR¤97330
+8453b54e-65c3-4d95-9e4b-61d1bdd5ce94¤Villa Capri¤Homestead¤14570 SW 280th Street¤¤FL¤33033
+84e49bf6-4745-489b-bc35-27c8bc763443¤Highland Court Apts #145¤Portland¤1440 SW Taylor St Ste 145¤¤OR¤97205
+85d31b28-a40b-472a-8489-54e84aa70d0a¤Block 12¤College Station¤PO Box 9080¤¤TX¤77842
+8059c07c-9e5e-4911-b9b3-ab3217725b29¤Shorewood¤Cannon Beach¤1121 Spruce Court¤¤OR¤97110
+85ab9350-86ad-4b47-b373-66b71faa887e¤Hudsons Pointe¤Seaside¤1021 S Downing St¤¤OR¤97138
+807825d3-1688-4af0-8b43-03e1451fa895¤El Pueblo II¤Albuquerque¤401 Alvardo Dr¤¤NM¤87108
+85d06d92-2dfa-4b10-9194-f7537e02d107¤Pines¤Adamsville¤121 Foust Court¤¤AL¤35214
+8601ec00-b633-4761-9fc5-09db166b12aa¤Village Condos¤Evans¤1721-1759 Rowan Lane¤¤CO¤80620
+80992b2a-a1ea-432b-8ecb-a719f68acf2f¤One Rookwood¤Cincinnati¤3835 Edwards Rd¤¤OH¤45209
+86b0f959-f8af-4d39-a3f2-3a777c6c7b3a¤Canal Lofts¤Worcester¤48 Water St¤¤MA¤01604-5048
+85d7b1d2-f1d4-4085-9068-6a6892a59ae6¤Coolidge Place¤East Lansing¤1551 Pebblecreek Blvd¤¤MI¤48823-1763
+80c0c872-2bd7-4679-bb83-9cde33961dec¤Saint Dennis¤Washington¤1636 Kenyon St NW¤¤DC¤20008
+85e98502-5c1a-488e-9788-aef820942216¤Katherine Estates¤Joplin¤1500 Katherine ave ¤¤MO¤64801
+80d78d3d-2912-43e9-9492-d59dd6e2ba48¤1429 N. Sedgwick¤Chicago¤1429 N. Sedgwick¤¤IL¤60611
+86d339c3-38f4-459e-b082-e1c5ae6f58e9¤Michigan Park Commons¤Washington¤5182 Eastern Avenue NE¤¤DC¤20011
+85ee556d-025f-4b9d-a882-f4aafa3ecce1¤Amara¤Santa Maria¤329 West Carmen Lane¤¤CA¤93458
+814cbc45-7ad1-475a-a21f-6cc369709fde¤Lofts at 5 Lyon¤Grand Rapids¤200 Ionia Street NW ¤¤MI¤49503
+862c6444-899e-4f65-a3d2-d6232b977d7b¤Ballard III¤Birmingham¤1407 14th Street South¤¤AL¤35205
+8684c81c-6252-4b8e-b93a-57e5aad76115¤Crestview¤Bountiful¤3153 Crestview Circle¤¤UT¤84010
+87580923-ae59-4754-94bd-6b2765b156a5¤Saul Silber At 400 NE 11th St¤Gainesville¤401 NE 11th St¤¤FL¤32601-5633
+86e0e1ba-9f70-4d9e-99e0-a307c6c30633¤Park Heights Place¤Baltimore¤5430 Park Heights Ave¤¤MD¤21215
+81ffb414-a614-4346-85bf-afac7b4ece93¤Collegiate Village Inn¤Orlando¤11850 University Blvd¤¤FL¤32817
+877622d8-bc5c-4d81-9373-a2404db54c0b¤East Main¤Norton¤274 East Main St¤¤MA¤02766
+87554ba3-5102-432e-bd74-14c2c044a016¤Pine Oaks¤Temple Terrace¤11700 N 58th St¤¤FL¤33617
+8224acee-d970-4974-996a-78190ef310ab¤Park 7¤Washington¤4020 Minnesota Avenue NE¤¤DC¤20019
+87a11303-022f-40f2-8a09-f4df1d3fef96¤70 Capitol Yards¤Washington¤70 I Street SE¤¤DC¤20003
+8755791a-33ea-409c-828f-1bf2d0e105ab¤Corvina¤Omaha¤915 Jones St¤¤NE¤68102
+87b3371b-ac63-4d7f-8cec-13dcd9c93c0c¤137 West Jersey Street¤Elizabeth¤137 West Jersey Street¤¤NJ¤07202
+82942c7c-db92-4b59-8c5d-ae6adb62763b¤7611 Georgia Avenue¤Washington¤7611 Georgia Avenue NW¤¤DC¤20012
+878ff68a-9139-4b42-8c42-d844d8d6cf8d¤Antioch Manor¤Orlando¤3850 W.D. Judge Drive¤¤FL¤32808
+8295bc30-975c-4c92-92fd-654c8317d6ca¤200 Irvington Street¤Kearny¤47 Mill Road¤¤NJ¤07032
+88da4ab5-fb4f-4b38-9eeb-f441742c8a68¤Parkwood TH &¤Monroe¤PO Box 8461¤¤LA¤71211
+88b7d3a9-7647-4c91-bca0-2f9bc225fa2e¤2314 19th Street NW¤Washington¤2314 19th Street NW¤¤DC¤20009
+829f03af-562c-402c-9268-9912277c6a52¤Terrameer¤Herriman¤5223 W Terrabithia Ln¤¤UT¤84096
+88c5f340-0a0a-496a-ba24-b93ab129610a¤Historic Greensburg Square¤Greensburg¤207 E. Main Street¤¤IN¤47240
+89aec253-75dd-4502-a3e7-7356a787dbf5¤Arapahoe Court¤Boulder¤951, 953 Arapahoe¤¤CO¤80302
+89b4e5a2-e807-4aba-9b2e-9c66cb1be8ae¤Village Green at Littleton¤Littleton¤19 Boxwood Drive¤¤MA¤01460
+88cbebeb-7fff-4489-8625-38dd76e493db¤Villas by Mary T¤Casa Grande¤1576 E Cottonwood Lane¤¤AZ¤85222
+8381ab2c-2790-4662-96ae-a4d66fef0670¤Jefferson Square #38¤Portland¤1440 SW Taylor St Ste 38¤¤OR¤97205
+89e0261f-b32c-4556-b72d-eedffe82fac5¤Crowfield Greene¤Goose Creek¤179 Turnmille Drive¤¤SC¤29445
+83c41dcb-7f55-476b-9e64-124c379bde7f¤2000 N Milwaukee¤Chicago¤2000 N Milwaukee Avenue¤¤IL¤60647
+895398f1-dd6b-49ae-aecb-8c1af6f98f25¤Providence at Sycamore Hills¤Champaign¤1301 Providence Circle¤¤IL¤61821
+84af8581-66fb-4e9b-b0ce-26ad739511a0¤Estates at Legends¤Hickory¤1998 21st Street SE¤¤NC¤28602
+89c69a70-5153-4e78-82a0-3decf51b44ed¤1120 Chicago Ave¤Oak Park¤1120 Chicago¤¤IL¤60302
+8a159247-ccb3-4a99-9e8e-932534c72be6¤Waterford at Aventura¤North Miami Beach¤19580 W Dixie Highway¤¤FL¤33180
+8af1453d-eafe-48ee-8c68-658e6555f445¤Oaks¤Excelsior Springs¤117 South Street¤¤MO¤64024
+851f0bbd-b8fc-4d26-a733-6d3a9d287269¤79 West¤Panama City Beach¤100 Cabana Cay Circle¤#110¤FL¤32413
+8b0c2284-f043-4596-a719-a3931984b1b6¤Southern Woods¤Knoxville¤9100 Jenny Cook Cir¤¤TN¤37932
+8a294551-b7a8-475b-9205-4c41125ae7b5¤Caryl Place¤Beaverton¤6870 SW Hall Blvd¤¤OR¤97008
+85223391-374b-4c5e-8ffa-a3f19970f0ab¤Indigo at BCS¤Bloomington¤8001 33rd Ave S¤¤MN¤55425
+8b347f7a-81e6-438c-b2d1-0fe9b887d350¤Studio 531¤Bloomington¤531 N College Ave¤¤IN¤47404
+8a3557d4-cebf-4cd4-822a-431b5bd11eb3¤Copper Ridge¤Kennewick¤5501 W. Hildebrand Blvd¤¤WA¤99338
+86bc6d83-0599-4c0d-8789-bed23a2efe0e¤Crosswinds at Tradition Lane¤Danville¤1800 Bent Creek Way¤¤IN¤46122
+8ba5c2b7-0180-497a-a7e8-45c3ee544d50¤Anita Stroud¤Charlotte¤1110 Rising Oak Dr¤¤NC¤28106
+8709ec13-42f6-46f5-bdc0-805b4bcb9eef¤Summer Ridge¤Landover¤1829 Belle Haven Dr¤¤MD¤20785
+8b1eaabe-a25e-462c-94ec-f8c79efc650f¤14th Ave. Victorian House¤Denver¤1922 E 14th Ave¤¤CO¤80206
+8bc28e3d-c651-4c4e-8534-01b0521c5cd9¤Aden Park¤Richmond¤435 German School Road¤¤VA¤23225
+8bd0c345-2a58-49d1-88b4-3655484913b1¤Vestavia Reserve¤Vestavia Hills¤2300 Reserve Trail¤¤AL¤35243
+8783618e-42ad-4940-8892-a09eeb984081¤Simmons Village I, II, III¤Johnston¤339 Simmonsville Ave¤¤RI¤02919-6067
+8c1536b9-3890-43cb-81ba-8ced500d4ae9¤University South¤Denver¤1871 University Blvd¤¤CO¤80210
+8c39baaf-4b10-4e15-808b-7fbbeafba34f¤Helena Springs¤Augusta¤3001 Helena Springs Drive¤¤GA¤30909
+87894c73-a186-428c-8182-69329da35908¤2019 W. Moffat¤Chicago¤2019 W. Moffat¤¤IL¤60647
+8cb74c91-6316-45b3-8aa8-c8e630e82eff¤1335 W. Wrightwood¤Chicago¤1335 W. Wrightwood¤¤IL¤60614
+8c332355-98ce-4498-a583-a8f74d8bdcab¤Wallburg Landing¤Winston-Salem¤4825 Wallburg Landing St¤¤NC¤27107
+87e1f876-1244-4311-aac6-5b607bfd1b73¤Aldon¤Chevy Chase¤4740 Bradley Boulevard¤¤MD¤20815
+8d68dc69-e9a8-4fff-ad39-6eaaf92855cc¤Westlake at Morganton¤Fayetteville¤3311 Woodhill Ln¤¤NC¤28314
+8c4d1d74-f334-45bf-b7cd-8472d4f06701¤V Apartments¤Vestavia Hills¤1904 Vestavia Court¤¤AL¤35216
+8dee666f-bcab-4695-80b5-72b2a39e5924¤Olympia Place¤Amherst¤57 Olympia Place Dr¤¤MA¤01002
+8c90bcd6-9bab-44b9-9def-9011b7cd4afb¤Highline Canal¤Denver¤5545 E Yale Ave¤¤CO¤80222
+8e2c03d0-2bde-46bc-88de-0b7584a08751¤Earsim I-II-III¤Lyndhurst¤P.O.Box 357¤¤VA¤22952
+880a240c-662a-44c4-acc5-5dea0cb6eb6b¤Crescent Village West¤Eugene¤2751 Shadow View Dr¤100¤OR¤97401
+887f44ff-03e9-40a1-816b-a7b398af6dc9¤Residences at 16M¤Denver¤1560 Market Street¤¤CO¤80202
+8d50237a-e42c-4a24-8466-4c565ebdb32f¤Three Waters Green¤Pensacola¤531 Carrier Drive¤¤FL¤32506
+8f72e109-abe8-4ecc-b906-d064bb36de78¤Villas of Country Club¤North Little Rock¤10701 RichSmith Ln¤¤AR¤72113
+91046ae3-fc81-4891-8180-a86e5714a2ac¤855 W. Grace Street¤Chicago¤855 W. Grace Street¤¤IL¤60613
+8db81eb4-9be5-4e3e-9ebb-50d002414dbd¤Palm Breeze¤Rotonda West¤41 Boundary Blvd.¤¤FL¤33946
+890faf92-318a-4d3c-aba6-3bc3be67831c¤Forest Village¤Fredericksburg¤1300 Forest Village¤¤VA¤22401
+91e0ff0d-2f96-4f5f-9d0d-9564efea1867¤Ivanhoe Cottages¤La Jolla¤7769 Ivanhoe Ave¤¤CA¤92037
+9245a4a8-d5d0-47c8-bed1-ba0032ba5b34¤Rams Crossing At Campus¤Fort Collins¤914 W Lake Street¤¤CO¤80521
+89caddb0-a47f-416c-bf45-d9af928e393e¤L.T.P¤Pottstown¤66 Chesnut Street¤¤PA¤19464
+8a2bee5f-9aa1-43b6-acb3-5634831618a2¤Zia Townhomes¤Albuquerque¤12004 Zia Rd NE¤¤NM¤87111
+924a3d41-6ee9-40d9-a112-212845cc499b¤Edge Flats¤Winston-Salem¤111 Edgeway Dr¤¤NC¤27104
+9272fe39-c428-4ed9-88e1-185b2296a568¤Heritage Village at Ocean¤Asbury Park¤400 Stacy Drive¤¤NJ¤07712
+8a6858ba-5ef8-47c4-89c5-09e42fafc5c2¤Bayou Cane¤Houma¤137 Synergy Center Blvd¤¤LA¤70360
+93990960-0602-4697-b247-4555e2e22e49¤Parkside Five Points¤Raleigh¤2609 McNeill Street¤¤NC¤27519
+939acfa5-c0a9-451d-832f-0d8b2c2f0bcc¤Salem Lane¤Arlington Heights¤202-222 Salem¤¤IL¤60005
+8af03bb2-a227-4991-bdec-df24d1108099¤National Hotel Artist Lofts¤Galveston¤2221 Market St¤¤TX¤77550
+8b72fe0a-4723-4b9f-b1f5-871b463647b3¤Oak Forest¤Fairborn¤146 Oak Street¤¤OH¤45324
+93fb7047-915a-400e-ae9d-8aff2bf32f60¤Tower¤Tuscaloosa¤2330 University Boulevard¤¤AL¤35401
+8dcfb684-ed67-4fb3-a0de-9a0050448198¤Hudson¤Richmond¤700 Stockton St¤# 251¤VA¤23224
+8c6a016d-7de8-4900-acd6-e2c2f21998d5¤Stone's Throw Studios¤Montpelier¤17094 Dunns Chapel Rd¤¤VA¤23192
+8dd381f1-fcd0-4865-8f2f-2b52086ff92f¤Bayshore Grove¤Coconut Grove¤2655 S Bayshore Drive¤¤FL¤33133
+94319824-9494-466a-bffe-8235c50c57cb¤Junction 160¤Shoreline¤16100 Linden Ave N¤¤WA¤98133
+8c79dd92-3c98-4601-aef4-db7d34756746¤Redwood¤Fullerton¤436 Thunderbird Court¤¤CA¤92835
+944ac7c6-6664-4820-abc3-a14a8dc3c836¤Salem West¤Oklahoma City¤3928 NW 50th St¤¤OK¤73112-2290
+8e674206-7bd6-4c4c-8325-ee8de212f012¤Barberry Village¤Portland¤224 SE 188th Ave¤¤OR¤97205
+8e7e5983-a8f1-4e17-8cbf-9b24bfc0b887¤Brookstone¤Meridian¤801 25th Ave¤¤MS¤39301
+94fad15a-ce0a-4a76-a01f-9a0fa098f24c¤Meridian¤Washington¤2201 Wisconsin Ave NW¤¤DC¤20007
+8e98a882-5dc3-4d4c-95b2-134372816bca¤249 Prospect Street 2013, LLC¤Jersey City¤924 Bergen Ave Suite 292¤¤NJ¤07306
+8f010711-f808-40c6-8faf-c295a2e53508¤Orleans¤Kansas City¤3635 Walnut Street¤¤MO¤64111
+960da3b5-fb23-4ce3-8851-715a694f5c9a¤Hogshead¤Chattanooga¤600 Georgia Avenue¤¤TN¤37402
+8f2cdb9f-6ca3-4087-9d45-845b7bf30006¤Commando Village¤Fort Walton Beach¤302 Blessinger Dr¤¤FL¤32547-5057
+8fb5582d-d302-4477-bfa1-21756382a203¤Brookland Artspace Lofts¤Washington¤3305 8th Street NE¤¤DC¤20017
+96582628-1eec-4468-8d19-d890b19cfab0¤7160 Building¤Miami¤7160 NW 14th Place¤¤FL¤33142
+8f3a0783-6d2b-4feb-ac36-132ae5efb97f¤11 Peterson Avenue, LLC¤Edison¤P.O. Box 6688¤¤NJ¤08817
+913aa86a-1175-40e2-985e-3885582b7430¤Reserve at Kenton Place¤Cornelius¤17110 Kenton Drive¤¤NC¤28031
+967ebda8-3792-4324-b671-962ec7207024¤Malibu¤Pompano Beach¤3213 SE 12th St¤¤FL¤33062
+91cfcb5c-a65d-46f4-870e-e1c9a2481654¤Brush Creek Meadows¤Johnson City¤2914 Watauga Road¤¤TN¤37604
+97838343-fcdc-41e2-99e7-2c57d9b52cec¤Essex Chase¤Glassboro¤1000 Gianna Drive¤¤NJ¤08028
+979e0deb-b77e-4d0c-946e-9d3ac507b837¤SunCreek Village¤Austin¤Billbox #00-aptassoc-077¤¤NM¤78720-9260
+929bc45e-1be5-4c78-bb84-82796d546bc7¤Elysian West¤Las Vegas¤5175 Jerry Tarkanian Way¤¤NV¤89148
+8f4c8d15-3f90-49f1-acc5-2bc41d4bfc07¤Tivoli¤Birmingham¤1141 14th Street South¤¤AL¤35205
+903f6ac5-9efa-4352-a17a-9b569e7d1da1¤Haven at Odenton Gateway¤Odenton¤9000 Iron Horse Ln¤¤MD¤21113
+984319b8-926e-4e84-a268-57af4ea15da0¤Bradley Crossing 60¤Milwaukee¤4375 W Bradley Rd¤¤WI¤53223-3759
+929bc45e-1be5-4c78-bb84-82796d546bc7¤Zerzura¤Las Vegas¤5175 Jerry Tarkanian Way¤¤NV¤89148
+98ee2f77-2e25-4fd1-a25d-8fdc0ea4ac24¤Amber Ridge¤Richmond¤5601 Goldthread Lane¤¤VA¤23228
+90f1ea69-5387-4c1b-a69f-63918106dfce¤Baker Crossing¤Virgina Beach¤631 Lake Edward Dr¤¤VA¤23462
+930d42bc-8814-454e-a05e-a1f6f1609b3a¤River Lofts at Tobacco Row¤Richmond¤2310 East Cary St¤¤VA¤23223
+99336730-2343-426d-aa76-2ff4e929e462¤Royal Crest¤Florence¤2460 Mall Road¤¤AL¤35630
+9201b619-518f-4878-a7c0-c3297cc64adb¤Viridian¤Seattle¤2505 Third Avenue¤¤WA¤98121
+933b6fcb-0a65-4b5f-a133-26a45e0232c7¤Stoney Run Townhomes¤Columbia¤6100 Quite Times Court¤¤MD¤21045
+996b6524-69aa-4a76-9bd3-f9517649f523¤Pointe at Manorgreen Townhomes¤Middle River¤201 Middleway Rd¤Apt 2A¤MD¤21220
+9284b31f-6b7a-44a2-b432-a77b5f236524¤Lee Manor¤Denver¤1065 Pennsylvania St¤¤CO¤80203
+9371d061-acd5-465e-a2fa-69b58df27624¤West Pointe Townhomes¤Cincinnati¤4410 Guerley Road¤¤OH¤45238
+9975a1d0-2a5d-4fd0-87ef-610a8daa07be¤Dillon Trace¤Sumter¤620 Dillon Trace Street¤¤SC¤29153
+93477832-4ec5-4001-95c2-517516bcef2c¤Summer Chase¤Biloxi¤2110 Popps Ferry Rd¤¤MS¤39532
+93873b18-2611-42a3-9079-eb48651f9182¤2560 Madison Road¤Cincinnati¤2560 Madison Road¤¤OH¤45208
+93797e0c-4a1a-40ec-b3f1-b4320dae3744¤Mark at Cityscape¤Boca Raton¤11 Plaza Real S¤¤FL¤33432
+99b32f4f-fe48-419e-9f5e-9be4bb06c57e¤Manhattan¤Boulder¤660 Manhattan Dr¤¤CO¤80303
+93881729-fe4d-42ef-831f-2f0a9ac901f9¤Carlton Place¤Charlotte¤6464 E WT Harris Blvd¤¤NC¤28215
+94b17d08-6a54-45f2-bbed-df2d7ce482bc¤Gables of Spring Creek¤Forest¤1061 Spring Creek Drive¤¤VA¤24551
+9a2edd73-f7a4-4bbf-9d63-58b736a32c0d¤Kingston Pointe¤Des Plaines¤1646 River Street¤¤IL¤60016
+95564082-1d27-410d-b3e8-cde2bf4a5efe¤Clarkson Commons¤Denver¤1234 Clarkson St.¤¤CO¤80218
+95998f8e-d97e-4c29-b56f-f4a8359aeed4¤Admore Terrace/Cloverdale¤Winston-Salem¤245 A New Drive¤¤NC¤27103
+94947048-853b-4dd8-af4a-b42abb43a10f¤Park Place¤Branson¤3515 Arlene Dr¤¤MO¤65616-8133
+95ac903e-0f37-418c-971e-f26e9aecc78d¤La Jolla International Gardens¤San Diego¤3417 Lebon Drive¤¤CA¤92122
+94c3ece9-d70b-4c32-87b2-bc936ea05f05¤Palms of La Mesa¤La Mesa¤7481 Mohawk St¤¤CA¤91942
+95c6a875-6027-4bce-9203-c33e5cd40f50¤Executive East #25¤Portland¤1440 SW Taylor St Apt 25¤¤OR¤97205
+965d4ead-357d-493a-a715-ca6432a7e316¤Brookwood¤Dumont¤79 Washington Avenue¤¤NJ¤07628
+9a67a96a-fd3b-41aa-9adc-785664765ab4¤Sun Gardens West¤Pasco¤2320 W Sylvester St¤¤WA¤99301
+971dbadb-76ba-41e2-9e60-43295a517e94¤Anaheim A-2¤Anaheim¤184 W. Center St. Promenade¤¤CA¤92805
+95c3e487-5a22-4b47-a500-dd4e839ada96¤Mill Creek Village¤Penndel¤255 E. Lincoln Highway¤¤PA¤19047
+9cd7b90b-bd4d-42d7-843d-2d50e777501c¤Flats at Cedar Grove¤Eagan¤3825 Cedar Grove Parkway¤¤MN¤55122
+97406028-2928-4ef9-b2ad-c9bc926dc92e¤Inwood House¤Silver Spring¤10921 Inwood Avenue¤¤MD¤20902
+96c8f8c6-d1f4-48f0-9ee9-e3c5e01a6a77¤Water Tower Park Senior Village¤Gray¤140 Senior Center Way¤¤GA¤31032
+9ebf1125-dfaf-494f-b61a-62eb8823b5ae¤Francis¤Beech Grove¤1819 Main Street¤¤IN¤46107
+995e1294-46e1-46d2-93bd-8d93806ec023¤Seven Springs¤Burlington¤1 Seven Springs Ln¤¤MA¤01803-5123
+96e0243f-af7f-4deb-8999-c6a16e0e7637¤Winbrook¤Rockledge¤1708 Elm Street¤¤FL¤32955
+9eed81af-18eb-4f83-bc67-e72abc7238f9¤7001 Arlington at Bethesda¤Bethesda¤7001 Arlington Road¤¤MD¤20814
+a00010da-f607-47dc-b2ec-43ed7ccc2cf5¤Brick Villas¤Gainesville¤1022 SW 1st Ave¤¤FL¤32601
+978057ee-6754-41af-93a7-f18f847203c5¤Springs at Hurstbourne¤Louisville¤9202 Bunsen Park Dr¤¤KY¤40220
+9995b358-415c-47c3-879b-beadd74dfd83¤Sundance¤Bismarck¤320 West LaSalle¤¤ND¤58503
+a00011bf-25ce-4fc0-9c0f-45b99b63fec1¤Van Wert Family Housing¤Van Wert¤N Towne Center Blvd and Marsh Rd¤¤OH¤45891
+978357b4-f5d1-44f5-a53d-59e55b78acda¤Merchant Lofts¤New Orleans¤201 Magazine Street¤¤LA¤70130
+99ca26df-7933-4131-9cb5-abea2acc2500¤Lando Lofts¤Pittsburgh¤909 Penn Ave.¤¤PA¤15222
+a0002b14-72d5-4298-be1f-224845d8df68¤Legion Hill ¤Lexington¤1229 Man O War Pl¤¤KY¤40504-2849
+9a1847de-cf82-49cb-8e5f-3ef7dbb7d2a3¤Brompton House at Blue Stream I¤Elkridge¤7691 Mandrake Ct¤¤MD¤21075
+97a2a332-7c94-4b0b-9a3f-30c9e43e2446¤1261 Argyle¤Chicago¤1262 W. Argyle/1301 W. Argyle¤¤IL¤60640
+9ae22cb5-0ec3-4151-982c-f5110585c1d2¤Churchill Mews¤Fairfax¤3700 Jermantown Rd¤¤VA¤22030
+a0005548-02bd-4c36-b55e-df051c8f6cf1¤Parkview¤Terrell¤1451 Colquitt Road¤¤TX¤75160
+9aec50fe-e00d-47cb-a78c-7676be1c4639¤Brighton Pointe¤Raleigh¤7510 Estey Rd¤¤NC¤27616
+a0005b5b-33be-41c6-9cc6-8c5a36cea6e9¤8249 Corliss Ave North¤Seattle¤8249 Corliss Ave North¤¤WA¤98103
+97ec0e30-ecbb-4f3b-9c54-5d8df4da97a2¤White Manor, LLC¤Fort Lee¤1554 Center Lane¤¤NJ¤07024
+9bf08ace-0357-4938-87df-520c7ae2b1fa¤Warwick Plaza¤Kansas City¤3700 Warwick Plaza¤¤MO¤64111
+a0006131-e575-45ff-9e23-a1146ba17fe1¤Acadian¤Maurice¤9613 Maurice Ave¤¤LA¤70555-3256
+98481d9d-2879-4c64-8de6-c2eb546fe9b5¤Gyalsten¤Jersey City¤45 Hopkins Avenue¤¤NJ¤07306
+9c26b054-b08a-419f-98cb-32d01fed5112¤Vineyard Commons¤Highland¤6 Merlot Dr¤Suite 642¤NY¤12528
+a0007b27-e5e0-44de-ab87-16f50e1a0db8¤Minnehaha II¤Minneapolis¤3245 County Road 48¤¤MN¤55406
+99728afb-ce84-4c90-8f70-f24e672acee2¤Ten Hills¤Baltimore¤219 Atholgate Lane¤¤MD¤21229
+9c6cf775-914c-4a42-be49-15df94d7c3d7¤Retreat at River Chase¤Covington¤1776 Continental Dr¤¤LA¤70433
+99941d6e-769a-4a4d-ada0-5fafbf94b5d0¤Vida Senior Residences¤Washington¤1330 Missouri Avenue NW¤¤DC¤20011
+a0008d81-381c-456e-aeaa-de4ace781f62¤Natick Park¤Sherman Oaks¤4701 Natick Ave¤¤CA¤91403
+9d52574e-c992-4075-bb51-265b47376dbd¤Harper's Landing¤Newport News¤761-1A Adams Drive¤¤VA¤23601
+9d8c661a-a488-4ee0-a8ed-85400e7c2b42¤Maynard at 6351 North Lakewood¤Chicago¤6351 N Lakewood Ave¤¤IL¤60660
+9a5c6758-919d-498a-aabb-1b8db35b818d¤Timberwood Commons¤Lebanon¤6 Timberwood Drive¤¤NH¤03766-4400
+a000910a-03c8-47db-b694-e79cebd4931a¤3723 Hood Avenue¤Portland¤3723 SW Hood Ave¤¤OR¤97239
+a000ae78-1c07-4d47-a9d5-9dd742228c2a¤Parkview Apartments¤Hartford¤634 East Monroe Avenue¤¤WI¤53027
+9dbcc20a-0006-4422-bad7-f5d8fc166d64¤Maplewood¤Cincinnati¤3440 Telford Street¤¤OH¤45220
+9b69eb4f-b551-47b7-8d83-a8956d141d38¤Rookwood Court¤Cincinnati¤2596 Madison Road¤¤OH¤45208
+a000e1be-5558-4298-97c2-b451a9f92ca7¤Metropolitan¤North Little Rock¤75 Riverfront Dr¤¤AR¤72114-5781
+9cdf68e6-a8a9-4d5c-9bd9-3e80a5979da6¤Sharon Park Manor¤Corapolis¤447 Sharon Rd¤¤PA¤15108
+9dc93f8a-0408-449e-a834-eb0776578502¤Winner Place¤Independence¤9528 E Winner Rd¤¤MO¤64053
+9cff1f6e-40e6-4a40-af86-ffcc11b611b5¤Eastlawn¤Cincinnati¤7080 & 7123 Eastlawn Drive¤¤OH¤45237
+9e33f54a-0e8e-41dd-95d0-88e6873dcbf3¤Preston Court¤Charlottesville¤1600 Grady Avenue¤¤VA¤22902
+9cff6b4a-9858-466f-b654-3031d5a1b33f¤Jasper Place¤Washington¤1350 Jasper Street SE¤¤DC¤20020
+9d1f6c45-ea61-444f-ac20-4fc8390dc5cc¤Trafalgar Pointe¤Morgantown¤5788 W 700 South¤¤IN¤46160
+a000eedd-52b0-46e6-8cc8-3335a68395f8¤Highland Crest ¤Toledo¤909 Burnpoint Dr¤¤OH¤43609
+a000fb94-f18e-4642-b111-dcc56777a42d¤REDI/Anchor¤Denver¤1555 Lafayette¤¤CO¤80203
+9eb00c6c-1bfa-4fa9-9a1c-876b7496c48e¤Lofts at Euclid¤St. Louis¤625 N Euclid Avenue¤¤MO¤63108
+9f082acf-3226-455f-9c6f-7d21e4aa4ec9¤River Oaks¤Mount Pleasant¤311 Johnnie Dodds Blvd¤#181¤SC¤29464
+9f34d486-84f5-4301-9f3b-7cbf406b2af8¤Clybourn¤Chicago¤2500 N Clybourn Ave¤¤IL¤60614-4752
+a0015971-c41c-46dc-af20-3e4fe36c7375¤Viewstone Town Houses LLC¤Greenwich¤7 Stone Avenue¤¤CT¤06830
+9d243733-6ac1-4c57-bfa1-6b19b5b13a8a¤Elmbridge¤Heber City¤82 W 750 N¤¤UT¤84032
+9f3c313d-34f0-4f9f-ac5d-606f4bc922f7¤Plant 1¤Richmond¤403 Stockton Street¤¤VA¤23224
+a0018ec8-9fe5-4d8d-bcae-72a3b86add90¤Del Corazon¤Denver¤4351 Morrison Road¤¤CO¤80219
+a0019cbd-48af-46b9-99f1-bf63e00550c0¤Campus Manor¤Bowling Green¤413 Gayle Way¤¤KY¤42101
+9d411734-f2e3-420a-90ff-e7bf1c70639b¤Ridge at Organ Vista¤Las Cruces¤501 N Roadrunner Parkway¤¤NM¤88011
+9f3f9a33-4e71-48ab-9e18-47cb830589a7¤103 Main Street¤Millburn¤103 Main Street¤¤NJ¤07041
+a001af15-5dc1-4076-b836-228a8b65c53c¤Carriage House ¤Alpena¤451 Pinecrest Street¤¤MI¤49707
+9d609ef7-a7cb-48ec-83cd-fa96563e0957¤Calvary Towers¤Norfolk¤850 E Virginia Beach Blvd¤¤VA¤23504
+9fb19aab-8257-4c75-a87a-232312267233¤Sunshine Peak¤Montrose¤748 Cedar Creek Ave¤¤CO¤81401
+a001e7be-e0ef-4d05-a83a-649ff4073c1d¤Sea Fox¤Des Moines¤2616 South 224th Street¤¤WA¤98198
+a001efd8-fc1e-4e7a-849d-67dc49eaaa70¤Elmwood Apartments¤Aberdeen¤316 South Elm Street¤¤SD¤57401
+9fcba6a6-2231-42dd-8f87-3cbe18936644¤Woodland Hills¤Pittsburg¤241 W Buchanan Rd¤¤CA¤94565-6550
+9fd6f760-7f99-418d-83fc-4c0d72e89a7f¤Northtowne Apartments and Townhomes¤Columbus¤4621 Northtowne Blvd¤¤OH¤43229
+9d96b554-dbae-4bdf-b55f-b32bba7ac579¤Peyton Stakes¤Nashville¤1401 3rd Ave N¤¤TN¤37208
+a000078a-7e89-44cd-b7eb-eb668d4953b5¤Broadstone Makers Quarter¤San Diego¤1603 Broadway¤¤CA¤92101
+a0023d92-3b77-4303-909e-ecd8d3e904ca¤Spark West¤Boulder¤3200 Bluff Street¤¤CO¤80302
+afa9eac3-6d16-4328-bb28-c03dceda998e¤Maples¤Oxford¤814 South Main Street¤¤OH¤45056
+afaa251a-76c5-42bc-943b-5bfd2b8f9b23¤Cypress Village¤Tuskegee¤508 West Montgomery Road¤¤AL¤36083
+afaa29c8-f9aa-43d8-8ef2-ce57637b8f73¤1404 Castelar¤Omaha¤1404 Castelar St¤¤NE¤68108
+afaa3158-be57-4f37-bcee-ce279f63164c¤Residences at Jefferson Crossing¤Charles Town ¤55 Pimlico Dr¤¤WV¤25414
+afaa3666-4871-4bf2-8f32-f3c2e64b773d¤White Buffalo¤Fort Worth¤1020 Currie Street¤¤TX¤76107-2914
+afaa48da-56d0-4411-a3e8-f3c12d003318¤Condominiums at Linden Square¤Wellesley¤11 Oak Street¤# 21¤MA¤02482
+afaa73f5-8fb0-4f4b-8be4-58c26b6464b7¤Ingalls Grove¤Edgewater¤2660 Ingalls St¤¤CO¤80214-8337
+afaac101-7b5b-47af-a7ee-15a7ea632a5c¤Clarmor¤Westminster¤4008 W 99th Pl¤¤CO¤80031-2652
+afaac2a6-98d1-4d7c-a737-34350f38275b¤Bridge at Center Ridge¤Austin¤701 Center Ridge Dr¤¤TX¤78753-1197
+afaad575-94a3-4303-be24-4e854fa75a43¤Columbus Village¤McMinnville¤1794 SW Fellows¤¤OR¤97128
+afab25e5-0976-4328-b86c-57675b52f0be¤Arden¤Alexandria¤2317 Huntington Ave¤¤VA¤22303
+afab3fda-4e1a-4fce-b20e-e3e5a84beb3e¤Chicago Ridge¤Chicago Ridge¤103rd St & Harlem Ave¤¤IL¤60415
+afab4847-236b-467b-ad9c-a5f5414e54dd¤Carriage Hill¤Toledo¤4606 Nantuckett Drive¤¤OH¤43623
+afab8d02-af39-458c-acbf-65747f430ecc¤Winchester Estates¤Waldron¤800 Elm Street¤¤AR¤72958
+afab8fdd-650a-4045-9621-a42a6578c14f¤Harlem 125¤New York¤69 E 125th St¤¤NY¤10035
+afab9160-e71c-4091-9b3a-8aa653902468¤Establishment¤Houston¤2235 Winrock Blvd¤¤TX¤77057-4007
+afabb36f-6ba3-41bf-b5ab-6275af8f3e75¤Parkside¤Cranston¤1690 Broad Street¤¤RI¤02905
+afabe588-376c-49cf-afc1-6d43135fa24e¤Green Country¤Bartlesville¤1025 Swan Drive¤¤OK¤74006
+afabeb3d-5fe4-43bd-9007-255e6095430b¤Bergen Meadows¤Bergen¤6619 North Lake Road¤¤NY¤14416
+afabeee5-db9a-4b07-baca-bb695e185973¤Garden Glen¤Mount Vernon¤1407 S 34th St¤¤IL¤62864-6237
+afabfaa5-d0d9-40ea-869c-90ddb31b5473¤Silver Palm¤Miami¤NW 2 Ct and NW 79 St¤¤FL¤33150
+afabfe67-cb0e-46ad-a85f-4d4aac686268¤Heritage Place¤Burleson¤300 Huguley Boulevard¤¤TX¤76028
+afabff95-babf-4f21-b1e2-9fafd57f8ac5¤Graystone¤Schenectady¤4213 Court Royale¤¤NY¤12304
+afac4398-125b-4615-9b0b-377c1b930cb4¤Country Club Manor¤Sacramento¤2100 Butano Dr¤¤CA¤95825-0448
+afac4b6e-d997-4604-a5f9-d6be1b278bc2¤Adams Court Community Ctr¤Jefferson¤1000 West Adams Street¤¤IA¤50129
+afac5b15-5711-49b0-8039-5358cffa1be7¤589 S. Grant¤Denver¤589 South Grant Street¤¤CO¤80210
+afac5dd1-db51-4796-b4ab-c9d6a92d3cb5¤Quail Springs¤West Richland¤4711 N Dallas Rd¤¤WA¤99353-7708
+afacb3da-4f1e-4860-90ac-2d92aadfb892¤Colonies¤Tigard¤14260 Sw 112th Ave¤¤OR¤97224-3747
+afacbaf5-d1c9-4572-81b9-21c8f0a1fd3f¤Vistoso¤Boulder¤4500 Baseline Road¤¤CO¤80303
+afacec7c-e8bd-4cf6-88b3-8dd5a4071aee¤Kise Estates¤Lebanon¤1935 Lafayette Avenue¤¤IN¤46052
+afacee96-588a-4313-96c8-103084ecda17¤Bryantwood¤Maple Plain¤5225 Bryantwood Drive¤¤MN¤55359
+afacfc50-cf47-4258-9b65-cc2486359545¤City Square Bellevue¤Bellevue¤938 110th Ave NE¤¤WA¤98004-4492
+afad0239-b028-487d-bf52-2b7f3e3a07fa¤Solana at Grand¤Escondido¤1501 East Grand Avenue¤¤CA¤92027
+afad24f9-2a7f-4d53-9c37-d73aa1a1df7d¤Harvest ¤Bridge City¤3650 Fish Hook Lane¤¤TX¤77611
+afad2e23-85aa-41bb-b1f2-660a3f2a2f83¤Berkshire 15¤Washington¤2005 15th Street NW¤¤DC¤20001
+afad34b3-6ea7-42ef-86fe-b5c77343d4a4¤Pecan Square Village on Cranbrook¤Houston¤14531 Ella Blvd¤¤TX¤77014-2589
+afad5b6e-48f0-4c89-81f9-036d0d057a0f¤Crafton Place¤Fayetteville¤986 West Bob Place¤# 2¤AR¤72704
+afad6f91-cd53-4b98-8072-8c796b968cc7¤Arizona Lofts¤Atlanta¤195 Arizona Ave Ne¤¤GA¤30307-2248
+afad7399-6d98-4a42-bab6-43e7fbca16da¤William Bell¤Gulfport¤1700 65th Ave¤¤MS¤39501
+afad816b-0f15-4177-9ef2-d118137e8b2a¤Riverwalk I¤Rock Hill¤517 Pink Moon Drive¤¤SC¤29730
+afadd54e-3bef-4315-a640-d27b08584c3e¤Town Village¤Oklahoma City¤13000 North May Avenue¤¤OK¤73120-0829
+afadf419-5f44-43ae-bf64-eac18d5071b3¤Ridge at Hamilton Crossing I¤Maryville¤100 Hamilton Ridge Drive ¤¤TN¤37801
+afae04e9-0063-4dac-8dd5-4b0befdc455e¤Tuscany¤Las Vegas¤725 South Hualapai Way¤¤NV¤89145-8834
+afae2647-080c-46a6-b438-42b5a75df992¤Sol Y Luna¤Tucson¤1020 N Tyndall¤¤AZ¤85719
+afae3042-e704-45fc-b75e-103a556ce2dc¤2 Sisters¤Chicago¤5123 S Kimbark Ave¤¤IL¤60615-3911
+afae3a20-baf0-43b6-996f-cf078c4e6d8e¤Figueroa Senior¤Los Angeles¤7621 South Figueroa Street¤¤CA¤90003
+afae53be-c7d1-489c-91b7-314c1340df8d¤Meadowview Estates¤Clarksville¤1801 Sagewood Dr¤¤AR¤72830-4027
+afae7ed8-820f-4f9a-84ac-2cee96b43c4c¤McLean¤McLean¤1324 Vincent Place¤¤VA¤22101
+afae91e4-dbf7-47fb-8383-17aff6583c19¤Downtown Commons¤Lorain¤405 W 4th St¤¤OH¤44052-1644
+afaeb080-6493-4ac9-9eb0-89f42dee64b3¤Desert Gardens Townhomes¤Las Vegas¤1720 W Bonanza Rd¤¤NV¤89106
+afaeb214-36f0-47eb-9412-12343d611a15¤Caruth Tract Transit Oriented Development¤Richardson¤Renner Rd and US Highway 75¤¤TX¤75082
+afaebeb0-eb51-4dc3-bf53-c1d3d0d346d7¤Neil Avenue¤Columbus¤1578 Neil Avenue¤¤OH¤43201
+afaed753-dee6-4f6b-988a-41bca12608bb¤Bosley Management¤Sheridan¤566 Turner Lane¤¤WY¤82801
+afaee727-5c56-4325-8e40-21c8200e57a3¤Stone Crossing¤Huntsville¤3784 University Drive Northwest¤¤AL¤35816
+afaf0644-965d-497a-b686-19b733547969¤Willowbrook Place¤Immokalee¤1836 Ash Lee¤¤FL¤34142
+afaf3a19-65b8-4360-b6a0-3f27b21aaee1¤Saint Andrews¤Athens¤128 Saint Andrews Court¤¤GA¤30605
+afaf8b7b-93d3-45ea-b44a-451b1efb76c6¤Passage II¤Henderson¤2950 N Green Valley Pkwy¤¤NV¤89014
+afaf8e85-0f6a-442d-9b8a-ff7f5e277956¤Windward Isle¤Los Angeles¤14543 Burbank Boulevard¤¤CA¤91411
+afafa043-8e5d-4bfe-8a7d-b15dbeb5918b¤Briarbend¤New Braunfels¤349 Briarbend Dr¤¤TX¤78130-2331
+afafcc03-0e00-44c5-9a4a-8445c9831574¤RiverVue¤Jacksonville¤3946 Saint Johns Ave¤¤FL¤32205
+afafe291-3011-4e74-95cd-80e53fe1f3d4¤Brighton Court Apartments¤New Brighton¤1533 3rd Avenue¤¤PA¤15066
+afafee9e-62bf-43a6-b1e1-0e4cd88757b3¤Village of Sycamore Ridge¤Memphis¤1945 Everetts Folly Street¤¤TN¤38134-6605
+afb00181-c056-4ee1-a8da-5c0f54b2c79a¤Hedrick Housing¤Hedrick¤510 North Main Street¤¤IA¤52563
+afb03291-d21f-40eb-91f3-418aab8f4ace¤Fulton Square Apartments¤Hope¤801 Mack Street¤¤AR¤71801
+afb038dd-af2d-49f5-9110-008914893141¤Edgewater on Lanier¤Gainesville¤2419 Old Thompson Bridge Rd¤¤GA¤30501-1104
+afb03d4c-ca6a-47d8-9e6f-c27474e44e2b¤Tradition at Stonewater¤Cary¤12000 Wisdom Dr¤¤NC¤27519-0981
+afb04ac9-7765-48ac-a0a9-8fe6820e87fc¤Creekside¤Pensacola¤110 Creekside Ct ¤¤FL¤32514-5526
+afb04eac-7822-42bc-a6bb-111c824242b8¤Redwoods Apartments¤Fresno¤111 West Saginaw Way¤¤CA¤93705
+afb054bc-6a6e-43f0-ae2b-8d7570ec1120¤Legend II¤Waco¤2400 Corporation Pkwy¤¤TX¤76712
+afb09011-3eb7-4b3b-b200-b15751ee11c3¤Equestrian Pointe¤North Richland Hills¤8435 Thousand Oaks Drive¤¤TX¤76180
+afb09457-e4ec-486a-9a8b-07bfbe4f9d7e¤Cumberland Gardens¤Allentown¤501 E Cumberland St¤¤PA¤18103
+afb0a583-1248-4ab5-8258-9528c5585750¤Fremont Avenue and Drachman Street¤Tucson¤North Fremont Ave & East Drachman St¤¤AZ¤85719
+afb0d0f7-e04d-47a6-b791-169e997672a3¤Alpha Terrace ¤St. Louis¤6105 Etzel Ave¤¤MO¤63112-2646
+afb0e687-2e65-4f2f-8e9f-379e75f242e3¤Village at England Run¤Fredericksburg¤101 England Pointe Drive¤¤VA¤22406
+afb11776-8b8d-4d7e-9de4-c161ed1c0e1d¤Verge¤Oxford¤945 Arrowhead Dr¤Suite 101¤OH¤45056-2602
+afb1b4ea-aac8-40a3-922d-7ab3ad5ee153¤Country Meadows¤Merrill¤2401 West Jackson Street¤¤WI¤54452
+afb1c0b9-ae53-46b2-952e-52403e557467¤Nexus Lakeside ¤Flower Mound¤2501 Lakeside Pkwy¤¤TX¤75022
+afb1cfc4-d8ed-4846-8f92-b85b33f06ee2¤Brandywine Senior Living at Mountain Ridge¤Watchung¤680 Mountain Boulevard¤¤NJ¤07069
+afb21b79-8d92-470c-a853-01e205188cbe¤Penfield¤St. Paul¤101 10th St E¤¤MN¤55101-2541
+afb248c6-9895-4908-be1b-996287781976¤Huntington Metro¤Fairfax¤TBA¤¤VA¤20151
+afb25557-5ac3-4272-b770-2710b4e7a55a¤Champion Homes at Marshall Meadows¤San Antonio¤1803 Marshall Cross¤¤TX¤78214
+afb25707-d52a-457d-be77-de7954839916¤Greystone¤Susanville¤200 Carroll Street¤¤CA¤96130
+afb27332-4c39-4fdf-8ea4-83bebdaf0525¤Walden Pond¤Everett¤9900 12th Avenue West¤¤WA¤98204
+afb27332-4c39-4fdf-8ea4-83bebdaf0525¤Winsley¤Everett¤9900 12th Avenue West¤¤WA¤98204
+afb28d4b-ced2-456f-8ec7-1f299be02553¤Fountains at Waterford¤Midland¤4405 N Garfield St¤¤TX¤79705-3420
+afb2bc54-901b-43b7-b9e4-63c292f37323¤Hayti Heights Housing Authority¤Hayti Heights¤100 North Martin Luther King Drive¤¤MO¤63851
+afb2eac4-c225-4af6-a028-e7a89e969d53¤Woodedge Estates¤Manchester¤1445 Bodwell Road¤¤NH¤03109-5833
+afb2fb15-1d06-4574-b374-b9cb95df3ba8¤4604 South Western Avenue¤Los Angeles¤4604 S Western Avenue¤¤CA¤90062
+afb320cf-09b7-4949-9210-1eafc0195ffb¤Trails Inn Motel & Apartments¤Winnsboro¤5754 N State Highway 37¤¤TX¤75494-6488
+afb32615-d773-4841-ab83-ff2fc13607e0¤Eastmore Properties¤Milwaukee¤903 East Kilbourn Avenue¤¤WI¤53202
+afb3274e-2122-40af-b837-d4f42982f99c¤Junction¤Jersey City¤123 River St¤¤NJ¤07302
+afb32acf-ad6a-4095-ac0f-028f6eea164a¤Carriage Works¤York¤50 South Highland Avenue¤¤PA¤17404
+afb34181-94b3-4417-b872-0216aa5c8695¤Cedar Village of Lake Villa¤Lake Villa¤310 North Milwaukee Avenue¤¤IL¤60046
+afb36de9-8d48-4220-bef5-028519ec7e10¤West Station III¤Salt Lake City¤100 N Redwood Rd¤¤UT¤84116
+afb37829-cfec-45bb-91aa-c24eaa12919d¤843 Timberline Road¤Monticello¤843 Timberline Road¤¤IA¤52310
+afb38d40-de90-436e-9b44-5c58b4dfb943¤Timbercreek Village¤Columbus¤3264 Green Meadows Street¤¤OH¤43207
+afb3b976-3cd2-4fe6-ac25-2c3c162971fc¤Richland Hills ¤Gibsonia¤Middlesex St¤¤PA¤15044
+afb3bb14-478f-480d-8a61-63fb45bf275b¤Galleria¤Costa Mesa¤180 Cabrillo St¤¤CA¤92627-3052
+afb3bdcc-f2fe-49c8-9fb3-a4acc34bbcbe¤Executive Plaza¤Corvallis¤1010 Northwest Fillmore Avenue¤¤OR¤97330
+afb3c490-f83b-44e6-850e-b04c91228ab9¤Fry Estates¤Somerset¤386 Parkers Mill Way¤¤KY¤42503
+afb3dab2-8c78-4bd6-a200-f539933b75d0¤Hickory Lake¤Evansville¤1214 Lavender Court¤¤IN¤47712
+afb3dcde-7bd8-4b49-8dc0-b0e130af0644¤Kingston Village¤Altamonte Springs¤940 Douglas Ave¤¤FL¤32714-2053
+afb40769-0b97-4ef5-9748-1dccfcb9f62a¤Normandy Manor ¤Laurel¤1441 Thomas Drive¤¤MS¤39440
+afb41f5c-4993-41db-9e88-a1e332a8558e¤West Town Manor ¤Fergus Falls¤425 North 2nd Avenue¤¤MN¤56537
+afb43515-09e6-4697-976a-da713e402455¤Franklin Place¤El Paso¤600 Belvidere St¤¤TX¤79912-1772
+afb4b695-6293-4562-b712-4bbb3c3fff38¤Water Oak ¤Orange City¤315 Water Oak Circle¤¤FL¤32763
+afb4befa-145b-4c46-bc0d-6aef46cda83f¤Tiffany Senior ¤Antioch¤893 Tiffany Road¤¤IL¤60002
+afb4f2d0-2303-447b-b18c-e5bc4c250b37¤Berwyn Campbell¤Chicago¤2411 West Berwyn Avenue¤¤IL¤60625
+afb5149f-1587-4403-8324-1271205015bd¤Carter Court¤Tompkinsville¤204 M O Lane¤¤KY¤42167
+afb51730-77a6-4850-9957-38e550b839c1¤Lynbrook¤Elkhorn¤19312 Grant Plz¤¤NE¤68022-1671
+afb5a488-e852-4c4c-8eef-10fa72a7b059¤Willow Creek Manor¤Wichita¤1301 South Bleckley Drive¤¤KS¤67218
+afb5bf44-1780-4afa-990a-5db27cc1b513¤Twining Valley Neighborhood¤Monroe¤700 8th Avenue¤¤WI¤53566
+afb62777-55c2-4bff-b592-ae58f5871cac¤Sunset View I¤El Cajon¤1518 Sams Hill Rd¤¤CA¤92021
+afb62f7c-ddc8-4e9c-985f-f97e5c0cbed7¤Mira Vista ¤Garden City¤1406 East Harding Avenue¤¤KS¤67846
+afb63da2-0aa1-4c8a-b205-0f04e13e0956¤50 Paramount¤Sarasota¤50 Paramount Drive¤¤FL¤34232
+afb6911a-08ae-445b-bf9b-c8c2b6d381e9¤Regal¤Santa Monica¤1032 2nd Street¤¤CA¤90403
+afb6a428-6b7b-44dd-b76a-af8e0513b698¤Standard¤Charlottesville¤901 W Main St¤¤VA¤22904
+afb6bc2c-910d-4c70-8445-c47b8ad3cf9b¤North Campus¤Saint Cloud¤315 4th Avenue South¤¤MN¤56301
+afb6eb7c-f6d5-4b1b-8f94-a5975db63876¤Trillium Terrace¤Austin¤6500 Manchaca¤¤TX¤78745
+afb6fd00-3ccf-41ce-afc2-33df821675fd¤Springfield Villa ¤Upland¤988 Springfield Street¤¤CA¤91786
+afb6fe3b-151e-467a-8edc-4439c6900a52¤Victoria ¤Indianapolis¤1244 North Illinois Street¤¤IN¤46202
+afb74466-90d5-4e37-9175-7ded91be5f0f¤2075 North Cambridge Avenue¤Milwaukee¤2075 N Cambridge Ave¤¤WI¤53202
+afb7c517-6e29-4677-9cd2-057b5a7ca2d3¤Morningside Green¤Houston¤11810 Hammond Dr¤¤TX¤77065-3800
+afb7ec33-a205-4087-80ce-08a419fc0fcc¤Mountain Glen Village¤Gypsum¤217 Jules Drive¤¤CO¤81637
+afb7edcb-ecc5-45e1-9876-2c3d51d34e3b¤Upper East Side¤Dallas¤8749 Southwestern Blvd¤¤TX¤75206-2702
+afb7f0fe-fbf5-4eed-9139-0263c87cb501¤Independece Court of Hyattsville¤Hyattsville¤5821 Queens Chapel Rd¤¤MD¤70782
+afb829de-04d5-44b5-8140-c89c3c4e701c¤Four Bridges¤Liberty Township¤6800 Saint Andrews Cross Road¤¤OH¤45044
+afb82dcc-89ba-40e6-834c-f2d8c37d85ff¤Post Gardens¤Atlanta¤1020 Lenox Park Blvd Ne¤¤GA¤30319-5309
+afb8335d-98e2-4086-b107-f1f8f416b9a0¤James R. Williams Tower¤Akron¤285 Channelwood Circle¤¤OH¤44307
+afb84705-a16f-4089-88f4-2fb5d8421049¤Plantation Townhomes¤Greenville¤527 Tennessee Gas Road¤¤MS¤38701
+afb8bdd0-9bb3-4fcb-91ee-d9cda2a878f3¤Evergreen at Hebron Senior Community¤Hebron¤2220 Parker Rd¤¤TX¤75010
+afb8d036-2027-45eb-b3f9-f39c3814cdba¤211 E Delaware¤Chicago¤211 E Delaware Pl¤¤IL¤60611-1031
+afb8f13e-c853-4cbe-961e-0b87a6581b3e¤Parkway ¤Fayetteville¤1815 Wilson Parkway¤¤TN¤37334
+afb8fe5e-4176-4448-8e69-bd3ae83397e7¤Serenola Pines¤Gainesville¤4100 SW 31st Dr¤1¤FL¤32608-7619
+afb90705-a393-465b-9567-97c48818c68c¤Element Music Row¤Nashville¤1515 Demonbreun Street¤¤TN¤37203
+afb90b73-28de-4c47-8541-44e72cbd797a¤Village at Park Terrace¤Muskegon¤1350 West Hackley Avenue¤¤MI¤49441
+afb93d5f-6273-4fcb-aa2b-49c5953328a8¤Enclave at Town Square¤Chino¤11475 Central Ave¤¤CA¤91710-6400
+afb93f07-5d06-462a-9a17-5ff8e4dd7924¤Palazzi at Uptown Park¤Houston¤Loop 610 & Post Oak Blvd¤¤TX¤77056
+afb94d82-c13b-41b4-8c56-6a1a5b04d015¤Mystic Woods I & II¤Riviera Beach¤4252 Leo Ln¤¤FL¤33410-6406
+afb953b0-d3a5-4722-99de-35a542cec206¤Corals¤Encinitas¤1749 N Vulcan Ave¤¤CA¤92024-1121
+afb9583f-435c-4b90-9e4b-7687ee7efcd6¤Lake Park¤St. Francis¤3749 South Packard Avenue¤¤WI¤53235-4332
+afb9c4b0-77fa-4b99-9bcc-3e6e61c1e05e¤Student Quarters Fulton Place¤Greensboro¤742 Fulton Pl¤¤NC¤27401-2390
+afb9f5ec-0c0f-47d5-ab3d-d75da45417be¤Sycamore Senior Village¤Oxnard¤333 N F St¤¤CA¤93030-4634
+afb9fb0f-38e3-410c-93d0-05bf94e34a95¤Sandpiper¤Lubbock¤1812 17th St¤¤TX¤79401-4841
+afba1624-dbdf-42c4-ad3c-40f60a454fac¤Alexandria Theater Redevelopment¤San Francisco¤5400 Geary Blvd¤¤CA¤94121-2307
+afba27b4-2c71-4328-a061-83e4706a1ebf¤Greenwood Plaza¤Centennial¤7610 E Caley Ave¤¤CO¤80111-6772
+afba5de4-1189-456d-9e65-044ed0f2d19b¤Cedar Hill ¤Monticello¤839 South Gabbert Street¤¤AR¤71655
+afba8b80-1080-48f7-9650-b040602829a0¤Three Fountains Coop West¤Indianapolis¤5501 W 43rd St¤¤IN¤46254-2370
+afba9fca-16b1-4574-9351-5b94ba8d77db¤Village of Taylorsville¤Taylorsville¤10013 Branton Drive¤¤IN¤47280
+afbabca5-774b-4181-a357-3a304d148532¤Bay Park Towers¤Miami¤3301 NE 5th Ave¤¤FL¤33137-4005
+afbabea3-f0c4-4488-a70a-2e7de2b10e38¤Canton ¤Dallas¤2220 Canton Street¤¤TX¤75201
+afbafedc-aa2e-428e-949f-7668c6dbf17b¤40 West 86th Street¤New York¤40 West 86th Street¤¤NY¤10024
+afbb0286-4971-4e7c-ac36-36c19f4a49be¤Wicklow Square¤Dublin¤7606 Amador Valley Boulevard¤¤CA¤94568
+afbb213b-a6a1-4e2a-b4e4-3547f895579d¤Evangeline Place ¤Lake Arthur¤809 8th Street¤¤LA¤70549
+afbb37dc-6450-45de-aad3-743c8e945deb¤Croix View ¤Hudson¤1015 2nd Street¤¤WI¤54016
+afbb8a5c-615a-4c25-9b15-f194f6854dd4¤Gator¤Miami Beach¤3925 N Meridian Ave¤¤FL¤33140-3840
+afbb91d7-fc21-4ebb-a63c-a68f2b560008¤Marquesa¤Pembroke Pines¤145 Southwest 117th Terrace¤¤FL¤33025-4903
+afbb96f3-9c91-45e0-8c9c-fdfb29e4425c¤Ridgedale Gardens¤Piscataway Township¤300 N Randolphville Rd Apt 109¤¤NJ¤08854-3163
+afbba33c-6a32-4580-a81b-c8f3a90d45df¤Blue Point Motor Lodge¤Blue Point¤167 Middle Road¤¤NY¤11715
+afbbc65f-7bfc-4d11-886e-38217ae3c210¤Hillcourt¤Huntingdon¤537 Hillcourt Cir¤¤TN¤38344-4222
+afbbcc7a-be63-48b3-8a96-6ef9aff12e7d¤Ballston Pines¤Ballston Spa¤155 Rowland Street¤¤NY¤12020
+afbbdb42-ce68-4ac9-a8b4-145b9ec2d0aa¤Berkshire¤Renton¤1300 Eagle Ridge Dr S¤¤WA¤98055-3408
+afbbe082-c437-4534-9363-a5329801de61¤Oak View LTD¤Oak Hill¤121 Morgan Street¤¤OH¤45656
+afbc0cfc-4ff5-44da-b165-9b40e4bbfb79¤City Place¤Phoenix¤802 North 30th Street¤¤AZ¤85009
+afbc1156-bd93-459e-b15b-25c7896b2593¤Anderson House¤Ferrelview¤407 Garrison Street¤¤MO¤64163
+afbc1984-50c7-42a1-a49f-5ea1950d8b8f¤Shawnee Plaza Residence¤Leavenworth¤101 South 4th Street¤¤KS¤66048
+afbc4809-16d7-40b6-9eac-fdd74aeaaad2¤Quail Woods¤Gastonia¤1657 Quail Woods Rd¤¤NC¤28054-3836
+afbc96ba-e104-4622-b820-60cdc45a2c59¤Saint Luke's¤Middletown¤144 Broad St¤¤CT¤06457-3332
+afbc984c-fc7d-415a-9cf4-32bec6b0f8cf¤Laurel Ridge¤Pittsburgh¤100 15th Street¤¤PA¤15229
+afbceb3d-de68-43e8-a560-a5d1f9c64a54¤Midtown 360 North Tower¤Orem¤320 S State St¤¤UT¤84058
+afbd08bf-b186-4883-ae01-6f7e4a34dab3¤Foxborough Estates¤Savage¤8542 Foxborough Dr ¤Apt 1D¤MD¤20763-9744
+afbd0dec-ea92-4dd7-aae4-f67b037b9ca1¤Harbour Cay¤Largo¤12001 Belcher Rd S¤¤FL¤33773-5000
+afbd15f3-16d2-414b-90aa-2c172f07dbfb¤Casas De Soledad¤Las Cruces¤3901 Sonoma Springs Ave¤¤NM¤88011
+afbd4706-05b6-4438-96f3-68877f69db3f¤48th Street¤Milwaukee¤3160 S 48th St¤¤WI¤53219
+afbd4ae4-f843-42f0-a0eb-e745155d420a¤Buffalo River ¤Buffalo¤67 Vincennes Street¤¤NY¤14204
+afbd4dde-586c-4792-9184-dca82ac1de90¤Reverb Oak Forest¤Oak Forest¤15938 Le Claire Avenue¤¤IL¤60452
+afbd5c5a-95b0-41eb-9d8f-4df3cef056e7¤Lancaster Bridge ¤Corvallis¤3384 Northeast Oxford Circle¤¤OR¤97330
+afbd6ea3-36d0-4c26-83fe-45c6ce8fb686¤Greenbriar Woods¤Fullerton¤249 S Jensen Way¤¤CA¤92833-2951
+afbd7676-7684-412e-8f53-fb0114fd2988¤Walnut Court¤Corvallis¤842 Northeast 2nd Street¤¤OR¤97330
+afbd831c-0196-4808-bc67-028ce646aed7¤Winston¤San Antonio¤11246 Sir Winston St¤¤TX¤78216-5401
+afbd8a47-8c21-48d7-af83-ab89e1f8850e¤Miramar¤Houston¤2380 Bering Dr¤¤TX¤77057-4742
+afbdfbf4-1758-400c-a888-7a4142613251¤Clearfield Hills¤Clearfield¤441 Bruce Street¤¤UT¤84015-2108
+afbe4243-0f29-4a33-b7a9-3f946027bd40¤Kensington Heights Co-Op¤Milford Charter Township¤711 South Main Street¤¤MI¤48381
+afbe4ca8-2e68-48c4-b8c5-ef5da325d531¤Pine Creek Apartments¤Wisconsin Rapids¤2610 12th Street South¤¤WI¤54494
+afbe765b-dd0d-40a2-a897-f8be6ee4a445¤Oliver Court¤Wichita¤3004 S Oliver¤¤KS¤67210
+afbe8aaa-39de-442c-8a3a-ca17ec730c83¤Reserve At Wekiva Bend¤Altamonte Springs¤170 Riverbend Drive¤¤FL¤32714-4603
+afbea408-0b1b-430a-835c-8dab7acee053¤Liberty Station¤Heber City¤404 W 1080 S¤¤UT¤84032-5620
+afbea560-528b-4dd5-980a-5850e3c309e1¤North Crest¤Union¤322 North Street¤¤MS¤39365
+afbeb5a9-76d5-42e2-91b1-1c932381ef09¤Rosecliff I & II¤Quincy¤816 Willard Street¤¤MA¤02169
+afbee5eb-573a-4088-a3f0-f688ab758fea¤425 Lakeside¤Cleveland¤425 W Lakeside Ave¤¤OH¤44113
+afbf0ad9-6cb7-4217-b46b-cec3c5b52b49¤Montague Place ¤Caro¤200 South State Street¤¤MI¤48723
+afbf29aa-44e9-4b29-8122-e15885969424¤Palladium Park I & II¤High Point¤3902 Pallas Way¤¤NC¤27265-3625
+afbf502c-3d38-4269-9930-2b8d9f6edbdf¤Colina East¤Seattle¤2709 17th Ave S¤¤WA¤98144
+afbf5677-c158-4a6e-bf66-67e20e064e04¤Westport Villa¤Anaheim¤2300 E Westport Dr¤¤CA¤92806-4112
+afbf7762-e798-4c72-a23e-608c43c0ad4b¤Springbrook¤Charlotte¤2110 Alleghany St¤¤NC¤28208
+afbf7e87-6964-45a0-9e47-e1a3fcffd39e¤Preston Oaks ¤Louisville¤1214 Gilmore Lane¤¤KY¤40213
+afbf9d3d-1d14-44a1-bcde-cac75c8f4d0e¤224 Floyd Avenue¤Modesto¤224 Floyd Avenue¤¤CA¤95355
+afbfa96a-eeb1-492a-a833-664d34bfc24d¤El Cajon¤El Cajon¤440 Chambers St¤¤CA¤92020
+afbfc38b-9ff5-4834-88af-0407b63baa3e¤Pillar at Taviano¤Chandler¤875 West Pecos Road¤¤AZ¤85225-6898
+afbfcebe-652f-420b-a7c4-840ca190d9e8¤Floresville Square LTD¤Floresville¤100 Larry Wayne Drive¤¤TX¤78114
+afc00190-80ea-4424-adc9-c9274b5124ca¤Westside at Shady Grove Metro¤Rockville¤16658 Crabbs Branch Way ¤¤MD¤20848
+afc00ade-9b90-44b3-b251-a7cc467e5356¤Studio¤Los Angeles¤5355 Cartwright Avenue¤Unit 346¤CA¤91601
+afc0316b-62e4-43a4-b47c-70bd358c2af4¤Marshall Square¤Philadelphia¤844 North 6th Street¤¤PA¤19123
+afc04393-d362-411e-9242-9ae07918f662¤Patriots Park¤Portsmouth¤2 Freedom Cir¤#13¤NH¤03801-5958
+afc05403-c139-4e94-95d7-2753b6359dc2¤Lofts on Main¤Plymouth¤250 N Main St¤¤MI¤48170
+afc05483-f388-4557-ae04-1c0ca06253b7¤El Prado ¤Santa Rosa¤1620 Herbert Street¤¤CA¤95401
+afc06a86-c5e1-4235-89f0-73d26a1c5294¤Sky Ancala¤Scottsdale¤11545 N Frank Lloyd Wright Blvd¤¤AZ¤85259-3141
+afc0757b-ba9e-47ff-a4f9-93e13d1fabe1¤Morningside ¤Garden Grove¤12211 Trask Ave¤¤CA¤92843
+afc07fec-5fc7-4252-a50a-7b1c37586da5¤Pill Hill¤Rochester¤730 5th Street Southwest¤¤MN¤55902
+afc08e42-1488-4c5b-94b2-0db9d7e0f71a¤Avalon at Arlington Square¤Arlington¤2350 26th Ct S¤¤VA¤22206-3000
+afc09bec-0c97-4255-a7f0-0107cf8eb2c4¤Nolan¤Mesa¤945 West Broadway Road¤¤AZ¤85210-8455
+afc0a00f-f8af-43e4-a435-908855329bad¤Sundial Francis¤Los Angeles¤10746 Francis Pl¤¤CA¤90034-6252
+afc0d32d-aff9-489a-9b34-c33a981d5a17¤Roam¤Missoula¤305 E Front St¤¤MT¤59802
+afc0d383-9e1f-43e4-9a55-098f2ef019f5¤Wheeler Plaza Development¤San Carlos¤San Carlos Ave and Walnut St¤¤CA¤94070
+afc13e5d-c764-4cce-bdfa-0293ead2c694¤Golden Properties North¤Temple¤801 Betsy Ross Drive¤¤TX¤76504
+afc13eae-372d-4762-b2ba-514dc5d449be¤Seton Square¤Wellston¤570 West 1st Street¤¤OH¤45692
+afc15e7c-adb0-4e73-9c07-937cff4131f8¤Buena Shores¤Chicago¤833 West Buena¤¤IL¤60613
+afc162d2-7988-45a6-a900-4b960f9469a6¤Lakeway Woods¤Mentor-on-the-Lake¤5840 Buckeye Lane¤# 1¤OH¤44060
+afc180bc-5ae4-495c-af8a-f9fe6b6e988c¤12730 Woodside Lane¤Newport News¤12730 Woodside Lane¤¤VA¤23602
+afc191ae-624c-48fe-aced-53f820b527a0¤Amber Pointe ¤Urbana¤2002 East Amber Lane¤¤IL¤61802
+afc1b84d-4d14-4fbc-9865-57379a151bc9¤Canyon View Crossing¤Orem¤1460 South State St¤¤UT¤84097
+afc1c772-fb89-4dcc-8564-2b476b8f3f5d¤Ventura¤Arlington¤2601 Furrs St¤¤TX¤76006-4122
+afc1cdfe-6b03-4428-b348-4369e2f21bcd¤Paloma Villa¤Denver¤4200 Morrison Rd¤¤CO¤80219-2481
+afc1d88d-596f-4c49-9450-7a71ead3c29e¤Country Village of Sherman¤Sherman¤900 S FM 1417¤¤TX¤75092-4807
+afc1e19e-21e3-4b6c-a5f5-79d7f04c4448¤Rippey Gardens¤Pittsburgh¤5627 Rippey Street¤¤PA¤15206
+afc1f32f-f0d7-413a-8643-28f146bfa121¤Manor Of Leesburg¤Leesburg¤1 Fort Evans Rd SE¤¤VA¤20175-4107
+afc1fba7-9a8d-4b1f-af8d-913e04f9f81a¤Isabella Towers¤Knoxville¤1515 Isabella Cir¤¤TN¤37915
+afc1fdc2-ceac-4be6-a4b3-d5c3d9b21fda¤Heritage Point¤Wilkes-Barre¤151 Dana Street¤¤PA¤18702
+afc2072d-2293-4dd5-af21-619d650abdfb¤Greenhouse Village¤Cypress¤19015 West Rd¤¤TX¤77433-3933
+afc21b71-f8fb-4a64-a2b4-4165c1e16c73¤83rd Street Condominiums¤Gainesville¤3605 Northwest 83rd Street¤¤FL¤32606
+afc25e23-5682-4753-9029-7491884de0bc¤Continental¤Dallas¤1810 Commerce St¤¤TX¤75201-5346
+afc2961e-9285-4f3c-ab0e-038add2d42fa¤Melrose Manor¤Buena Park¤7200 Melrose Street¤¤CA¤90621-3247
+afc2988a-4821-42df-8402-f395792a56fe¤Eagle Tail Village¤Buckeye¤306 South 7th Street¤¤AZ¤85326
+afc2b3a2-73cd-49b8-a1b4-5b419d4a36d4¤Midwest¤Chicago¤6 North Hamlin Boulevard¤¤IL¤60624
+afc2c2f6-efc8-4f21-9e3a-9bfdce5a8aac¤Colonies Landing¤Houston¤15550 Kingfield Dr ¤¤TX¤77084-6200
+afc2c9f9-2b1b-457e-8899-55f84e3a0f8e¤Garden¤Oakdale¤40 N Lee Ave¤¤CA¤95361-3324
+afc2f375-d5f2-4e87-b2d5-2b7c1a67387d¤Executive Towers¤Poughkeepsie¤160 Academy Street¤# 160¤NY¤12601
+afc2f738-9ad1-486c-8249-ff7fd2b7ef15¤Ballston Place¤Arlington¤901 North Pollard Street¤¤VA¤22203-4087
+afc3174f-2f0c-4413-9e30-423f9bbe0898¤AHEPA 35¤Nashua¤681 W Hollis Rd¤¤NH¤03062
+afc31e05-8ed5-4ac4-b5b0-04470529740e¤Gardenside Plaza ¤Lexington¤1685 Alexandria Dr¤¤KY¤40504-2171
+afc33b5e-cd0e-4c7b-a8fd-82314edfa98c¤Cote Gelee Apartments¤Broussard¤115 South Girouard Road¤¤LA¤70518
+afc35df9-7137-44d3-bed9-493711098da1¤Guardian¤Cincinnati¤3375 McHenry Avenue¤¤OH¤45225
+afc35fda-7669-4ff3-b0b9-70995913c9a7¤Collins Mill Creek ¤Milton¤5461 Collins Mill Creek Dr¤¤FL¤32570-8236
+afc374b8-40ff-4b27-9f33-1d5f7e277aef¤Metropolis I¤Los Angeles¤889 Francisco Street¤¤CA¤91342
+afc37641-01eb-4f20-888d-bb647df21f07¤Villa D'Este ¤Hawthorne¤13701 Yukon Avenue¤¤CA¤90250
+afc393fc-6fb5-4b74-8bdf-acc8a81828f2¤Club at Danforth¤Jacksonville¤3701 Danforth Dr¤¤FL¤32224-5257
+afc39ba5-95ad-407d-ae17-901ff0f306fc¤56 Commons¤Portland¤5075 SW 56th Ave¤¤OR¤97221
+afc3bed8-72e5-47c2-9ba7-c86f6fb5b710¤Crimson Terrace ¤Brick¤2775 Hooper Ave¤¤NJ¤08723-4151
+afc3cdce-9d09-465d-ae45-6064cca5bdfc¤Vieux Carre¤Bossier City¤3210 Cloverdale Pl¤¤LA¤71111
+afc3d58e-b1b3-40cb-ace4-89e8aa137b2e¤Thompson Estates¤Whiteville¤103 Jones Place¤¤NC¤28472
+afc3e796-75d7-4f82-934b-950a5cb6a92d¤Stone Creek¤Waukesha¤2609 Fielding Lane¤¤WI¤53188
+afc3f1ac-af37-45b3-9b9e-9cf3507e49da¤St Clair ¤St. Clair Shores¤22545 E 12 Mile Rd¤¤MI¤48081-2503
+afc40cbe-d674-4db1-811c-d2dd329a19c5¤Oak Street ¤Carlin¤519 Camp Street¤¤NV¤89822
+afc4273b-c51e-4652-8509-58ccff4c843f¤Holly Hills¤Bowling Green¤255 Eastern Heights Avenue¤¤KY¤42101
+afc4327c-6d57-4e39-b9f9-69a69cb73a34¤750 W Briar Place¤Chicago¤750 West Briar Place¤¤IL¤60657
+afc44444-3d13-425c-9a25-3e61c6e8391b¤Columbia Colony¤Atlanta¤2999 Continental Colony Pkwy Sw¤¤GA¤30331-3068
+afc44914-0506-4407-9ca4-d7faffa03044¤Desert Palm Village¤Tempe¤1215 East Vista Del Cerro Drive¤¤AZ¤85281-7100
+afc48a84-0be3-4135-af40-fbeca6e09bdf¤Arbor Park¤Jackson¤5551 Shaw Rd¤¤MS¤39056
+afc49de8-456f-44ce-bdd3-40bf31dd6283¤Kimball Real Estate¤Ithaca¤186 Pleasant Grove Road¤¤NY¤14850
+afc4aa2c-6f58-4f8b-912e-8b4ae5032c7e¤Ivy Hill Park ¤Newark¤5 Manor Dr¤¤NJ¤07106
+afc4bb32-cb20-4504-ab07-51dccdca12e4¤Southwood Square¤Kent¤26224 106th Place Southeast¤¤WA¤98030
+afc4c0b1-ca29-40f8-ab76-6464447e5dde¤Allister Place¤Tampa¤4939 E Busch Blvd¤¤FL¤33617-6023
+afc4cfef-bf4c-472c-a253-d85f0f198575¤Breckenridge Village¤Sacramento¤7326 Stockton Boulevard¤¤CA¤95823
+afc4e731-dc8c-4c04-bdd9-2000c81f9c34¤Oakwood¤White Sulphur Springs¤1 Surber Rd¤¤WV¤24986-2509
+afc4e7ff-b839-48f1-9a0a-49b0b1483454¤Royal Oaks¤South Brunswick Township¤705 Royal Oaks Court¤¤NJ¤08852-2204
+afc50a00-46d8-4ab6-9739-600f033f91b7¤Greens at Derby I & II¤Derby¤1500 E Tall Tree Rd¤¤KS¤67037-6000
+afc52537-3073-4d89-bb3d-3ce67d74888d¤Waves¤Ventnor City¤Multiple Locations¤¤NJ¤08406
+afc53656-02ad-46de-834e-70fd2cf0b6e7¤Cheryl West¤San Antonio¤333 West Cheryl Drive¤¤TX¤78228
+afc5367f-173a-4304-b5b4-392a6bf1e4d7¤Lillian Court¤Bloomington¤18028 Valley Boulevard¤¤CA¤92316
+afc5493f-1688-46bd-9744-87e41047b4e0¤Clermont¤Lexington¤828 Malabu Dr¤¤KY¤40502-3475
+afc55470-7ca4-4196-a6a1-dca857fb047a¤Batavia Meadows¤Batavia¤4304 Batavia Meadows Drive¤¤OH¤45103
+afc5613c-7391-4f6e-ab36-34054a78bc40¤Crown Center I¤St. Louis¤8350 Decrest Dr¤¤MO¤63124
+afc5b40f-a17e-42ca-bfd6-98ff6b9bddba¤Tower at Tropicana¤Las Vegas¤6575 West Tropicana Avenue¤¤NV¤89103-4392
+afc5c3d1-bc87-4d8d-ad36-fafade78db72¤Quail Terrace¤Stockton¤1744 Quail Lakes Dr¤¤CA¤95207-5447
+afc5c82a-a67e-4107-95df-4b47c8750cd2¤Autumn Winds¤Big Lake¤121 Euclid Avenue¤¤MN¤55309
+afc5d1ca-8ed5-45b6-9544-544d0cb00c2d¤Brown¤Corydon¤620 August Yocum Lane Northeast¤¤IN¤47112
+afc5f0c1-e252-4dce-8caa-862a4443fca3¤Leader¤Lexington¤156 Leader Drive¤¤KY¤40508
+afc60da7-40fc-4fad-bf92-220e1b1d50a9¤Oxford Park¤Los Angeles¤1920 South Oxford Avenue¤¤CA¤90018
+afc6162c-0496-4b11-950d-fb2826161b31¤American¤Lake Jackson¤130 Oyster Creek Drive¤¤TX¤77566
+afc62014-a672-459f-a02e-33b1807b91ff¤Cabana Club¤Jacksonville¤8680 Baymeadows Rd E¤¤FL¤32256
+afc6234e-719e-4f87-af61-31a344cf3549¤Barton House¤Kelso¤1203 Cowlitz Way¤¤WA¤98626
+afc62417-90f2-4b0b-b6d4-44dcad271fbf¤Millwood¤Blue Springs¤258 Northwest Woods Chapel Road¤¤MO¤64015
+afc64172-f6eb-4b95-8d60-7b01c080f49a¤Laurelwood¤Indianapolis¤3340 Teakwood Drive¤¤IN¤46227
+afc643aa-f2b0-4d1a-b86c-ac29d914c13a¤Timberland Village¤Akron¤1460 Timber Trail¤¤OH¤44313
+afc65aad-aabb-4e7a-aad0-2110dda76f81¤LA Hacienda Apartments¤San Angelo¤1815 South Fillmore Street¤¤TX¤76904
+afc66677-a463-461a-af4b-92c376a013c4¤Park at Barton¤West Memphis¤900 E Barton Ave¤¤AR¤72301
+afc66fce-4340-416a-a97d-626c2ed9792c¤Residences at City Center¤New Berlin¤15211 West Library Lane¤¤WI¤53151
+afc678e3-5105-44ea-aabf-a5d30036a703¤Water's Edge¤Euclid¤23951 S Lakeshore Blvd¤¤OH¤44123
+afc689e2-a923-4cb7-8bcb-0d452072ed5e¤Apalachee Point Villas¤Tallahassee¤1405 Southwood Plantation Rd¤¤FL¤32311
+afc69978-b63b-4b54-bf30-8649ed360943¤Westgate Courtyards¤Santa Maria¤1700 S Blosser Rd¤¤CA¤93458-7304
+afc6a59c-39c4-44a6-9054-ed80bb276895¤Atherton Terrace¤San Jose¤4809 Atherton Ave¤¤CA¤95130
+afc6bcd8-5d10-42da-82cd-fdec8b85d7b8¤Pine Pointe ¤Waukesha¤156 South Grand Avenue¤¤WI¤53186-6073
+afc6f1ca-4615-47e5-9645-1e02531d07ef¤Bridgestone Crossing II¤Spring¤21115 Gosling Road¤¤TX¤77388
+afc704f9-f699-41d0-a345-d81c82df7411¤Jacaranda Trail I & II¤Arcadia¤1650 SE Hargrave St¤¤FL¤32466
+afc74bda-35fc-4880-b0b7-32f5b5bd218d¤Joplin Affordable Housing¤Joplin¤26th St & McCoy Ave¤¤MO¤64804
+afc74c7e-2da5-4b1b-97e0-4a607dc43822¤Westside¤Louisville¤200 South Montgomery Avenue¤¤MS¤39339
+afc75762-6706-4459-ae89-87e92ef668ef¤Sovereign Townhomes¤Houston¤9888 United Dr¤¤TX¤77036-3408
+afc78189-fda3-4eb6-afce-a44ee0dbcbaa¤Vintage Crest¤Moorpark¤4700 Park Lane¤¤CA¤93021
+afc7aa57-291c-43c6-8d85-023f20831d4e¤MacArthur Manor¤Warren¤21492 Mac Arthur Boulevard¤¤MI¤48089
+afc7c34b-adc8-476f-bc64-78fa92bc7106¤Buschman Grain Lofts¤Indianapolis¤970 Fort Wayne Ave¤¤IN¤46202-4329
+afc7cdef-4ece-4ba6-8360-aefac05630df¤4345 Matilija¤Los Angeles¤4345 Matilija Ave¤¤CA¤91423-3621
+afc7cf0c-a1b2-4be3-a7bd-1fed7b99fd49¤Pebblebrook¤Garland¤909 E Centerville Rd¤¤TX¤75041-3622
+afc7d156-8173-4a9c-a5a6-d42b8fd1442d¤Castle Hill¤Sacramento¤2725 Elvyra way¤¤CA¤95821
+afc7f90e-fb95-48fc-8c43-aa2908967524¤1150 North Milwaukee Avenue¤Chicago¤1150 North Milwaukee Avenue¤¤IL¤60642
+afc85bbc-8a65-40a0-948c-376cc8e86dbc¤Pines of Palos Verdes¤Mesquite¤4900 Via Ventura¤¤TX¤75150-3156
+afc85e63-34f3-4a0c-85a5-448c02ecec65¤Gates Green Village¤Marietta¤125 Millers Lane¤¤OH¤45750
+afc88213-4cef-4734-8f43-c396169727a8¤Augusta Trails¤Greenville¤1100 Couples Court¤¤NC¤27834
+afc886fb-9a5f-4948-bbf7-1d3b3afbb88c¤Conlorez Corp¤Buffalo¤267 Linwood Avenue¤# 5c¤NY¤14209
+afc888d8-e72e-4fa6-a28c-dcbcfb22dfcf¤Imperial Palms¤Norwalk¤12016 Imperial Hwy¤¤CA¤90650-3066
+afc88ec4-7348-48d4-8fe5-492b15a3a827¤Encore Sherman Oaks¤Sherman Oaks¤4920 Van Nuys Blvd¤¤CA¤91403-1720
+afc8983d-2763-41d0-9ad5-39f59bfb1099¤Starr¤Gainesville¤1123 SW 7th Ave¤¤FL¤32601
+afc89e73-3a42-49fd-9db4-a9e9cb2b8f86¤Golden Bamboo Village III¤Houston¤6628 Synott Road¤¤TX¤77083-2606
+afc8b258-5a19-4c18-ab32-321ec81a9286¤217 Burcham¤East Lansing¤217 Burcham Drive¤¤MI¤48823
+afc8bf08-e0d9-4a15-bc2f-dbe8138ac5f1¤Glenview West¤Portland¤4728 SW Luradel St¤¤OR¤97219
+afc8c347-5d23-4746-ab0f-a0f73d1d64a0¤Cedarvale Village¤Seattle¤11219 Roosevelt Way Northeast¤¤WA¤98125
+afc913b0-fdf9-4930-b56a-574b9a1d779a¤Parkside Village¤Huntsville¤3033 Drake Avenue Southwest¤¤AL¤35805
+afc91edc-ecf0-4b4b-b9ef-2a07e747646e¤Evergreen¤Chetek¤707 Tainter Street¤¤WI¤54728
+afc92acb-bc9b-445b-a925-9e644c5f9032¤Greenplan Properties IV¤Oak Park¤130 N Humphrey Ave¤¤IL¤60302-2548
+afc937ef-329d-49fd-be3d-1c370b809868¤Centrum ¤Shreveport¤2750 Waggoner Avenue¤# 501¤LA¤71108
+afc95a09-ea46-4fd4-824a-6ac6dbc0093d¤Wemple Road Development¤Delmar¤25 Wemple Road¤¤NY¤12054
+afc968e9-3dda-4d02-a19d-0e78c778d649¤Hale Ola Kino¤Honolulu¤1314 Kalakaua Avenue¤¤HI¤96826
+afc98eb0-f926-432f-aa7a-fd5be3e8b0d3¤530 W Diversey¤Chicago¤530 W Diversey Pkwy¤¤IL¤60614
+afc99c90-6199-4297-b888-23399bb2d4ea¤Parkridge¤Millburn¤240-248 Millburn Avenue¤¤NJ¤07041
+afc9be27-5128-4f9d-9548-7c82764ffd8b¤Clinton Place Apartments¤Mount Clemens¤147 North River Court¤¤MI¤48043
+afca1d19-d1e4-476e-bb06-d994975dc204¤Magnolia Cove I¤Houston¤103 Goodson Dr¤¤TX¤77060-4358
+afca2095-4d4e-42c2-8dfe-d9fd70110282¤Windsong ¤Gastonia¤636 Stevens Street¤¤NC¤28054
+afca23d9-8da5-4322-bbf1-f4ef851d00b2¤Midtown ¤Spartanburg¤805 WO Ezell Blvd¤¤SC¤
+afca6137-cb70-4486-b3bf-efa3efc2cc16¤Evergreens at Columbia Town Center¤Columbia¤10101 Governor Warfield Parkway¤¤MD¤21044-3318
+afca90f1-d9d3-4db2-843a-ae58e4151f20¤Sunset Martel Towers¤Los Angeles¤1400 North Martel Avenue¤¤CA¤90046
+afca966c-6bce-45e8-a84b-df4b21ad5b27¤Preserve Place¤Eden Prairie¤11100 Anderson Lakes Pkwy¤¤MN¤55344
+afcaa8e4-cbca-46ce-88a8-76802ca5e8fe¤Birmingham Orchard¤Pittsburgh¤600 Orchard Avenue¤¤PA¤15202
+afcae9eb-352c-499c-a0c7-f976cfac43b5¤Bexley Lakeline¤Cedar Park¤2801 S Lakeline Blvd¤¤TX¤78613
+afcafa02-4cc4-4e91-bd89-0d2f3ca81ebb¤Shepherd's Cove¤Auburn¤1330 Shug Jordan Parkway¤¤AL¤36830
+afcafe0d-9c0e-45b1-9a3a-11c32f2c554e¤Harrison Terrace¤Marion¤746 Airport Road¤¤NC¤28752
+afcb0670-a0e8-4cfd-97b5-4b8225474df6¤2545 W North Ave¤Chicago¤2545 West North Avenue¤¤IL¤60647
+afcb1032-221f-474a-b1a8-57d3bbb27a6f¤Broadway Townhouses¤Camden¤707 South Broadway¤¤NJ¤08103
+afcb19c5-cd81-4643-8d06-e76c7bdd66ca¤Bookend¤Minneapolis¤807 4th Street Southeast¤¤MN¤55414
+afcb1c86-7aa9-4fa0-8459-df00c69dc156¤Pruitt Health Panama City¤Panama City¤3212 Jenks Ave¤¤FL¤32405
+afcb228b-1ae9-4a82-870f-edeaa36cc04d¤Mt Catherine Manor Sr Housing¤Fillmore¤155 South Main Street¤¤UT¤84631
+afcb39a5-237a-42a9-b2f7-2554d5248b7c¤Hudson Crossing¤New York¤400 W 37th St¤¤NY¤10018-5628
+afcb3cca-ce46-45e9-8ce6-522dfa27bc81¤Bradley Homes Apts¤Milwaukee¤7800 North 64th Court¤¤WI¤53223-4101
+afcb894d-a50b-4d1f-a423-1acee571317a¤Linden Yards¤Memphis¤711 Linden Avenue¤¤TN¤38104-2305
+afcbb876-1052-4743-8700-511bc08cc671¤Myrtle Village¤Newton¤12 & 18-20 Curve Street¤¤MA¤02465
+afcbbb61-cffd-4d26-8ef0-d57e2ede628e¤Colonial Crest¤Marion¤3940 West Delta Drive¤¤IN¤46952
+afcbcda0-23ac-476a-9c01-4c03c37467c2¤Kapok Park¤Haines City¤Wood Ave & 10th Street¤¤FL¤
+afcbdb25-6f75-4def-8d52-bc9fd9e57ae7¤151 West Brookline Street¤Boston¤151 West Brookline Street¤¤MA¤02118
+afcc0238-f09e-4bce-9dc1-374d840f3aea¤502 South Mathilda Street¤Pittsburgh¤502 South Mathilda Street¤¤PA¤15224
+afcc1aa9-376a-4078-8b57-1391f7f20883¤Links at Virginia Center¤Glen Allen¤801 Virginia Center Parkway¤¤VA¤23059-4589
+afcc4e6c-299e-45cb-9e82-9bd91e27e7d1¤Grandview Nine¤Los Angeles¤2300 James M Wood Boulevard¤¤CA¤90006
+afcc677d-389c-4627-b72c-5685908c0431¤Cornerstone Commons II¤Conway¤330A Commonwealth Circle¤¤SC¤29526
+afcc7650-189a-4631-91f0-7a9588e6b2d2¤River and Rich¤Columbus¤401 W Rich St¤¤OH¤43215
+afccca0f-a980-409f-b9d2-2d874279e5d8¤Jasmine Lane¤East Dublin¤600 Buckeye Rd¤¤GA¤31027-8329
+afccf63c-9af6-41af-9032-b6499c3f0eb7¤Residences at Fort King¤Zephyrhills¤Fort King Road¤¤FL¤
+afccfee1-616a-471c-b4ea-6661e192818e¤Canby Gardens¤Canby¤645 N Pine St¤¤OR¤97013
+afcd1cb5-7d54-49f0-9c89-487da39e2dfc¤Sun River¤Tucson¤5100 N La Cañada Dr¤¤AZ¤85704-1511
+afcd20cd-09b6-4522-9571-d21e685cebf2¤Belvedere at Balch Road¤Huntsville¤Balch Rd¤¤AL¤35801
+afcd786a-fe1b-4fd2-b557-f8858a113f93¤Summit Crossing I¤Cumming¤3920 Ivy Summit Ct¤¤GA¤30041-7109
+afcd7b45-2ed2-4135-8a1c-aaaf86ead12b¤Oak Creek Village ¤Citrus Heights¤7747 Greenback Lane¤¤CA¤95610
+afcd8c62-9e3f-420e-bc2a-66e295b9169f¤Park South ¤Minot¤234 14th Avenue Southwest¤¤ND¤58701
+afcd9256-4d0a-4ceb-a51b-4086c64abf77¤Regency Park¤El Centro¤1531 Ross Avenue¤# A101¤CA¤92243
+afcda794-5691-42e7-aae0-5b68604910ca¤High Ridge¤Fairfield¤240 Sunnyridge Avenue¤¤CT¤06824
+afcdd806-4df0-4de5-b77d-f6edb3e22b2c¤Bamberg Villas¤Bamberg¤200 Race Street¤¤SC¤29003
+afcdf8ce-c909-464a-88fa-9a2fb9731845¤Gong's Casa Grande¤Selma¤3805 McCall Avenue¤# 6¤CA¤93662
+afcdf949-279f-4fd6-a50d-3ace41882504¤Parton St¤Santa Ana¤817 N Parton St¤¤CA¤92701
+afce1781-5585-4b1a-991d-62f2c30438ef¤Georgetown Village¤Toledo¤3045 Ilger Avenue¤¤OH¤43606
+afce468b-9e2c-4b91-a31b-d30e9e889d5c¤HarborChase of Palm Beach Gardens¤Palm Beach Gardens¤5900 Central Gardens Way¤¤FL¤33418
+afce75f4-209a-4f3e-b7e2-dba7cd3715d2¤Watch Hill¤Port Hueneme¤680 Evergreen Lane¤# 13¤CA¤93041
+afce778d-d3d8-4a4a-889f-5274ae86a359¤Barley Courts¤Wheeler¤840 Barley Ct¤¤MS¤38880
+afce82b7-0cb7-4667-9f0d-d44a8db0afd2¤Sunrise City¤Kissimmee¤Sunrise City Drive and Osceola Parkway¤¤FL¤34746
+afcea4b8-df98-47fe-9e7c-151115413af0¤Eastbrook¤Columbus¤418 North Lehmberg Road¤# 47¤MS¤39702
+afcea5fe-49fc-4fef-842e-e8892cd635ca¤Oaks at Naples¤Naples¤4078 Green Boulevard¤¤FL¤34116
+afcf096d-a597-4df7-8395-ddb7ad5d5d92¤Coast Townhomes of Naples¤Naples¤3536 Winifred Row Lane¤¤FL¤34116-6144
+afcf3987-1ac7-4f8e-828d-a1ef33a3d937¤Emeritus at San Juan Capistrano¤San Juan Capistrano¤31741 Rancho Viejo Road¤¤CA¤92675
+afcf5b79-006a-42ee-9689-01b58e4ca411¤South Shore ¤Chicago¤7000 South South Shore Drive¤¤IL¤60649
+afcf5c96-9a35-496e-9cd6-0c6715af10e0¤Overton Road ¤Dushore¤Overton Rd Bldg 1¤# 16¤PA¤18614
+afcf6adb-faf5-486e-b425-ddfc2ad7c903¤Alpine Creek¤Tyler¤4400 Paluxy Dr¤¤TX¤75703-2101
+afcfa7b0-c00c-48f5-ad93-3fd107476c78¤Alexandra¤Cedar Rapids¤4419 1st Ave SW¤¤IA¤52405-4286
+afcfdaa5-bd8b-48d2-8ce3-bb6acc71ae2a¤Westwood Westside ¤Iowa City¤1015 Oakcrest Street¤¤IA¤52246
+afcfe339-beab-4c08-b3cc-47913612cb3a¤Avistar at Wilcrest¤Houston¤1300 Wilcrest Dr¤¤TX¤77042-1614
+afd02893-2334-4091-bc52-3bfff29ae3b5¤Midtown¤Kerrville¤200 Hamilton Street¤¤TX¤78028
+afd03727-8d30-4273-aa14-76cffb14495e¤Arris¤Los Angeles¤1201 S Grand Ave¤¤CA¤90015
+afd0a301-c029-446e-a2b4-c5cd5d2ee809¤Sunset Hills¤Pekin¤1820 Vienna Court¤¤IL¤61554
+afd0d650-3645-4625-b47b-7fa6e8648d84¤Summer Rise¤Birmingham¤1975 East Bend Circle¤¤AL¤35215
+afd0e21d-7f81-41aa-b584-8752bbf89da4¤Prairie Woods ¤Des Moines¤4014 Hubbell Avenue¤¤IA¤50317
+afd0f2c6-fc39-4645-80b2-d557bb92c107¤Clear Creek¤Overland Park¤13590 Earnshaw¤¤KS¤66221-7400
+afd0fef7-2200-4f51-b260-594f1ca9b903¤MHPI II¤Jamaica Plain¤70 Glen Rd¤¤MA¤02130-3307
+afd11258-384e-4cd8-9d45-4e1a8975d6ab¤South Park Towers¤Los Angeles¤1120 S Grand Ave¤¤CA¤90026
+afd12fbc-d67b-4135-976f-e763b5387dfb¤Lake Street and Ada Street¤Chicago¤W Lake St & N Ada St¤¤IL¤60607
+afd1386b-6e53-407b-89fa-c40a04cc71c1¤Contour on Campbell¤Phoenix¤2300 E Campbell Ave¤¤AZ¤85016
+afd146cc-4a98-400c-97aa-b65d0efd2133¤Blue Heron Manor¤Hebron¤16 Flamingo Court¤¤OH¤43025
+afd166c0-afa6-4403-8180-7e2e5bb66376¤59 Bleecker Street¤New York¤59 Bleecker St¤¤NY¤10012
+afd1ac7f-f07b-4245-b119-92cf5f8429c5¤Apostles Village¤Brandon¤525 East Sadie Street¤¤FL¤33510
+afd1cbbf-6f7d-4ba6-a452-b82a82da5410¤Cranberry Meadows¤Beaver¤110 1st Street¤¤OH¤45613
+afd1cc52-4f7f-410c-ad12-8f614a14491e¤Park Avenue¤Long Beach¤2000 N Beverly Plaza¤¤CA¤90815-2868
+afd1e170-833b-4009-ae1a-8f72e1c1c5bb¤Spanish Towers¤Boulder¤805 29th St¤¤CO¤80303-2322
+afd240fd-f9e1-4864-b244-96dc72e4467c¤Millwood Manor¤Albany¤2550 14th Avenue Southeast¤# 14¤OR¤97322
+afd272e3-38e6-4898-a4e4-52dac9ff8c57¤Hawthorne Manor¤Tucson¤2140-2150 E. Hawthorne St.¤¤AZ¤85719
+afd29017-9c7f-4f45-a1fa-037a0191407e¤Pinewood Terrace¤Reno¤1455 Evelyn Way¤¤NV¤89502
+afd291af-c517-4fe9-9bf0-45a393b9d441¤194 East 2nd Street¤New York¤194 East 2nd Street¤¤NY¤10009
+afd2beed-36b8-4335-b0b8-f9134600b14a¤Bensalem Veterans Residences¤Bensalem¤3063 & 3095 Mechanicsville Rd¤¤PA¤19020
+afd2c5ef-3499-41d5-9ba5-c7301300faef¤Grovefield¤Bergenfield¤250 East Main Street¤¤NJ¤07621
+afd314ff-45eb-4a77-b1b6-a793c6e97bfd¤Redmont Gardens¤Mountain Brook¤2829 Thornhill Road¤¤AL¤35213
+afd3243b-cd70-4453-af06-3f1b4c950c38¤Oaks¤Raleigh¤550 Lipscomb Court¤¤NC¤27609
+afd35642-262e-4c31-8b98-82a8ac4124f4¤Wharton Square¤Wharton¤1510 Barfield Road¤¤TX¤77488
+afd36a13-c448-4577-96f7-3b71c5899aeb¤Highlands at Glen Eagle¤Syracuse¤3311 Cantwell Circle¤¤UT¤84075
+afd3bc56-0cc2-4c26-9696-bd8c177a6252¤Cedar Ridge¤El Dorado Springs¤1201 East Patricia Road¤¤MO¤64744
+afd3c3e4-f283-4e45-a98f-8e37fefa90fe¤Centennial at 5th¤North Las Vegas¤245 E Centennial Pky¤¤NV¤89084
+afd3db6e-b211-4f2a-816b-18cedfb92292¤Vintage Century Farms¤Antioch¤5430, 5438, 5446, 5448 Cane Ridge Road¤¤TN¤
+afd3fa91-c5b5-4a7a-adba-e6fea89a9635¤Cedars Studio¤Campbell¤157 Union Ave¤¤CA¤95008-3151
+afd42138-fe4b-489d-8cdc-4ba2e35d2b42¤Panorama City I & II¤Los Angeles¤14424 Plummer St¤¤CA¤91402
+afd424ed-09e1-4da9-85c5-df47fb185c8f¤7918 Reseda ¤Los Angeles¤7918 Reseda Blvd¤¤CA¤91335-1981
+afd42d1a-8590-484a-a0e5-c8d469f2987d¤Harbor Light Manor¤Atlanta¤4171 Washington Rd¤¤GA¤30344
+afd48909-994c-40d1-b2ac-41492d5ea501¤Dolphin Cove¤New Smyrna Beach¤47 Jacaranda Cay Court¤¤FL¤32169-5320
+afd4a6e1-5edc-4fc9-8ed7-1f526e7fcf73¤Lakeside ¤Fresno¤5250 N Brawley Ave¤¤CA¤93722-6604
+afd5041e-dedc-4707-a639-16e14d8793b4¤Park City North & South¤Lancaster¤1710 Swarr Run Rd¤¤PA¤17601-2521
+afd51475-548d-485f-b3ed-4ecf5ff48252¤Windscape of Naperville¤Naperville¤896 Benedetti Dr¤¤IL¤60563-8913
+afd51898-1229-4ae8-9fe8-a1907532d7bf¤Montfair at the Woodlands¤The Woodlands¤10851 Montfair Blvd¤¤TX¤77382
+afd58f19-b51b-4263-ba21-8a37c3af95ed¤Rockridge¤Arkansas City¤421 West Bryant Road¤¤KS¤67005
+afd5d5a1-929b-4031-805b-6da4df6f74bd¤Hopper Lane (Rebuilding from Fire)¤Santa Rosa¤1163 Hopper Ave¤¤CA¤95403-1606
+afd60176-1de8-427a-8098-3413ac517393¤1455 Folsom Street¤San Francisco¤1455 Folsom Street¤¤CA¤94103
+afd60a49-af59-495d-985b-663f5b513909¤Central Point¤Gresham¤318 NE Roberts Ave¤¤OR¤97030
+afd64009-3666-4cb7-8900-318b3f8388cb¤Landing¤Victoria¤1202 Mallette Drive¤¤TX¤77904
+afd64993-5b29-407d-b486-1a40d8490da4¤Cedar West IV¤Venice¤840 Golden Beach Boulevard¤¤FL¤34285
+afd64ebc-f807-43f2-b641-f7fd70c8fdcc¤Gatewood Manor¤Greensboro¤1238 Lolly Lane¤¤NC¤27405-6820
+afd654c3-d0c3-482c-a35e-feed9f3eae3c¤Oak Shade¤Orange City¤2317 South Volusia Avenue¤¤FL¤32763-7651
+afd66810-899f-46d0-9b07-8b2251ab1fe2¤Phoenician Pines¤Phoenix¤17211 N 35th Ave ¤¤AZ¤85053-1861
+afd6aa55-120e-4598-90e1-f050abb9bf1b¤Clositers on Kent Island¤Stevensville¤279 Romancoke Road¤¤MD¤21666
+afd6ee38-2eb2-4fdf-ae1c-7a181c653c7d¤Leilani I, II & III¤Seattle¤10215 Greenwood Ave N¤¤WA¤98133-9301
+afd6f68b-7937-4201-939c-a49409e49076¤Rollingwood¤Silver Spring¤2535 Ross Rd¤¤MD¤20910-2029
+afd6f6a4-a38f-4143-bf6b-03524effa1fb¤Timbercrest¤Charlotte¤7913 Timber Commons Lane¤¤NC¤28212
+afd70081-4974-4920-802c-b0720b1afeb2¤Lincoln Grove and Alexander Homes¤Greensboro¤503 South O'Henry Boulevard¤¤NC¤27401-3734
+afd70b32-845d-43bc-be5f-cc4bbe53a0a3¤Boulders at Puget Sound¤Tacoma¤2602 Westridge Ave W¤¤WA¤98466-1881
+afd7236f-4c56-44d8-82ee-f0dc53faad51¤Niagara Court¤Fall River¤219 5th Street¤¤MA¤02721
+afd72396-bf40-45a1-89ad-a19de2865068¤Royal Worthington I¤Malvern¤45 Creekside Lane¤¤PA¤19355
+afd73872-cbf7-4a3a-a5b4-10cc23163f08¤Gateway¤Anderson¤2600 Shady Lane¤¤CA¤96007
+afd743e8-4e2b-4bda-887b-98b91f27f115¤Royal Arms¤Tulsa¤5101 S Madison Ave¤¤OK¤74105
+afd75200-ca6b-46f9-a014-b2351e0c7e96¤77 Brighton Avenue¤Boston¤77 Brighton Avenue¤¤MA¤02134
+afd77fbe-aab1-4b67-a980-dcda02cd6533¤Tirupati Investors¤Savage¤8935 River Island Drive¤¤MD¤20763
+afd7820b-49d0-4df5-a329-d7fbe6d64341¤Evergreen Estates¤Fort Dodge¤1543 27th Avenue North¤¤IA¤50501
+afd7a8d2-4e2e-433a-99af-c4dc6194ab84¤Morgan Bay¤Houston¤14403 Ella Blvd¤¤TX¤77014-2587
+afd7c4d5-cef2-434b-b699-6043089b0465¤Fifty-Four Hundred South¤Tulsa¤4700 East 54th Street¤¤OK¤74135-6224
+afd7c9c0-0551-4acc-ade2-c7b20cb26d9b¤Crest at Westend¤Carrboro¤200 Rte 54¤¤NC¤27510-5569
+afd7de90-3a24-4b33-8a0a-165e5895c966¤Rosewood Manor¤Edmond¤800 S Kelly Ave¤¤OK¤73003-5684
+afd7e627-4429-4f72-85d9-10a3ed7f390f¤Intracoastal Yacht Club¤Sunny Isles Beach¤16900 N Bay Rd¤¤FL¤33160-4252
+afd7ecef-2fe1-496d-bc8a-5bb947dcf581¤Courthouse Green¤Spotsylvania Courthouse¤8132 Pool Dr¤¤VA¤22551-2565
+afd7f469-24b9-4cfa-a193-19c5680f6c81¤Brighton Glens¤Brighton¤321 Williamsen Drive¤¤MI¤48116
+afd8175d-00fa-4148-94a6-867b9639c16b¤Willowood¤Milledgeville¤1251 Dunlap Road Northeast¤¤GA¤31061-5422
+afd84fae-ce00-4f5f-9523-1eff468795d7¤Orchid Run¤Naples¤10991 Lost Lake Dr¤¤FL¤34116
+afd85f22-de68-4045-91ea-f6e8473543c7¤Kewl¤New York¤123-28 82nd Ave¤¤NY¤11415
+afd86373-a093-497f-8bde-53710e785443¤32 Byers Street Inc¤Springfield¤32 Byers Street¤# 111¤MA¤01105
+afd89a8e-c5ae-481a-ba6e-e0b3eb203277¤Shirkmere ¤Wichita¤256 North Topeka Street¤¤KS¤67202
+afd89eef-1754-4195-aec3-32db9981f3b6¤Davenport-Dunbar Residence¤Hamden¤135 Putnam Avenue¤¤CT¤06517
+afd8ca97-c87e-4f40-b3f8-6a01a6e1cb3c¤Georgetown¤Tahlequah¤1101 Crafton Place¤¤OK¤74464
+afd8fa9f-2c5a-4f60-837a-aad38512ae34¤Sierra Heights¤Fallbrook¤240 E Fallbrook St¤¤CA¤92028
+afd91844-9dc9-46c0-926e-2871fa58db15¤Carson Del Amo¤Torrance¤3316 West Carson Street¤¤CA¤90503
+afd9acc1-df55-4379-a802-ce1ba9e961c2¤Valley¤State College¤880 Toftrees Ave¤¤PA¤16803
+afd9bc3b-1e2c-430d-8f2b-a81172d4152e¤Westside Meadows Apts¤Milwaukee¤1450 South 116th Street¤¤WI¤53214-5522
+afd9c1be-c340-4355-aabb-a421e9648a22¤Bayview Gardens¤Clearwater¤2855 Gulf to Bay Blvd¤¤FL¤33759
+afd9f983-34e0-40ea-b149-f4cb7738fc4f¤Biltmore¤Spokane¤2727 East 53rd Avenue¤¤WA¤99223
+afd9fee9-2930-4067-96d5-8c10e84cdf01¤Esplanade at Hermann Museum Circle¤Houston¤One Hermann Museum Circle Dr¤¤TX¤77004-7174
+afda1d24-bd88-44a9-8987-546423962473¤Park Terrace ¤Milwaukee¤6272 North 101st Street¤¤WI¤53225-1519
+afda5fb7-af79-4065-bfb4-b279079f390a¤Kennedy-Warren Historic Wing¤Washington¤3133 Connecticut Avenue NW¤¤DC¤20008-5124
+afda8cfc-80be-407d-9ef8-65b102b3bd21¤Glencoe Trace¤Griffin¤1624 Hallmark Dr¤¤GA¤30223
+afda8e98-a26c-4f76-a8b8-ffb1df0cf724¤Fairway Terrace¤Mesa¤524 West Fairway Drive¤¤AZ¤85201
+afda9046-fa3a-4287-8890-69d44689e65a¤KLP Commons¤Buffalo¤786 Kenmore Avenue¤¤NY¤14216
+afdabee4-75e0-4c74-a173-483579fb1eb1¤Willis Terrace¤Albertson¤800 Willis Avenue¤¤NY¤11507
+afdb1555-4e4f-4e02-a0cc-eba8e8f1212d¤Winchester Manor Apt¤Santa Clara¤1850 Pruneridge Avenue¤# 14¤CA¤95050
+afdb5d81-c2bc-4bd0-84f3-1994ae6ee385¤Third Coast Purple¤Grand Rapids¤555 Michigan St NE¤¤MI¤45903
+afdb6295-7991-41e8-bd97-53d4301c8976¤Coronado¤San Francisco¤1590 Sacramento Street¤¤CA¤94109
+afdb86f4-051b-49df-bc69-a4150730658b¤Fletcher Meadows¤El Cajon¤2525 Lund St¤¤CA¤92071-0904
+afdb9799-810b-47b0-8c95-ae00fe0e7cc9¤Garden Villas¤Anaheim¤1199 N West St¤¤CA¤92801-2988
+afdba2ba-0a1f-4ff8-9f7e-e016e0f329cc¤MCHD Scattered Homes (Glendale & Tolleson)¤Phoenix¤2024 N 7th St Ste 101¤¤AZ¤85006-2101
+afdbf2bb-a773-4491-acf1-40ea95a9f6d0¤49 West¤Rogers¤400 S Dodson Rd¤¤AR¤72758
+afdc30d8-bdad-420c-ac26-a1549d209d35¤Sunrise Place¤Tallahassee¤2525 Texas Street¤¤FL¤32301
+afdc313e-f9df-476c-aeec-f8fcef4dfb0d¤Nathan Hale¤Huntington¤46 Nathan Hale Drive¤¤NY¤11743
+afdc757b-2e7f-4594-bd42-fdc53d2e60de¤Bison Trails¤Bartlesville¤1501 SE Bison Road¤¤OK¤74006
+afdc7b1a-d14b-4a86-83e1-09ec4ad6c2a4¤Hudson Providence¤Hudson¤Hwy 94 and Hudson Heights¤¤TX¤75904
+afdc8b55-833a-440c-af35-f9fd82cb34f2¤Mesa Pines¤Costa Mesa¤2650 Harla Ave¤¤CA¤92626
+afdc9618-4405-485c-bd88-b1e426b6240a¤Enclave¤Lewisville¤2197 S Uecker Ln¤¤TX¤75067-7802
+afdcc029-5aac-4c0c-9145-db2fb39d85cd¤Select Senior Living - Prescott, WI¤Prescott¤Linn St & Orrin Rd¤¤WI¤54021
+afdcf608-4515-4d25-a80a-1683cf85d225¤Bayview¤San Francisco¤5 Commer Ct¤¤CA¤94124
+afdd1c3e-0622-4b27-8fc4-fde76370bd45¤Central Park Towers¤Elgin¤120 S State Street¤¤IL¤60123
+afdd271b-c777-4fde-8288-860cb87a26e0¤Dyersdale Village¤Houston¤9700 Mesa Dr¤¤TX¤77078-3017
+afdd37b7-6a56-495c-b890-889bb56c02bd¤Ponds at Willow Falls¤Westmont¤6708 Park Ln¤¤IL¤60559
+afdd49f7-0e23-4d2d-b68b-410e557c2f93¤Winter Creek Village¤Windsor¤421 Winter Creek Lane¤¤CA¤95492
+afdd4c77-02c2-486a-b90b-a1d23c3e0a93¤Marmills ¤Cincinnati¤2016 Mills Ave¤¤OH¤45212-3026
+afdd546a-ff6c-46a1-b400-f205d37d9078¤Clover Meadows Apartments¤Tacoma¤12511 47th Avenue Southwest¤# 1¤WA¤98499
+afdda7b9-e07b-4d27-8946-d731adec1486¤904 La Brea¤Los Angeles¤904 La Brea Ave¤¤CA¤90016
+afddc2ee-c315-4a95-8d17-1673486378d8¤Bonnie Royal¤Fort Worth¤3241 Bonnie Drive¤¤TX¤76116-5112
+afddc4f2-55ab-4030-ad03-d707ec6535f7¤Willowwood¤Austin¤401 Woodward Street¤¤TX¤78704
+afdde3e9-02ba-4eeb-9b27-3e6dc7b6c8d7¤Cove¤Seattle¤601 E Pike St¤¤WA¤98122
+afddfca8-4016-4ce9-b6ff-2d2ac35312bf¤Avila Avenue II¤Parlier¤805 Avila Avenue¤¤CA¤93648
+afde0175-5e2b-4798-86c6-f2abb9fbe5e3¤Walls ¤Rehoboth Beach¤26 Christian Street¤¤DE¤19971
+afde03ed-0bc7-4f88-8466-3173b4943142¤Aggieland¤College Station¤306 Redmond Drive¤¤TX¤77840
+afde0864-7776-4562-88bd-a68c7bd78276¤Dover Lane¤Lexington¤5 Dover Lane¤¤MA¤02421
+afde08b2-8f57-41ff-8ed8-6b49542ee448¤Hartshire Lakes¤Bargersville¤3170 Hartshire South Drive¤¤IN¤46106
+afde178f-8ea4-45e9-8844-75e369b335a9¤Southgate¤Winston-Salem¤980 East 2nd Street¤¤NC¤27101-4416
+afde72ae-549f-43a8-bb38-ae2383db97e6¤University Row¤Madison¤725 University Row¤¤WI¤53705
+afde7c46-17a9-4c62-9827-932ba0243939¤Huntington¤Greenwood¤1814 Highway 72 NE¤¤SC¤29649
+afde7d19-ac39-415c-9e4f-6464ba505b96¤South Shore ¤Erie¤4600 East Lake Road¤¤PA¤16511
+afde7f0e-1ae1-4854-98ca-e2ec648980db¤Pine Hollow¤Cleveland¤308 Sleepy Hollow Dr¤¤TX¤77327-4352
+afdeb849-c1d1-4ccb-9b88-145849362990¤Tower Eighty¤Akron¤80 North Portage Path¤¤OH¤44303-1144
+afdee09d-678c-404c-bc62-959dfdafa2d5¤Casitas Lantana at Inwood¤Brownsville¤3954 Dana Ave¤¤TX¤78520
+afdf18d3-d08b-4afc-97e6-524b4cbee3a3¤Sierra Park ¤North Highlands¤4930 Polk Street¤¤CA¤95660
+afdf4111-8d01-4ba3-9843-1123b3fd99ff¤Olympus at Daybreak¤South Jordan¤4950 W Frogs Leap Dr¤¤UT¤84009
+afdf60df-db84-4ab4-bf9a-19c7c72fe4f5¤5 Oaks at Westchase¤Tampa¤10006 Sheldon Rd¤¤FL¤33625
+afdf6363-2685-48d5-b7f6-cac02431d567¤Bentwood ¤Louisville¤7510 Dunwoody Court¤¤KY¤40219
+afdf71f4-eacd-49e4-bccf-b83d936101dd¤Bayshore Manor¤Palacios¤138 Sandpiper Circle¤¤TX¤77465
+afdfa239-0f94-4c13-882a-5a91d970acf6¤Hickory East¤Hickory¤1750 20th Avenue Drive Northeast¤¤NC¤28601
+afdfb467-2cef-4342-9827-e0686b2e3823¤Shawnee Ridge¤Norton¤250 Virginia Avenue Northeast¤¤VA¤24273
+afdfc4fc-63b2-459c-a15b-dca1f004f9e5¤Westhaven¤Newton¤736 West 15th Street¤¤KS¤67114
+afdfd43f-436c-47d8-bde9-f3f194fec88f¤Mohouli III¤Hilo¤573 Mohouli St¤¤HI¤96720
+afdfd709-875e-480d-925b-5674b9239ea5¤1410 South King Street¤Seattle¤1410 S King St¤¤WA¤98144
+afe03c9d-b973-4b4c-8b1d-3bac86ac0e3e¤Sandalwood Village ¤Linden¤1215 N Bridge St¤¤MI¤48451
+afe04392-087d-4a92-9c98-869ce7c777d9¤Park Ridge¤Odessa¤2828 East 11th Street¤¤TX¤79761
+afe04cfd-65bf-47b4-a58c-fa7ba92c1334¤101 Via Mizner¤Boca Raton¤101 E Camino Real¤¤FL¤33432
+afe04efd-76ae-43d6-a325-74bbdafea944¤Olivares Senior Community¤San Antonio¤1003 Vera Cruz¤¤TX¤78207
+afe06dde-f51d-4322-9b03-1d54e4ccec3a¤Kimlyn Circle¤Akron¤20 Kimlyn Circle¤¤OH¤44310
+afe08607-785d-4b7e-ad40-0ffcb8003fd1¤Neptune Garden¤Memphis¤1180 Neptune Street¤¤TN¤38106-3329
+afe0a43f-3639-4d65-bbdf-718152fcaf35¤Lexington Farms¤Jerseyville¤1190 Lexington Dr¤¤IL¤62052-1215
+afe0a8fa-e07d-4a1e-b124-fe5d346c3695¤Fairfield At Selden¤Selden¤111 College Road¤¤NY¤11784
+afe0b4e6-4774-41e0-aa68-4ca9b7819015¤Sierra Village¤San Jose¤1290 Quincy Dr¤¤CA¤95132-2842
+afe0e782-e055-45c4-8d5f-acdffdfe2e36¤Ashwood Village¤Modesto¤2800 West Rumble Road¤¤CA¤95350
+afe0ea15-1016-4967-b8a6-f41d95130c80¤INH Property Management¤Rochester¤3918 U.S. 52¤¤MN¤55901
+afe11056-6abb-4549-8c7c-ec83b9692c8c¤Carriage Hills¤Pensacola¤2355 West Michigan Avenue¤¤FL¤32526-2399
+afe126da-7f37-46a4-a230-4efbc9c5b51c¤West Park Senior Housing¤Corsicana¤W Park Row and 44th St¤¤TX¤
+afe13d40-aaed-43d8-870c-426b4aefd064¤Gables Park Plaza - Phase II¤Austin¤West Cesar Chavez Street and Lamar Boule¤¤TX¤
+afe145b0-de45-409e-837c-109cd30fc49f¤Churchill Ranch¤Indianapolis¤8016 Louisville Dr¤¤IN¤46226
+afe1506c-6730-4fda-bda8-cf41e366b5c9¤Hudson ¤Chicago¤750 N Hudson Avenue¤¤IL¤60654
+afe176a7-84a7-4a9d-9adc-64249c06e283¤Refugio Place¤San Antonio¤300 Labor St¤¤TX¤78210-1092
+afe17832-e46a-4f6c-96f2-1001867d31fa¤Kenton Court¤Radcliff¤708 East Lincoln Trail Boulevard¤¤KY¤40160
+afe19062-b356-4f5a-a384-9bbc3dfcd96d¤Post Ridge Apartments¤Madison¤219 Josephine Avenue¤¤WV¤25130
+afe19966-a985-4db1-9439-6cbd5f412f67¤Vogue¤New York¤990 Avenue of the Americas¤Suite 400¤NY¤10018
+afe1b667-29fb-43bc-afec-259d09d0886e¤Sebring¤Houston¤9501 Beechnut St¤¤TX¤77036-6609
+afe1b6b1-d041-436e-8dad-160252601a4b¤Chase Park ¤Montgomery¤2421 Chase Park Drive¤¤AL¤36110
+afe1fc91-0a46-46ae-8f06-6c62270fd912¤Chateau Village¤Kearney¤3907 Pony Express Road¤¤NE¤68847
+afe20731-ff9e-44eb-899e-4b02388be2ac¤Shadow Run¤Hubbard¤518 West Liberty Street¤¤OH¤44425
+afe2175a-a496-4947-b657-6ee7758de250¤Boulder¤Grand Forks¤2606 13th Avenue South¤¤ND¤58201
+afe24312-9bcc-4310-a99f-c344c00d0c75¤Manor of the Plains¤Dodge City¤200 Campus Dr¤¤KS¤67801
+afe25165-044e-4593-bba2-d3957b042044¤Elmwood¤Okanogan¤880 2nd Avenue South¤¤WA¤98840
+afe27876-e0b1-4cd6-ac78-0d3bc367bb5b¤Upham Street¤Wheat Ridge¤3710 Upham Street¤¤CO¤80033
+afe2aba9-74da-4fb2-bbe3-178d7003e077¤McKenzie¤Muncie¤200 North McKenzie Street¤¤IN¤47304
+afe2f2ad-f47e-4b90-8ef7-b79e7207b4b4¤Arkansas Tech¤Russellville¤North El Paso Avenue¤¤AR¤72801
+afe2f3e6-6596-44f0-8b06-e79370660756¤Brigham City Senior¤Brigham City¤367 North Main Street¤¤UT¤84302
+afe303d6-4a5a-4176-b285-9f43d7825aa9¤Bergen¤Freeport¤88 South Bergen Place¤¤NY¤11520
+afe31df7-124e-45cf-a616-095a02063695¤Lofts of Winter Park Village¤Winter Park¤520 North Orlando Avenue¤200¤FL¤32789-2919
+afe322ab-f7bb-4726-b513-71ff0fc45458¤Cotton Mill¤Nashua¤30 Front Street¤¤NH¤03060
+afe3294d-26d4-49ed-a9f3-2100d9e7d49f¤Carriage Crossing¤Waller¤31623 Waller Tomball Rd¤¤TX¤77484
+afe33238-32aa-4265-8d10-3027d95429ae¤Villas at CSC¤Galesburg¤3278 N Henderson¤¤IL¤61402
+afe3328a-cd77-474e-bfac-6404b0b8a4cc¤South Port¤Alexandria¤6112 Edsall Rd¤¤VA¤22304-6001
+afe34097-c790-4590-8430-d2fcaa3d9107¤3412 6th Avenue North¤Grand Forks¤3412 6th Avenue North¤¤ND¤58203
+afe358ad-fbfd-42b6-ad4e-bb4b6314cfa0¤Westwinds Apartments¤Goleta¤6657 El Colegio Road¤¤CA¤93117
+afe399f7-5b6a-41ec-bcae-48a2cd887a32¤Cantera Residences¤Warrenville¤Torch Pkwy & Winfield Rd¤¤IL¤60555
+afe3aca6-e440-4b22-9295-14f94e0762bc¤Edina Towers¤Minneapolis¤6400 Barrie Road¤# 1400¤MN¤55435
+afe3dbb7-3b48-4717-955d-052aa206e370¤T & R Properties¤Columbus¤3330 East 7th Avenue¤¤OH¤43219
+afe3dc85-c21c-471e-aa0f-df1d8fadaa8f¤Windtree Apartments¤Garden City¤505 West Campbell Street¤¤KS¤67846
+afe3f62c-1c91-491e-b9be-bafb5732eadd¤Heights¤Bellefontaine¤611 Saxon Drive¤¤OH¤43311
+afe3fd04-7fca-488f-8695-3feb9596de05¤Green Dolphin¤New Rochelle¤720 Pelham Road¤¤NY¤10805
+afe409d9-3147-4454-a955-ba1522b3dc46¤Admiral¤Portland¤910 Southwest Park Avenue¤¤OR¤97205
+afe411c5-cf02-4c44-a7f1-e086434407d5¤Roosevelt ¤Louisville¤224 North 17th Street¤¤KY¤40203
+afe4289b-dc8f-46fb-9fef-4bd89e709e1d¤Aspen Oaks¤Chaska¤1212 Crosstown Boulevard¤# 101¤MN¤55318
+afe441a0-c041-44ea-8436-1aa5b152f718¤Linden Crest¤Wilmette¤500 5th St¤¤IL¤60091-2855
+afe4468f-a1da-4240-9016-dc894a392872¤Pierre¤Hackensack¤185 Prospect Avenue¤¤NJ¤07601
+afe4aa01-b781-4c19-b881-723a9c2257b3¤New Meadows¤Middletown¤Plaza Drive¤¤CT¤06457
+afe4ae69-9aa2-4a08-9a06-ca217703a938¤Mariners Cove¤San Diego¤4392 W Point Loma Blvd¤¤CA¤92107-1128
+afe4b287-d89c-485b-aeb5-bd7f00421446¤City Lofts¤Denver¤2456 S York Street¤¤CO¤80210
+afe4bc8d-f41c-4155-a761-70e2db8a9ec3¤Old Towne¤Charlotte¤4738 Sharon Rd¤¤NC¤28210-3372
+afe4c4be-e013-450c-911d-5a6d32e7710d¤427 9th Avenue North¤Seattle¤427 9th Ave N¤¤WA¤98109
+afe4dedc-d2a4-48af-babc-fe3d67362fd9¤Walnut Creek¤Bellevue¤2204 Albert St¤¤NE¤68147-2113
+afe50711-8ee2-47ce-877c-2293de8bd49a¤Baldwin ¤Homestead¤435 SW 9th Ave¤¤FL¤33030-6919
+afe50ae0-df8d-40b0-b803-212138e381b4¤Cedar Crest¤Lincoln City¤1585 Southeast 19th Street¤¤OR¤97367
+afe51963-f1f3-4371-80d6-ef11a47de8e7¤Westcliff/Royal Palms¤Portland¤1404 Moore Ave¤¤TX¤78374-3000
+afe51c6f-23cb-4027-b281-f261c220d470¤Springtide ¤Daytona Beach¤439 Auburn Drive¤¤FL¤32118
+afe540ed-cb26-46b3-83d8-e6510ad6060a¤College Park¤San Diego¤6333 College Grove Way¤¤CA¤92115
+afe565c4-c9c9-405f-be0c-6400a58e93f8¤Martin's Point¤Lombard¤2101 S Finley Rd¤¤IL¤60148-6443
+afe5b083-66f7-4073-a432-5dcef46edd54¤Stratford Place¤Indianapolis¤6050 Castleford Drive¤¤IN¤46203
+afe5bed4-9a13-41c6-8772-cd087641f821¤Green Tree¤Enterprise¤1591 East Park Avenue¤¤AL¤36330
+afe5d65f-0fed-44d7-b872-7c41b85591df¤Continuum¤Allston¤199 North Harvard St¤¤MA¤02134
+afe5e29e-fe61-4873-9bce-0553d0337119¤Laurel Hills Preserve¤Marietta¤1955 Bells Ferry Rd¤¤GA¤30066-7020
+afe62e99-335b-4ef2-882d-ecb5dcb86e0b¤12-14 Peachtree Avenue¤Atlanta¤12 Peachtree Avenue Northeast¤¤GA¤30305
+afe65e62-e86b-447a-91fa-7c86bebd08d1¤Robin Hill ¤Lee's Summit¤607 Sw 2nd St¤¤MO¤64063-2235
+afe66541-dde9-481e-8c55-4f3674a161d5¤Millennium Park Plaza¤Chicago¤155 N Michigan Ave¤¤IL¤60601
+afe6a298-bd3e-49c4-a495-e308a0112f4b¤60 Corona¤Littleton¤60 Corona St¤¤CO¤80128
+afe6a361-e1c0-4aaf-828e-d90a9a312202¤Hawthorne Gardens¤Lancaster¤99 Dickens Drive¤¤PA¤17603
+afe6ba3d-12e5-4c9f-beda-d22c30c9b2d9¤Sierra Rose Housing¤Pasadena¤3053 East Del Mar Boulevard¤¤CA¤91107
+afe6c457-287c-4039-8dc1-a89df29dc5c0¤Arrive Town Center¤Vernon Hills¤1255 Town Center Road¤¤IL¤60061
+afe6d0c8-3694-462b-b0e8-d660f876d5a4¤Greens at Owasso¤Owasso¤13600 E 84th St N¤¤OK¤74055-8601
+afe6d39a-6f51-4616-ba49-afc5f2a0db9e¤Mark IV¤Hattiesburg¤200 Blue Gable Road¤¤MS¤39401
+afe6d411-e7fb-49d5-9f81-d464e0b30033¤Acc Greenhaven Terrace¤Sacramento¤1180 Corporate Way¤¤CA¤95831
+afe6d7cb-8d23-41c3-a54e-c15460373aa4¤Sycamore Creek¤Schertz¤1000 Elbel Road¤¤TX¤78154-2001
+afe6df61-5453-4555-b2a7-6a2075eb03a2¤Lodge at Cold Springs¤Rocky Hill¤50 Cold Spring Rd¤¤CT¤06067-3176
+afe70b60-bf16-4320-bb3a-381cc704824d¤Willow Landing I & II¤Palmyra¤600 Conifer Dr¤¤NY¤14522-9220
+afe74aa2-2cf9-4b2e-91fb-f914931d914b¤Avenel at Montgomery Square¤North Wales¤1100 Avenel Blvd¤¤PA¤19454
+afe74f2c-4341-4dc5-b95f-caa45fb576b2¤Lake Capital at Osprey Landing¤Hallandale¤520 South Dixie Highway¤Suite 305¤FL¤33009
+afe777dd-186b-4072-b5bd-e085d20ef9f2¤Corvallis Courtyards¤Corvallis¤302 Courtyard Circle¤¤MT¤59828
+afe77b3b-a56b-4e51-8844-36c72c168f89¤KOBE¤Denver¤1525 Fairfax Street¤¤CO¤80220
+afe78dc4-dbea-4e9e-a07a-ce14efed3a40¤1306 C Street¤Hayward¤1306 C Street¤¤CA¤94541
+afe7ac87-e3ed-4d8f-88a6-5aad56cb417d¤Leigh Johnson Courts¤Chicago¤1108 East 73rd Street¤¤IL¤60619
+afe7aed1-3459-42ff-9eaa-eb7da27ead92¤Arbor Hill Homes Redevelopment¤Albany¤Clinton Ave and Ten Broeck Triangle¤¤NY¤12210
+afe7c02a-8fdf-4153-b561-6d743254ba35¤Casa Blanca Condominiums¤Tucson¤3651 East 3rd Street¤¤AZ¤85716
+afe7cd02-477f-49c1-8adf-849ae371ca91¤Avon By The Sea¤Cape Canaveral¤301 Holman Road¤¤FL¤32920
+afe7cd8d-f807-45b5-aac3-cac59c5e0af4¤Stone Gate¤Spring Lake¤201 Stonebriar Circle¤¤NC¤28390
+afe7f156-8ede-4de3-bf9c-19a639b27d69¤Apartments at Grand Prairie¤Peoria¤5400 West Sienna Lane¤¤IL¤61615
+afe81686-24ea-47bd-b273-7dda5b37fdb2¤Holiday Villa¤Indianapolis¤7940 Pendleton Pike¤¤IN¤46226
+afe83350-c72c-4c0c-a3d0-2eb8de134a84¤Ocean Manor¤Seaside Heights¤45 Sumner Ave¤¤NJ¤08751-2117
+afe84cbc-0c91-46f9-b05e-b402ba13a5ad¤Hagerman Country Home¤Hagerman¤151 S Salmon St¤¤ID¤83332
+afe87bf7-5fae-435e-aad3-676232422c09¤Apex at CityPlace¤Overland Park¤10501 113th St¤¤KS¤64112
+afe892ef-589b-4b29-9195-df07c5da5818¤412 North Carroll Street¤Madison¤412 North Carroll Street¤¤WI¤53703
+afe89894-64cf-4138-b850-97117fae458c¤Princeton Square Brookhollow ¤Hamilton¤490 Hampshire Drive¤¤OH¤45011
+afe8ab28-9a5f-4fe5-b406-c3d57eaafdbb¤Meadows at Ferguson¤Dallas¤11760 Ferguson Rd¤¤TX¤75228-8200
+afe8ab74-1c1b-4ab1-a7ab-cdb3d7040a35¤Saddle Brook¤Saddle Brook¤49 Finnigan Avenue¤¤NJ¤07663
+afe8b87c-d9d3-4081-b29e-7371cf6b0e1d¤Lincoln Terrace¤High Shoals¤366 Armstrong Cir¤¤NC¤28077
+afe8fcb0-fd13-4245-ba45-76b29f3c8d21¤Monarch Estates¤Auburn¤1550 E University Dr¤¤AL¤36830-6352
+afe8fd68-fab0-4341-9685-ee9759b6fdbc¤Milieu¤Milton¤McGinnis Ferry Rd & Bethany Bend¤¤GA¤30004
+afe90dc8-9bc8-474d-959f-2401008c962f¤Brighton Woods¤Anchorage¤1204 Norman St¤¤AK¤99504-2326
+afe91bcf-71d4-4f86-9557-4f52a4ae2f20¤Hampton Trace¤Rohnert Park¤205 Enterprise Drive¤¤CA¤94928
+afe91bda-4dcb-4275-b4af-a3bb7c4c3f35¤Brays Crossing¤Houston¤6311 Gulf Freeway¤¤TX¤77023
+afe94028-ec22-4180-9ee0-ab0d989b4a6b¤Paradise Hills¤Euless¤3771 Paradise Hills¤¤TX¤76040
+afe943e9-0f85-49fd-88eb-2ae46d46515f¤Easement¤Olympia¤1714 Evergreen Park Court Southwest¤¤WA¤98502
+afe95caa-2cbe-4763-bd5a-737cd14a4320¤Montrachet Denver West¤Lakewood¤1855 Denver West Ct¤¤CO¤80401-3197
+afe9a6ac-172f-49e5-9467-23c38dbdae39¤Craig Methodist Retirement¤Amarillo¤5500 West 9th Avenue¤¤TX¤79106
+afe9c9b6-4f53-48f1-a13e-6d0aefdaa37e¤Dwell at 1794¤Marietta¤1794 James Ray Dr¤¤GA¤30060-6702
+afe9d308-2256-49f4-ac81-898579d7c8d5¤Sherry Hall¤Washington¤2702 Wisconsin Avenue NW¤¤DC¤20007-4670
+afe9d81a-8759-4085-b421-ab669d16d0e2¤Le Chateau¤Bellevue¤1111 102nd Ave NE¤¤WA¤98004
+afe9e585-2f37-4c3c-9250-8829df31f605¤Three Light¤Kansas City¤Main Street and Truman Road¤¤MO¤64106
+afe9eec6-8012-4bdb-9506-c02d97a8ab7f¤Plaza¤Reno¤777 West 5th Street¤¤NV¤89503-4332
+afea1508-d930-4a95-bb80-966c944bb1b7¤West Grand and Brush¤Oakland¤2201 Brush Street¤¤CA¤94612
+afea54e7-246d-42bf-a394-13bc5f7dcace¤Yale Village¤Yale¤810 East Erie Avenue¤¤OK¤74085
+afea569b-2de6-4427-8bf2-3daa8a38baf4¤Chateau De Ville¤Indianapolis¤5303 Rue De Ville¤¤IN¤46220-5611
+afea7515-18c1-48e8-850a-ee92a2da3b9b¤MonteVista at Murray Hill¤Beaverton¤14900 Southwest Scholls Ferry Road¤¤OR¤97007
+afea7e12-a4ec-4e81-839b-782b4b82c619¤Pine Village East¤Decatur¤2889 Panthersville Rd¤¤GA¤30034-3002
+afea9053-2e1f-4e85-b22a-12651e2d2765¤Peace Dale Estates¤Wakefield¤1223 Saugatucket Rd¤¤RI¤02879
+afeaae02-5d4a-4662-a53d-a8cb91fd8a4a¤Reserve at Lone Oaks¤San Antonio¤20005 Liedecke Road¤¤TX¤78264
+afeaf84c-9e52-4ba1-9a71-35c3cac208c9¤Springdale Village¤Oklahoma City¤4330 S Barnes Ave¤¤OK¤73119-3557
+afeb3a06-8956-4653-a142-976000347ed0¤Oak Gate¤Gainesville¤502 Nw 16th Ave¤¤FL¤32601-4201
+afeb5f31-d872-4965-a182-cd4b272e9195¤Mill Creek of Lafayette¤Lafayette¤10-120 Bridgewater Court ¤¤IN¤47909
+afeb6a94-2678-475a-9d74-3d36e500105e¤Eagle Pines¤Eagle River¤202 East Pine Street¤¤WI¤54521
+afeba49a-ce6e-48ff-9ac5-2a4b6b1e31bd¤Las Flores¤Santa Clarita¤26123 Bouquet Canyon Rd¤#147¤CA¤91350-2900
+afebc07a-df2b-4780-a2c8-1e8bbf41f9f0¤Mint Hall¤San Francisco¤957 Mission Street¤¤CA¤94103
+afebc76a-37ac-4c4a-8bb9-40767443cc0f¤Algodon Motel¤San Clemente¤135 Avenida Algodon¤¤CA¤92672
+afec1bf4-6fa9-429a-921f-dfc6dcad6375¤Campus Edge¤Carbondale¤820 West Freeman Street¤¤IL¤62901
+afec1e03-a10e-4ccd-9f26-bb9f02f536b7¤Avellan Springs¤Morrisville¤4551 Crown Pkwy¤¤NC¤27560
+afec3db5-9cc0-4a7f-afa1-cc2ee02c2b70¤Brentwood Estates Townhouses¤Rapid City¤1013 North Lacrosse Street¤¤SD¤57701
+afec568b-fc82-4199-b604-d1036f254309¤Seabourn Cove I¤Boynton Beach¤3501 S Federal Hwy¤¤FL¤33435-8607
+afec6694-9546-4605-92b7-a30e66a5d625¤Willow Oaks Assoc¤Cowpens¤133 Foster Street¤¤SC¤29330
+afec78bb-aebb-4ebd-a6ba-1a3264b397b6¤Walnut Grove Investments LLC¤Fenton¤1010 North Road¤# 504¤MI¤48430
+afec86a6-15e0-4e00-8156-a17c1f4a396a¤Vue¤Indianapolis¤718 Georgia St¤¤IN¤46202
+afecb6dd-e2ae-4294-b2f3-5c181c8f5beb¤Bancroft/Eddy¤Saginaw¤107 South Washington Avenue¤¤MI¤48607
+afecd3b5-2fbb-4c6a-8de8-930e11fc5b9d¤Sahuarita Mission¤Sahuarita¤1091 W Beta St¤¤AZ¤85614-4865
+afece6c9-f39b-44b8-8be6-3c6ca66f8af0¤Sunray¤Sunnyside¤45-54 41st Street¤¤NY¤11104
+afed2dff-d9b4-4a69-8099-7c7db289a33e¤Norbourne Estates¤Brooksville¤600 Darby Lane¤¤FL¤34601
+afed87b8-db9d-4729-bc5f-3ecd937d9008¤Trails at Oakwood¤Oakwood¤TBA¤¤OH¤45419
+afed96d6-71cd-4a7b-bdd4-ca6f8625d5c7¤Park West¤Chino¤13151 Yorba Ave¤¤CA¤91710
+afeda099-9f39-49ae-8fdb-805cec5a6755¤Park at Ashley Place¤New Port Richey¤4031 Vista Verde Dr¤¤FL¤34655-1735
+afedbce4-fcf8-45e0-86b3-14d8452e741b¤Olive Terrace¤Seattle¤1811 Summit Avenue¤¤WA¤98122
+afedd335-7186-4477-9742-3994225fa092¤Arden Court¤New Brighton¤346 Cleveland Ave SW¤¤MN¤55112-3534
+afedd687-33c0-4b99-b585-e0ad51dc8ac4¤Park Side Villa¤Shelby¤204 Ramblewood Drive¤# 7¤NC¤28152-6651
+afee03de-622f-4918-a481-a96cc0b925fa¤B & B Apartments¤Mount Pleasant¤2121 Burton Road¤¤TX¤75455
+afee4261-8502-45f7-9df0-8f43aa686304¤Blake at Biloxi¤Biloxi¤Popp's Ferry Road and Cedar Lake Road¤¤MS¤39532
+afee7057-dc63-47a4-b6a7-f634bba00700¤Paseo de Paz¤Kerrville¤401 Clearwater Paseo¤¤TX¤78028-5642
+afee97fe-0284-42bd-b094-da8a536669e0¤Jamestown Terrace ¤Jamestown¤10330 Preston Lane¤¤CA¤95327
+afee9950-61c2-43f4-a4e8-6de4940e3077¤Glenvia¤Glendale¤750 Glenvia Street¤¤CA¤91206
+afeed2f0-28b1-4f95-bb0a-6dcd557de33f¤Huntsville Village¤Huntsville¤3614 Boettcher Dr¤¤TX¤77340
+afeee133-5a23-422a-8cf8-69e92b433238¤Club at Big Bear Village¤Big Bear Lake¤40671 Village Drive¤¤CA¤92315
+afef0a0f-eeb1-477e-b29e-96db6f7e01d3¤Liberty Station¤Oklahoma City¤2700 N Lindsay Ave¤¤OK¤73105-7868
+afef1a61-9cb1-4a60-ad93-f892772ece18¤Key¤Mason City¤600 North Kentucky Avenue¤# 202a¤IA¤50401
+afef23b7-5a83-4aa4-9e80-cf33fa94f4b7¤Aria ¤Virginia Beach¤3429 Hollygreen Dr ¤102¤VA¤23452-4877
+afef2e9d-7258-48b5-b683-2cda621b5a2a¤Helios¤Seattle¤1600 2nd Ave¤¤WA¤98101
+afef35eb-52e1-4763-ba0b-d8dc145760f1¤Mariemont Trails¤Cincinnati¤8204 Wooster Pike¤¤OH¤45227
+afef4702-3ff4-479e-9966-abac9e897ca6¤Greenbriar¤Aiken¤3 Nancy Ln SE¤¤SC¤29803-5543
+afef69c0-c490-46bb-a20a-e9de1525d301¤Chipola Manor¤Blountstown¤17854 Northwest Charlie Johns Street¤¤FL¤32424
+afefa29b-1dca-4e1a-9cdc-6320fb3e5993¤Oakwood Village¤Havre¤1915 1st Street Northeast¤¤MT¤59501
+afefc686-050b-4cf0-982f-694014d3787c¤303 High Street¤Cambridge¤303 High St¤¤MD¤21613
+afefdb0c-02f1-4cd3-9aed-6ff15fe1d1a6¤7903-7911 Greenwood ¤Seattle¤7903-7911 Greenwood Ave N¤¤WA¤98103
+afeffd64-e2f8-41de-9fd7-d08a189d09c5¤Marin Village¤King¤201 Newsome Rd¤¤NC¤27021
+aff013e4-2fff-4f66-9204-f6bf8f00a085¤Tri Villa Estates¤Appleton¤1502 Tri Park Way¤¤WI¤54914
+aff0368d-1378-4073-a599-c0b4b08f2ee1¤Meadow Greene¤Gordonsville¤118 Meadow Green Lane¤¤TN¤38563-6577
+aff03ca1-4626-41fa-b284-f5eaaf30cdf5¤Rosa Mares¤Laredo¤702 East Price Street¤¤TX¤78040
+aff042db-8151-48f6-9680-4237fdd06d85¤Brookside¤Lebanon¤117 Cedarwood Dr¤¤TN¤37087-5155
+aff04c07-0e18-4e62-b020-a6161537a79b¤Tuscany¤San Bernardino¤2225 E Pumalo St¤¤CA¤92404
+aff06efb-fc2f-4d4c-ac1a-9876a78aef2d¤Cedar Park Apartments¤Cedar City¤210 West 400 North¤¤UT¤84721
+aff08ada-e343-4041-b448-741fff8335f8¤83rd Street and Monticello Road¤Lenexa¤83rd Street and Monticello Road¤¤KS¤66227
+aff08fbc-3b2d-4ccf-90ef-8d4668d087c4¤Harbor Point Estates¤Essex¤911 South Marlyn Avenue¤¤MD¤21221-5844
+aff0b3d4-e72a-4a9a-a17f-6e6301e9a215¤Mansfield Manor Apts¤Royal Oak¤5005 Mansfield Ave¤¤MI¤48073-1138
+aff0bcdd-6b5b-4ddb-9a42-955bfa878d26¤Carriage Road¤Poway¤13130 Carriage Rd¤Apt 35¤CA¤92064
+aff0c25b-f92c-4eb6-a914-acc22d089f9a¤1129 East 5th Street¤Los Angeles¤1129 E 5th St¤¤CA¤90013
+aff0d5d0-a54d-43d5-97fc-1d5c8f7ffd54¤Capitol Street¤Eagle¤Capitol Street and US Highway 6¤¤CO¤81631
+aff0dbd3-e039-461a-a52a-e7ed13902109¤Herweck House¤San Antonio¤231 Herweck Drive¤¤TX¤78213
+aff0e669-9337-4a2a-8887-72527515b282¤Wrigleyville¤Chicago¤3822 North Janssen Avenue¤¤IL¤60613
+aff0f4ed-e47a-43da-bc95-3bc17a6fa14e¤Tiltsonian¤Seattle¤528 20th Avenue¤¤WA¤98122
+aff11447-a2e7-4fa3-b797-6a7cd5f1280d¤Retreat at Sunny Vista¤Colorado Springs¤2450 E Cache La Poudre St¤¤CO¤80909
+aff1299a-3827-4701-9589-5e65144b453e¤Ed Washington Place ¤Lafayette¤110 Statesman Drive¤¤LA¤70506
+aff1545c-ba40-4b05-8be6-b0b805224cad¤Hamilton Ann¤Dallas¤4214 Rawlins St¤# 107¤TX¤75219
+aff16c37-59c9-4197-ab14-028f53845dd4¤Park on Market¤Anderson¤1725 W Market St¤¤SC¤29624-1129
+aff170af-8236-4897-9631-921294174d02¤Horizon Bay Vibrant Retirement Living¤Grand Prairie¤355 West Westchester Parkway¤¤TX¤75052-5284
+aff1a6be-049e-403c-aa5e-b719166fe45b¤Bell's Victorian¤Colorado Springs¤715 N Nevada Ave¤¤CO¤80903
+aff1d05c-16a8-4317-91a1-4af74b37f161¤Fairfax Tower¤West Hollywood¤1222 North Fairfax Avenue¤¤CA¤90046
+aff1f637-1ee9-45ad-a9f3-8df03fd4d0d3¤Brittany Hills Apartments¤Muskegon¤2565 Memorial Drive¤¤MI¤49445
+aff1f88e-ac17-43b8-8d3c-fd24fb1b70f5¤Crosland¤Aiken¤630 Aldrich St NE¤¤SC¤29801-6412
+aff2599a-70e3-414d-acad-306b0c7557f9¤Reserve at Western Center¤Fort Worth¤Western Center Blvd & Watauga Smithfield Rd¤¤TX¤76131
+aff26b57-a54e-4bd3-ad65-87d760f0dc46¤370 Balboa Lane¤Columbus¤370 Balboa Lane¤¤OH¤43209
+aff27a3f-e1ad-4efb-a4e2-c68348a0564f¤Mountain View¤New Castle¤100 6th St¤¤VA¤24127-6004
+aff2a4aa-87f3-4bfb-9064-ea47e498ff51¤Green Meadow¤Danville¤1610 Edgewood Drive¤¤IL¤61832
+aff2b123-cea6-4933-9bd1-bd666094c384¤Dilworth South¤Charlotte¤2401 Euclid Ave¤¤NC¤28205
+aff2ce2b-d86a-4a1d-ac6a-8589d002dcb0¤Rockwell Terrace¤Oklahoma City¤520 North Rockwell Avenue¤¤OK¤73127
+aff3035a-79e0-4252-894f-ce33941b7883¤MHPI Community¤Roxbury¤1456 Tremont St¤¤MA¤02120-2905
+aff30f19-98af-43c8-921e-b5be564c7399¤Tanglewood¤Gainesville¤2901 Southwest 13th Street¤¤FL¤32608
+aff312ab-21d5-4dca-8f73-8b9c88cf9460¤Pantheon Manor Apts¤Chicago¤2536 N Sawyer Ave¤¤IL¤60647-1402
+aff32947-717c-4752-a5f4-6ec6623f7912¤Hamlet¤San Leandro¤1319 159th Ave¤¤CA¤94578-2084
+aff33388-2501-4f3b-beca-d64865a0f536¤Glade Creek¤Roanoke¤3343 Glade Creek Blvd NE¤¤VA¤24012-8612
+aff33c09-5e88-494d-b77c-b6039285b92c¤A H Mc Conaghay Apartments¤Galeton¤62 Sherman Street¤¤PA¤16922
+aff353b8-f47a-4ddf-a28f-0f01863b7016¤Sorrel Phillips Creek Ranch¤Frisco¤5050 FM 423¤¤TX¤75034
+aff37e8c-a010-4993-90f5-f0d272872888¤Stonecrest Corner¤Portland¤4128 Southeast Cesar E Chavez Boulevard¤¤OR¤97202
+aff39696-85b4-49c7-9891-88847ff2278e¤Charles¤Dallas¤4803 Junius St ¤¤TX¤75246-1056
+aff39ddc-7a59-41a6-aff0-3837934b11d1¤Wilkinson Manor¤Oconomowoc¤919 Summit Avenue¤¤WI¤53066-3949
+aff3cd37-f98e-4d56-acef-58ac6968670d¤Oregon Park Apartments¤Berkeley¤1425 Oregon Street¤¤CA¤94702
+aff3d2b0-a233-4546-a65d-34e885b16c17¤Eastport ¤Jacksonville¤11701 Palm Lake Drive¤¤FL¤32218-0903
+aff3e041-6488-49ad-9b6d-38f016b4ec20¤Legacy at Walton Heights II¤Marietta¤178 Roberts Trail¤¤GA¤30066
+aff3f883-2aad-47fd-8cb9-866dad2d1957¤Brook Furniture¤Los Angeles¤15125 Ventura Blvd¤¤CA¤91403
+aff40cef-d52b-4293-a649-229d15a29cf0¤Eaves West Valley Addition¤San Jose¤700 Saratoga Ave¤¤CA¤95129
+aff42fb4-616f-49a5-a618-f1118a6f1ee1¤Glen Arbor ¤Aiken¤2000 Glen Arbor Ct¤¤SC¤29801-2006
+aff4367c-0f76-48af-89f4-38ef14acd2cb¤Fairfield Boston¤Boston¤41 Hiawatha Road¤¤MA¤02126
+aff451ac-5c5c-445a-95eb-01556ee8ac24¤Harbours Edge¤Delray Beach¤401 East Linton Boulevard¤¤FL¤33483
+aff4632f-f307-48e5-8f91-0fdcc2220892¤New Lowell Properties LLC¤Lowell¤457 Lawrence Street¤¤MA¤01852
+aff46343-51b5-4b3e-b433-865aadd6bdb1¤1150 K Street¤Washington¤1150 K Street Northwest¤¤DC¤20005
+aff47fef-314d-4ced-b663-ba26ed048c1e¤Waverly Arms ¤Yonkers¤133 Waverly Street¤# 2¤NY¤10701
+aff487f1-9169-4b58-ba14-86e2bc93229e¤14th and Hill Street¤Los Angeles¤14th St and Hill St¤¤CA¤90015
+aff52390-49f4-4f76-8021-73f5605ece36¤Gables Grandview¤Austin¤6500 Champion Grandview Way¤¤TX¤78750-8223
+aff542aa-df28-4852-9eed-d774af90a464¤Hanover Platt Park¤Denver¤99 E Arizona Ave¤¤CO¤80210
+aff54afa-f47c-4a48-9030-821f40804812¤Park at Galleria¤Birmingham¤550 Hampton Park Dr¤¤AL¤35216-6555
+aff550e4-cacb-43a6-ba67-47941486a5ec¤Union Village¤Westminster¤19 Union Street¤¤MD¤21157
+aff55426-0942-4189-8da3-58948416f4f8¤Fields at Lorton Station¤Lorton¤7800 Lewis Chapel Cir¤¤VA¤22079-1921
+aff58de6-f91a-416b-9355-1d2aeae8fafa¤South Bay On Sand Key¤Clearwater¤1501 Gulf Blvd¤¤FL¤33767
+aff58efe-aca5-4d91-8c60-36cb226e9520¤Pangea Hills¤Indianapolis¤5500 Pleasant Hill Circle¤¤IN¤46224
+aff5fd32-e4cd-4871-a8ff-1ac2646a9a70¤Sawyer Estates¤St. Cloud¤4201 Sawyer Circle¤¤FL¤34772-8643
+aff5fe01-6b24-4425-8fe1-06a695d14327¤Mercy Drive¤Orlando¤Mercy Drive¤¤FL¤32808
+aff61672-1546-4dfa-9ffb-3fcee6a88613¤Plaza View¤Leavenworth¤69 Ash Street¤¤KS¤66048
+aff65c20-de94-4d5d-a27e-6b192df2ef82¤Laurel Park¤Las Vegas¤5272 Tamarus St¤¤NV¤89119-5053
+aff67c17-15db-4d3b-bc95-d978ea24a38f¤1001 Fulton Ave SE¤Minneapolis¤1001 Fulton Street Southeast¤¤MN¤55414
+aff67f89-f7a7-4d0b-9441-e5b779fba405¤University Gardens¤Tucson¤1333 North Tyndall Avenue¤¤AZ¤85719-4045
+aff68e86-6ab1-48ec-892f-293032e1a1bf¤3450 Eads¤Washington¤3450 Eads St NE¤¤DC¤20019
+aff6a1b1-16c5-423a-829f-f19ca517c0b3¤Triton Center¤Miami¤7880 Biscayne Blvd¤¤FL¤33138
+aff6b5b1-5106-4132-b972-b0a38f5465dd¤Yale 25 Station¤Denver¤5121 E Yale Ave¤¤CO¤80222
+aff6c57a-b434-46c1-8c9d-b6ea7ef08ebf¤Bluffs Mountain Park¤Lake Oswego¤50 Kerr Pkwy¤¤OR¤97035-8881
+aff6ccb7-fd65-4bd8-9fe5-811a6afbcd2a¤Whispering Pines¤Spartanburg¤408 Abner Rd¤¤SC¤29301-1663
+aff6d1d1-51d9-45f8-b8c8-ddbb5caf79bf¤Rosalind Villas¤Jacksonville¤1800 Edgewood Ave W¤¤FL¤32208-8000
+aff6d56d-df90-4094-a8da-3e276270e1b6¤Morningstar Happy Valley¤Happy Valley¤14330 SE Sunyside Rd¤¤OR¤97015
+aff72906-60de-4add-8668-85338bd355ea¤Park Place¤Manteca¤1257 Crom St¤¤CA¤95337-6516
+aff730a8-6227-4b7c-85a6-1220bf3626cc¤Martinelli House¤San Rafael¤1327 Lincoln Ave¤¤CA¤94901-2148
+aff7513c-4593-41bd-9152-04c62c3416c4¤Seven at Broadway¤Cincinnati¤345 E Seventh Street¤¤OH¤45202
+aff772cb-8e81-4bf5-8bfb-7bd50781bc7a¤Union Flats¤Mechanicsburg¤415 Center Pointe Drive ¤¤PA¤17050
+aff7997d-e4b8-4d0b-b53e-85f0ccbb401b¤Array¤Austin¤2101 Burton Dr¤¤TX¤78741-4177
+aff7ccfe-8337-4bff-9f12-4d727d84724e¤Highlands at Dearborn¤Peabody¤19 Magnolia Way¤¤MA¤01960-3850
+aff7d1aa-9adc-4191-8313-7bcef52b914e¤Grand Lake¤Belle Glade¤2000 South Main Street¤¤FL¤33430-4927
+aff7e18b-72d1-462e-82d2-1f8f85686b21¤Toppenish Armory Homeless Shelter¤Wapato¤TBA¤¤WA¤98951
+aff7e4c4-9040-4db7-b2e8-94ad69e7fbdd¤Fox Valley Meadows¤Menasha¤300 Schindler Pl¤103¤WI¤54952-1281
+aff7f8af-5fb6-457f-9583-be9ba8bc54b4¤El Rose¤Hesston¤305 East Academy Street¤# 200-1¤KS¤67062
+aff7f8af-5fb6-457f-9583-be9ba8bc54b4¤Elrose ¤Hesston¤305 East Academy Street¤# 200-1¤KS¤67062
+aff857b4-6378-42ad-a1ba-757051944baf¤Deer Park¤Columbia¤7225 Firelane Rd¤¤SC¤29223-7665
+aff85979-5a59-41a5-a06a-3c9ea2bad30d¤Church Street¤Montclair¤45 Church Street¤¤NJ¤07042
+aff85c2b-43d3-4567-b3d3-3f73cf0ebb99¤Pixon¤Orlando¤7004 Tavistock Lakes Blvd¤¤FL¤32827
+aff8733f-6219-4d1e-964f-f0fd9c90de64¤1939 North Lincoln¤Chicago¤1939 N Lincoln Ave¤¤IL¤60614-6348
+aff876ea-0bc3-4f9b-ade2-a7f17e2fba72¤Sonterra II¤Austin¤10320 Bolder Lane ¤¤TX¤78726
+aff87e31-310b-40d5-8de7-bf0b5930d285¤1692 Pacific Street¤Brooklyn¤1692 Pacific Street¤¤NY¤11213
+aff8bbe6-3922-4a34-baf8-b8420eaa5b16¤Lyfe at Missouri¤Columbia¤3904 Buttonwood Drive¤¤MO¤65201-7148
+aff8c7e3-dfe4-4183-ba30-6fcc98e6f43b¤Meadowood¤Kenosha¤1387 30th Ave¤¤WI¤53144-3037
+aff9043d-b7f8-43c7-9edb-c739bdb7bb35¤Residences at Riverplace II¤Seaford¤601 Water St ¤¤DE¤19973
+aff9249f-3d49-4a05-bcdd-74daf5e77b55¤Elements at Prairie Center¤Brighton¤3128 Eagle Blvd¤¤CO¤80601
+aff94bee-5757-4900-95e7-c4452ab055f2¤Works¤Denver¤1302 S Columbine St¤¤CO¤80210-2417
+aff94dc5-7a45-41a8-b435-201647ebbf32¤Cleveland Manor ¤Glasgow¤800 Cleveland Avenue¤¤KY¤42141
+aff97071-81b6-4397-bbfe-89e577b8ff24¤Harmon Hill ¤Columbia¤1 Meadow Lake Court¤¤SC¤29203
+aff9762a-6ccb-474c-908b-48ec13bf30ce¤Cowboy Town ¤Stillwater¤2001 N Perkins Rd¤¤OK¤74075-2986
+aff977e3-ad33-4fe4-bcd6-2523c324416a¤Heron Court¤Redwood City¤350 Gunter Lane¤¤CA¤94065
+aff99730-335f-4c9b-ba2e-8a4dc8de163c¤Brightwaters at Redhawk¤Tigard¤16100 Southwest 108th Avenue¤¤OR¤97224
+aff99a8f-55be-401e-a766-a625b5314504¤Vincent¤Syracuse¤105 Smith Lane¤¤NY¤13210
+aff9a31d-80e4-42d2-a35d-9dfc8461a831¤Marina Place¤Corpus Christi¤7523 S Staples¤¤TX¤78413
+aff9c04d-99eb-4789-a84c-fd4f6d9cfce1¤Clare Bridge Perinton¤Pittsford¤159 Sullys Trail¤¤NY¤14534
+aff9ef0a-8100-4668-bd1e-9c7b3c3dcafc¤Chateau Manor ¤Madison¤1942 Cragmont Street¤¤IN¤47250
+affa02b1-92e5-43ee-935f-435516faade2¤West Port Colony¤St. Petersburg¤190 112th Ave N¤¤FL¤33716
+affa0f6c-710f-42a7-9645-5b6cd7f78e85¤Villa¤San Jose¤710 North 23rd Street¤¤CA¤95112
+affa75c8-950e-4719-9c3a-95a329406a51¤Kensington Place Apartment¤Brooklyn Park¤8302 Zane Avenue North¤¤MN¤55443
+affa9d78-c708-435c-acfd-c5698e6c6e8f¤Campbell Row¤Royal Oak¤2603 North Campbell Road¤¤MI¤48073
+affaeaf7-f93e-40eb-8395-9d53660b0cfa¤Veranda at Westchase¤Tampa¤12401 W Hillsborough Ave ¤¤FL¤33635-1828
+affafbe5-421f-496b-961b-29162f230ebb¤Datewood ¤North Highlands¤3636 Airway Drive¤¤CA¤95660
+affb0302-7f9e-4967-9d4b-e4a24b027997¤Stoney Brook Village ¤Millis¤3 Stoneybrook Drive¤# 2¤MA¤02054
+affb16f2-27cb-498d-8e40-12276fcac353¤River Bend¤Arlington¤701 E Arkansas Lane¤¤TX¤76010
+affb273d-961d-4f20-b2a4-aca7938129e8¤Regent Place¤Los Angeles¤426 S Norton Ave¤¤CA¤90020-4649
+affb33d9-074f-4517-8399-21a548a211e4¤Rhodes Villa¤Birmingham¤2901 Rhodes Circle South¤¤AL¤35205
+affb3b8d-0ae5-4a0c-b865-09044d49fbcc¤Village Realty¤Red Lion¤Boundary Ave and Country Club Road¤¤PA¤17356
+affb3db0-5f24-46f3-b0d8-73128f628e25¤20 S. 6th Avenue¤La Grange¤20 S. 6th Avenue¤¤IL¤60525
+affb4c62-88ad-4a78-b003-9afcb64eee73¤Fashion Terrace¤San Diego¤6888 Friars Rd¤¤CA¤92108-1138
+affb6178-6015-4f23-94a7-85d09507525b¤Bayview¤San Diego¤4340 Moraga Ave¤¤CA¤92117-4574
+affb6a39-adca-4c05-9bd0-08690a583eed¤Alden Park¤Philadelphia¤5500 Wissahickon Ave¤¤PA¤19144-5651
+affb7457-9090-4c21-9a5e-e57ee6ac756f¤Warren Heights¤Bowling Green¤6550 Louisville Road¤¤KY¤42101
+affb8ebd-2359-4bcd-b4d4-ca4651e067a3¤Arcadia ¤Keene¤120 Emerald Street¤¤NH¤03431-3678
+affb97e6-829c-45e6-bf6a-0ec0e0eb0d49¤Windsong¤San Diego¤4856 Del Monte Avenue¤¤CA¤92107
+affba243-2e22-455e-83db-032224fdffde¤Briarwood Estates¤Uniontown¤3969 Mayfair Road¤¤OH¤44685-8140
+affba74f-6f04-43df-8cd0-7da2aedb6f55¤921-925 O’Farrell¤San Francisco¤921-925 O’Farrell St¤¤CA¤94109
+affbab5e-27c3-4b85-8f45-26e15dfcd993¤Applewood¤Salem¤2249 Dallas Highway Northwest¤¤OR¤97304
+affbb9e5-0a56-440b-a1a0-06dc47a3cb56¤West View ¤Avenal¤1068 South 7th Avenue¤# 84¤CA¤93204
+affbc45f-6d6b-41e2-b20e-b528cb7ff085¤Aqua Links¤Sanford¤2450 Hartwell Avenue¤¤FL¤32771-4169
+affbd065-8c14-46cd-b209-50c86bd82b8e¤Cedar Crest¤San Angelo¤4421 Knickerbocker Road¤¤TX¤76904
+affbee90-2c19-4710-83d7-b473dcc336c8¤Centlivre Village¤Fort Wayne¤2903 Westbrook Drive¤¤IN¤46805
+affc167f-971b-4b3e-b3d6-268de77cecc1¤Santa Monica La Mer¤Santa Monica¤1127 11th Street¤¤CA¤90403
+affc1994-1ddd-480f-95f3-924557fd274a¤Monroe Terrace¤Monroe¤207 4th Avenue¤# 4¤WI¤53566
+affc4bbd-af07-47d0-9431-cdd3ccf2f7cd¤Pierce Boston¤Boston¤188 Brookline Ave¤¤MA¤02118
+affc9243-1af4-41ff-8667-3d111a7574c3¤Hacienda De Los Arcos¤Scottsdale¤7529 East Culver Street¤# 501¤AZ¤85257
+affcc14b-146d-4df5-8c8b-e9b121a8eaca¤New Southern Square¤Lakeland¤Kentucky Ave. & Bay St.¤¤FL¤33801
+affcc30a-c15d-47e3-9ae9-5090764d725e¤Centerville Park¤Dayton¤2050 Sidneywood Road¤¤OH¤45449
+affcd27b-58a7-4386-a954-9a37bb17568f¤Place on Jentilly¤Tempe¤1717 S Jentilly Lane¤¤AZ¤85281
+affcd590-5ce2-4c06-9b76-e861f126220e¤Brandemere¤Winston Salem¤7013 Brandemere Lane¤¤NC¤27106
+affcefcf-8f0c-4aab-956a-5a9870734573¤Steeplechase at Adams Farm¤Greensboro¤1338 Adams Farm Parkway¤¤NC¤27407-5058
+affd0f1d-2cba-4e6a-b5f1-14104a83724a¤Bailey Park of Brownsburg¤Brownsburg¤7774 Bedford Court¤¤IN¤46112
+affd3643-2c33-499d-a913-996c75775bd9¤Desert Club¤Phoenix¤6901 East Chauncey Lane¤¤AZ¤85054-5101
+affd4bc4-1258-4d75-a97d-a60fe6723f6b¤Redlands Park¤Redlands¤1498 Brookside Ave¤¤CA¤92373-8022
+affd59d4-8345-4b1f-b34d-17e33e1903cd¤Lot 5 North End¤Portsmouth¤Maplewood Avenue and Deer Street¤¤NH¤03801
+affdbe89-8890-4ac6-ad68-eb4bae9ed530¤Markvue¤Irwin¤1400 Five Pines Road¤¤PA¤15642
+affdd008-2be2-48e6-9e52-9d1e1fb1595e¤Havenwood Garden¤Lynn Haven¤1600 Florida Ave¤¤FL¤32444-3780
+affe283b-470e-41f7-9cd7-e8623b2efa65¤Good Neighbor Care¤Sterling¤2705 Avenue East¤¤IL¤61081
+affe3313-ce50-419e-98b2-aaaf1271efd3¤Marshall Arms Apartments¤Sacramento¤3259 Marshall Way¤¤CA¤95817
+affe4628-0e0d-42b4-a03f-e9c83897fc7e¤Villa Escondida¤Los Lunas¤1114 Los Claveles Dr SE¤¤NM¤87031-9203
+affe47e7-227a-4004-8a93-deada19262cd¤Mountain View ¤Trenton¤111 Glenview Drive¤¤GA¤30752
+affe5e60-041b-424d-9f9b-d7df85608542¤Savannah Club¤San Marcos¤250 S Stagecoach Trl¤¤TX¤78666-5153
+affe8246-84fb-420f-80e6-d93da214efb7¤Pompano Gardens¤Pompano Beach¤305 Southeast 9th Avenue¤¤FL¤33060
+affe8d04-e92a-40db-bff8-4d429b5a44dc¤Avalon Terrace¤Los Angeles¤451 East 120th Street¤¤CA¤90061
+affe9f7f-e813-4cef-bfd2-4c20e1c0738c¤1327 W Northfield Blvd¤Murfreesboro¤1327 W Northfield Blvd¤¤TN¤37129
+affea382-f03e-4821-a27b-faa0b3632712¤Jubilee Courtyards¤Homestead¤119 S Redland Rd¤¤FL¤33034-4630
+affeb8ee-58a7-4fc0-8d41-3a376e5c2421¤Park on Riley¤Folsom¤99 Cable Cir¤¤CA¤95630-6907
+affec90f-eaab-4320-8394-ae2b22bb0ac6¤SLS Resort Residence and Marina Hallandale Beach¤Hollywood¤Marina Hallandale Beach¤¤FL¤33009
+afff23a2-471f-4027-8f8a-7a4480d8bfda¤Stonebridge at Kelsey Park¤Lubbock¤3815 130th st¤¤TX¤79424
+afff2800-34a7-4563-b7f5-71cc55a11bbc¤Elumwood Apartments¤Cle Elum¤200 East 2nd Street¤¤WA¤98922
+afff3c81-8f6c-4d61-bce5-3f5951ec1976¤Eighth and Hope¤Los Angeles¤South Park¤¤CA¤
+afff5768-7d58-4a93-a27c-2acd235b03e6¤University Commons ¤University Place¤7602 46th Street West¤¤WA¤98466
+afff93d8-04a1-4fd5-a700-ab86abc36f4d¤Lakeview¤Campbellsburg¤Darlene Court¤¤KY¤40011
+afffaeab-858d-4f3e-a878-f6e64cfbca97¤Buena Terrace ¤Buena¤1002 West Summer Avenue¤¤NJ¤08341-1019
+afffd465-df6a-40b2-a63f-49d17ba84bf3¤Parker¤El Monte¤4640 Arden Way¤¤CA¤91731
+afffde31-082a-4f20-a7e9-73e945bfcbdf¤Maplewood¤Maplewood¤2461 Ariel St¤¤MN¤55109
+afffe87a-ecb3-4113-abbd-2d3822874213¤Glenfield¤St. Louis¤9715 Cedar Glen Drive¤¤MO¤63114
+affffe20-32bf-4169-a6f3-9db9a204d6bb¤Stone Gate¤Arcadia¤709 North 17th Avenue¤¤FL¤34266
+b0178e7b-1d01-467c-ba3f-d36845a56c27¤One Upland¤Norwood¤1 Upland  Woods Circle¤¤MA¤02062
+b017cd24-eaf2-4a45-a5c8-fb4502b952ca¤Villas at Viking Road¤Las Vegas¤3513 E Viking Rd¤¤NV¤89121
+b05f3dee-7af4-4c5c-af06-fc235832b12f¤Brookdale Imperial Plaza¤Richmond¤1717 Bellevue Avenue¤¤VA¤23227
+b14e98ff-3d50-4231-a795-7e1840d007b9¤Hughes Property¤Oakland¤5830 Ivanhoe Road¤¤CA¤94618
+b2a67971-7d01-45a7-bb41-9f862fc18ee1¤French Manor¤San Diego¤4471 Illinois St¤¤CA¤92116
+b3946631-66d1-46a6-9f5b-e889e1264031¤Village at Delray¤Delray Beach¤695 Auburn Avenue¤¤FL¤33444
+b404bef9-2fc5-4d61-8572-ef9e2f07e11a¤Brookside View¤Gaithersburg¤8206 Streamside Place¤#201¤MD¤20879
+b51c3092-b43a-40a3-8036-9033ba19cd45¤Meadowbrook at Kings Grant¤Fayetteville¤6707 Water Trial Drive¤¤NC¤28311
+b5372509-30c2-4ef6-84ef-517603963176¤TJ Vermillion¤Fort Pierre¤412 Verendrye Dr¤¤SD¤57532
+b5460044-11cc-4ee9-a76a-df3816508b39¤Dalewood Manor¤Birmingham¤100 Dalewood Manor Lane¤¤AL¤35214
+b5dc2afd-eeb2-4c10-98e3-9dad714080ad¤Freedom Place¤St. Louis¤4011 Delmar¤¤MO¤63108
+b6914628-1d34-4178-b7ff-472a42f434fa¤Arlington Arms LLC¤Alice¤1201 Arlington St¤¤TX¤78332
+b72a0347-6afd-45ce-bf26-49b889d63585¤Casa Mia¤Tallahassee¤725 W St Augustine Street¤¤FL¤32304
+b8061272-488c-44b3-868f-ddc4714ef0d0¤Kendrick Place¤Amherst¤57 S Pleasant Street¤¤MA¤01002
+b82becdc-bec3-4e33-a45f-c9e1e7b9f376¤Washburn Towers¤Ottawa¤506 S Main Street¤¤KS¤66067
+b8a9a42b-e443-490f-938a-d49154cc5869¤Bella Vista¤Fishers¤10732 Bella Vista Drive¤¤IN¤46038
+b9bad15f-1c63-4dc6-8cf6-ade2024a4591¤Rosetta Circle¤Miamisburg¤520/531 Rosetta Cir¤¤OH¤45342
+baaf0d1a-feca-4ac3-9c06-b6f8174fbe5c¤Chartwell Briarwood Town Homes¤Attleboro¤45 Oakdale Street ¤¤MA¤02703
+bc95e4bb-cb6c-4a57-a573-52419b9f829d¤Fernwood Gardens¤Plainfield¤907-911 West 7th Street¤¤NJ¤07063
+bd33d57f-adc2-41f0-8907-0a5101a74ae8¤1320 Mississippi Ave¤Washington¤1320 Mississippi Ave SE¤¤DC¤22032
+be2c0835-e058-456a-bf2e-b1980a257ac2¤1224 W Oakdale¤Chicago¤2927 W Lincoln Avenue¤¤IL¤60657
+be8684ad-f26c-42f2-b391-100228a074e7¤Creston Point¤Seattle¤13445 Martin Luther King Jr W S¤¤WA¤98178
+beb2f050-bc58-42cc-a0ed-c5b278b43efe¤Block Townhomes¤Starkville¤625 S Montgomery¤Suite 36¤MS¤39759
+bf0009c5-b54e-433f-86b6-ed018b3d7e8d¤Environs Lofts at East 54¤Chapel Hill¤5000 Environ Way¤¤NC¤27517-4463
+bf9f8347-26db-4899-ac72-618d1f5f4196¤Almary¤Redondo Beach¤2115 Grant Ave¤7¤CA¤90278-3638
+bfbbd58e-624b-4a00-af46-cf93c1cc9371¤Lookout Manor¤Cincinnati¤3021-3031 Westwood Northern Blvd¤¤OH¤45221
+bff191a0-d507-4bf6-a379-c60da7e8d47a¤Farmers Park¤Springfield¤2144 E Republic Rd¤¤MO¤65804
+c010080a-9491-4c42-b6b7-38762622e41f¤Oak Grove Crossing¤Newburgh¤7133 Castle Way¤¤IN¤47630
+c0bcc3c2-0d0a-4123-8d96-bec13e54c108¤Horizon Trails¤Gardner¤30125 W 187th St¤¤KS¤66030
+c0fb751b-03c7-4b6c-b044-9f8a26ddbc98¤15 Cliff¤New York¤15 Cliff St¤¤NY¤10038
+c18d8df4-4404-4ab8-a2e7-127a6d9520ae¤Aura at Weymouth¤Weymouth¤35 Rockway Ave¤¤MA¤02188
+c1a76b13-8c2b-48cd-97b6-028f5a6102ef¤Green Leaf River Pointe¤Vancouver¤3708 NE 109th Avenue¤¤WA¤98682
+c1af63b7-5864-49a9-a27a-5205f45d6ee0¤3563- 3573 W. Henderson St.¤Chicago¤3563 - 3573 W. Henderson St.¤¤IL¤60618
+c270777a-2d6b-49fb-9413-48e57e03b976¤Cameron Estates¤West Palm Beach¤1517 Cameron Samuel Ln¤¤FL¤33401
+c354e5f8-0bc6-4d67-93ab-6f70f9cd99bf¤Somerset¤Fort Collins¤451 E Boardwalk Drive¤¤CO¤80525
+c3574dfd-3bc3-4a37-ba18-17a3a5756edf¤Dolce Living Home Town¤N Richland Hills¤6040 Parker Ave Ste 132¤¤TX¤76180
+c38d41f2-57c4-4ff9-bb31-56b8dd410982¤Carriage Hill¤Hillcrest Heights¤3416 Curtis Drive¤¤MD¤20746
+c447a14b-26d7-417d-94e4-bb0f2738983b¤Allure¤Reseda¤21315 Roscoe Blvd¤¤CA¤91304
+c4628a94-67db-4918-b460-9eb164c9da01¤White Palm¤Port Orange¤5400 S Williamson Blvd¤¤FL¤32128
+c58d19a0-7ab5-4d50-9f83-14b4ef3604eb¤Waterstone Landing¤Perrysburg¤12315 Roachton Road¤¤OH¤43551
+c5e27a64-ee41-43cd-bb64-21888a4dab6f¤Hampton Crescent¤West Deptford¤40 Highbridge Lane¤Building B¤NJ¤8096
+c6869d9b-6af6-4b7a-b36b-16b86bd40afa¤Halstead Abington¤Abington¤12 Forsyth Drive¤¤MA¤02351
+c70158d2-2079-4725-bfcf-d37e09ce4c37¤Villas at Towngate¤Moreno Valley¤13120 Day St¤¤CA¤92553
+c71267df-b06e-4fde-85f7-83a5b22ce541¤Villas at Island Road¤Bristol¤4892 Island Road¤¤TN¤37620
+c801ad23-5bec-4065-b128-db0245e1bc84¤Cresthaven¤Lehi¤4151 N Traverse Mountain Blvd¤¤UT¤84043
+c9bfca80-896d-4f0a-afba-d6b70aedcfde¤Polo Run¤Columbus¤1824 Wythe Street¤¤OH¤43235
+ca4c555c-a15a-4bd3-be48-2c081420918a¤Avesta Wildwood¤St. Petersburg¤2400 15th Ave S¤¤FL¤33712
+cb0bff17-8662-45d3-a25c-dde6ad8ddb7d¤Sands South¤Albuquerque¤1701 Girard Blvd SE¤¤NM¤87106-3145
+ccb2e66a-d55b-4888-8d53-f7b08d15a02b¤Pickens Bridge Village¤Piney Flats¤3685 North Pickens Bridge Rd¤¤TN¤37686
+ce393cde-c14a-4abf-8828-2ff8ec41bc6d¤5121 S. Kenwood¤Chicago¤5121 S. Kenwood¤¤IL¤60615
+ce472e6f-6c39-4e40-b4ba-d1ab32369b56¤Westwood, LLC/ d/b/a Harvest Grove¤Crown Point¤8153 Westwood Ct.¤¤IN¤46307
+ce76feb1-f4ad-4c2d-965d-65e8915f8f32¤Maple Highlands¤Maple Heights¤6000 Lee Rd S¤Apt 103¤OH¤44137-4542
+ce7a567f-0736-494d-a43f-da90766947f6¤Cove at Riverwinds¤West Deptford¤370 Grove Avenue¤¤NJ¤08086
+ce985ff7-87a9-4af7-b3bc-e1b90e9b0e8e¤Del Ray Towers¤Alexandria¤3110 Mount Vernon Ave¤¤VA¤22305
+cfc74fcc-4230-4320-b660-3f1cda2860b4¤Annex of Marion¤Marion¤258 University Drive¤¤OH¤43302
+d011d5eb-dc76-4b26-bf56-283b116b732f¤1400 Main ¤Canonsburg¤1400 Main St¤¤PA¤15317
+d04227b1-213b-4814-9d3d-43e5f80b5d07¤Dan Grimmer¤Clearwater¤3340 San Pedro St¤¤FL¤33759
+d06888f2-a458-4c69-8ead-b84844d5842e¤WP Chester Pike¤Norwood¤556 Chester Pike¤¤PA¤19074
+d0991596-a318-4621-9397-623c11f10119¤Sailboat Bend¤Fort Lauderdale¤425 SW 4th Avenue¤¤FL¤33315
+d09c97fc-434d-4457-808a-78b8e3df43b7¤SI LLC¤Waynesboro¤1009 Lyndhurst Rd¤¤VA¤22980
+d199e24b-55d1-4d1f-86d7-fcea8586682e¤2936 S Dalton Ave¤Los Angeles¤2936 S Dalton Ave¤¤CA¤90018
+d1b090b6-957b-4d5c-9ac0-95e081cc2c46¤700 Condos¤Birmingham¤700 34th Avenue South¤¤AL¤35205
+d2d1ae93-b4e5-4541-ad7f-42a6bd44e7de¤Broadway Overlook¤Baltimore¤1501 East Fayette Street¤¤MD¤21231
+d3192f17-5ed1-45a9-aa47-a1812cc30ff4¤Vue at Centennial I¤Las Vegas¤7350 W Centennial Parkway¤¤NV¤89131
+d3927768-9b67-47c6-acab-aad80d97c7e8¤Fayette Crossing¤Lexington¤249 E Reynolds Rd¤¤KY¤40517
+d3cc715b-eba1-48fb-8fba-0de3980274f6¤Durham Park Townhouse I¤Pooler¤100 Durham Park Way¤¤GA¤31322
+d5993e85-97f5-428f-a40a-d8ed42965051¤1362 Clayton¤Denver¤1362 Clayton St.¤¤CO¤80206
+d5b4dc2f-b745-4e64-92d4-0da15104a209¤8042 N. Knox¤Skokie¤8042-46 N. Knox Avenue¤¤IL¤60076
+d5f14193-d328-42e9-be14-61297673d661¤Heatherwood¤Springfield¤1396 S Scenic Ave¤¤MO¤65802
+d5fc6cea-3a6a-4e9d-90f2-395e8f5bb026¤Montrose¤Burien¤220 S 152nd Street¤¤WA¤98148
+d5fcbbd7-c5d9-4e82-ba98-a2242dfb8e60¤Cloverleaf Village¤Pleasant Hills¤3 Marhoefer Dr¤¤PA¤15236
+d6b77aa9-c1d4-4151-9727-cd88ac3b0d50¤Treetop¤Coeur d'Alene¤4598 W Fairway Dr¤¤ID¤83815
+d6d37cf9-1cc3-4fbc-bd3c-6dbb0b33c10e¤Discovery West¤Issaquah¤580 8th Avenue NE¤¤WA¤98029
+d6f2c58e-1381-4a0f-a9c2-1e2925d7c6e8¤Oaks at St. Johns¤Ponte Vedra Beach¤210 Nettles Lane¤¤FL¤32081
+d7acdb7a-fa8d-4405-8237-0bf8808d962a¤Quail Quarters¤Cincinnati¤2096, 2098, 2064 Quail Court¤¤OH¤45240
+d8a3e3c3-28d6-490b-981a-9934bd7a478f¤Avalon Stratford¤Stratford¤1000 Avalon Way¤¤CT¤06614
+d8fc38e9-7314-47e2-9e5c-9b31e85cde90¤Muroff Lewis Associates, Ltd.¤Florham Park¤30A Vreeland Road¤¤NJ¤07932
+d8fd1fa0-699b-48f7-ae11-a175137fed13¤Hudson Pointe¤Newburgh¤90 Grand Street¤¤NY¤12550-4662
+d96e5b6f-e138-4ac2-9dda-2101d28cdc3a¤Hammock at Stuart¤Stuart¤701 SE Martin Luther King Jr Blvd¤¤FL¤34994
+da1115e7-2a84-4008-8a44-80531e612b67¤Springs at Apple Valley¤Apple Valley¤14650 Foliage Ave¤¤MN¤55124
+da383a70-fd00-444c-a2e7-2534b6d09cac¤Hillside¤San Diego¤3625 W Federal Blvd W¤¤CA¤92102
+dae17d64-ac90-4b17-b9a2-5739b88fd04e¤E Street¤Washington¤331 E Street NE¤¤DC¤20002
+dbc677e2-ca03-4d7e-adac-3ac2ceb4c81e¤Silver Pines¤Vernal¤99 E 860 S¤¤UT¤84078
+dc22cbb3-f71b-4ea7-9546-0863f19cf7ec¤Stoneleaf at Fairfield¤Fairfield¤113 W. Reunion St¤¤TX¤75840
+dcc13750-b48c-4f7d-8534-62d83cc163e1¤Gables Upper Rock¤Rockville¤70 Upper Rock Circle¤¤MD¤20850
+dd2fd794-61bc-40e0-a530-980bbdeb93eb¤Villa Escondida¤Los Lunas¤1114 Los Claveles Dr SE¤¤NM¤87031
+de855a9f-b80b-42fb-8eae-7d6b6b9d7a44¤Montclair Mews¤Montclair¤77 Grove Street¤¤NJ¤07042
+deb8b5c2-aad3-4b7b-8fd7-101f6c23f88d¤Garber Manor Senior¤Staunton¤1131A Montgomery Avenue¤¤VA¤24401
+df081794-03b0-4bb9-8c66-5e9a200ca1cd¤Bell Coconut Creek¤Deerfield Beach¤3600 West Hillsboro Blvd.¤¤FL¤33073
+df11a797-c239-44a7-a721-6424ec24d47b¤Crossings at 4th & Preston¤Charlottesville¤401 Fouth St SW¤¤VA¤22902
+df2fde7a-ce59-425c-89aa-5b7359b959af¤315 W Street NE¤Washington¤315 W Street NE¤¤DC¤20002
+df561255-3778-4f9f-8539-f137e765ca0c¤Ballard IV¤Birmingham¤905 40th Street South¤¤AL¤35205
+df60aac8-9455-4819-8034-1b8383724412¤Hendricks Pointe¤Shelbyville¤501 1st Ave SE¤¤IN¤46176
+e06aca28-cfe9-4001-811e-e461cb67564f¤Halstead Square/Lanes¤Vienna¤2730 Gallows Road¤¤VA¤22180
+e0bbf5e2-6c7a-4fd2-9d2e-8d0ee8bbe47c¤Breslin¤Spokane¤729 S. Bernard Street¤¤WA¤99204
+e0d52a48-7a9c-4f12-9412-ee2405482766¤Town Center¤Opa-Locka¤551 Fisherman Street¤¤FL¤33054
+e17decc7-0720-4d98-bffb-16d5ff21d936¤1281 Building¤Miami¤1281 NW 61st Street¤¤FL¤33142
+e1fa37dc-17dd-49fe-aa5d-b576034a22ab¤Terra House¤Nashville¤115 Middleton Street¤¤TN¤37210
+e26a9fc8-fda8-4ce6-a277-c27ea1eff721¤Yorkewood¤Baltimore¤1134 East Belvedere Avenue¤¤MD¤21239
+e3387fb6-068b-4509-96fe-754c99c6d1ba¤Stark Street Crossings¤Gresham¤20433 SE Stark St¤¤OR¤97030
+e3639143-a405-4710-81c7-b7630d8f6e75¤Meridia Parkway¤Wallington¤1 Parkway¤¤NJ¤07057
+e36c8828-ae9f-4b24-a39e-c68abb362c4f¤Northside Transit Village¤Miami¤3101 NW 77th St¤¤FL¤33147
+e5d08102-63c8-4cc2-832a-61e31d036bd7¤Cavalier¤Portland¤222 NE 162nd Ave¤¤OR¤97230
+e64c6ce2-144e-4233-a9e5-a3a9c0cce13e¤King's Crossing¤Covington¤133 E. 11th Street¤¤KY¤41011
+e7073770-fb6a-4ee5-a7b8-2d2e8090ff9d¤Kimberly Court¤Boulder¤4920 Thunderbird Cir¤¤CO¤80303-3925
+e7ee31c5-2ca1-4809-9c9c-bb8d31d10365¤Webster Court¤Petersburg¤400 Mars Street¤#23¤VA¤23803
+e8129a8d-070d-4dae-b934-d7fe34802e66¤Halstead¤Columbus¤1824 Wythe Street¤¤OH¤43235
+e8976452-3b87-441d-a1bc-c316322bb9ca¤Cahaba Brook¤Birmingham¤3252 Bearden Court¤¤AL¤35243
+e8c8b285-f098-42c2-8256-84d543a61820¤Avesta Northridge II¤St. Petersburg¤6464 54th Ave N¤¤FL¤33709
+e928e971-d6e6-4bdf-a329-002e67e80e29¤Tiber Hudson¤Ellicott City¤3120 Burgess Mill Way¤¤MD¤21043
+e9d2e590-e1df-40f6-aaa9-5d0a6d83f0db¤Beverly Heights¤Las Cruces¤7805 Arroyo Dr¤¤NM¤88012
+ea383c47-9074-4a4c-90d8-5f5694dab27e¤Glen Wood¤Chevy Chase¤4998 Battery Lane¤¤MD¤20814
+ea41b625-8833-4a1f-9920-abb8c8609f5f¤Majestic On Square¤Cincinnati¤3157 Woodford Road¤¤OH¤45213
+ea5e5cbc-0419-472f-8d7b-73b6a53cfc5a¤Woodlake¤Wyoming¤5001 Byron Center Ave SW¤¤MI¤49519
+eac3fdbc-6835-497c-af22-dbe5f93be749¤Ballard II¤Birmingham¤915 40th Street South¤¤AL¤35205
+ead94048-ac13-4597-99ac-edab5f0727aa¤Mill 800¤Winston-Salem¤800 Chatham Rd¤¤NC¤27101
+eb44932d-be2e-410d-b5e2-a9840fae6f38¤Lakes At 8201¤Merrillville¤8300 Polo Club Dr Apt C 59¤¤IN¤46410
+ec028d0e-cabf-43a2-a25b-952f0a9fb207¤Austin Place¤Brenham ¤2307 S Austin St¤¤TX¤77833
+ec0de26c-6590-45a1-a898-a2cdb52f4259¤Palmetto Grove II¤North Charleston¤7950 Crossroads Drive¤¤SC¤29406
+ed520d71-8333-406f-accf-12b2e5d0f206¤Devonshire¤Dayton¤1435 Redsunset Drive¤¤OH¤45459
+ed753da5-ed92-475f-bf9a-700580c8257c¤Historic Row¤Washington¤515 9th Street NW¤¤DC¤20004
+ee9335aa-9e56-4d69-a180-2566113a6ed1¤32 Lofts¤Philadelphia¤1325 N 5th St¤¤PA¤19122
+ef203ed0-ebe5-4764-ae18-6312d9dfe022¤26 Stiles Street¤Elizabeth¤26 Stiles Street¤¤NJ¤07208
+ef995a40-d0f7-410c-90ee-567cc42df588¤Northwest Gardens II¤Fort Lauderdale¤1230 NW 8th St¤¤FL¤33311
+efa42d14-9553-45ad-b1d5-73121720c68b¤Preston Place Townhouses¤Bethesda¤3710 Manor Rd¤¤MD¤20814
+effc6e8c-4a6b-4142-8c43-df74be4c40c0¤Lakewood on the Saluda¤Greenville¤104-B Stanley Drive¤¤SC¤29611-3028
+f056ba0d-fc0e-4380-b475-e9447fdc1e21¤Residences at the Street¤Washington¤100 Adios Drive¤Suite 120¤PA¤15301
+f07319ee-a9ac-4d6d-b954-4df999eb11bb¤Casa Manana¤Carrizozo¤PO Box 872¤¤NM¤88301
+f0bb70cf-9f9d-43b8-8cb3-8d1651cae035¤9 North¤Richmond¤210 N 9th Street¤¤IN¤47374
+f0dabe70-88e7-40ba-b69d-aed4f8a4f97f¤Blueberry Hills II¤Leesburg¤33305 Ryan Drive¤¤FL¤34788
+f0ef1df1-d77f-4c80-a052-5461cdb5e313¤Stratford at Williamsburg¤Williamsburg¤100 Stratford Rd¤¤VA¤23185
+f1920342-e515-40eb-95b2-1dd8ef6b8782¤Bella Vista¤Vista¤1924 West Drive¤¤CA¤92083
+f22444c8-7d98-4548-b222-6941239f6c05¤Riverbirch Village¤Knoxville¤7236 Oak Ridge Hwy¤¤TN¤37917-7844
+f30e72f7-4d7d-4a1d-a506-6605cc8cc813¤Ashley Court¤San Diego¤721 Fergus Street¤¤CA¤92114
+f357fd2e-593d-4e56-bcf2-a76a748031d2¤Tuckahoe¤Arlington¤5520 Lee Highway¤¤VA¤22204
+f39902e6-547e-4b75-aefe-1e2a261e6d7d¤Executive¤Plainfield¤315 West 8th Street¤¤NJ¤07060
+f47fdb06-30ab-4c77-879b-0ba631a47168¤ICO Ridge¤Lehi¤3315 N Center St¤¤UT¤84043
+f523ae73-5391-4f03-a217-07dd6be69789¤Broad Trace¤Sumter¤1225 Tryon Street¤#13¤SC¤29150
+f6109cff-5121-4baa-bd80-83bfa2e73fdd¤Portsmouth¤Cincinnati¤2909-11 Portsmouth¤¤OH¤45208
+f61be6f0-f959-4fdf-912c-e8ad8b454355¤Meridia Park Avenue¤West New York¤6035 Park Avenue¤¤NJ¤07093
+f62308fd-8fd1-4742-b430-f14b3f18425f¤Lynn Oaks Apts #118¤Portland¤1440 SW Taylor St Ste 118¤¤OR¤97205
+f69981ba-2524-4717-b2fe-28c2d9d2b116¤Excelsior¤Seattle¤1535 Bellevue Ave¤¤WA¤98122-3605
+f69e976c-024b-49ec-9b7e-affe34126a96¤Brownstones at Biltmore¤Phoenix¤2608 E Turney Ave¤¤AZ¤85016
+f7b4c020-c31e-49b8-b725-6cf2c7122a43¤Allapattah Gardens¤Maitland¤2600 Lake Lucien Drive,¤#300¤FL¤32751
+f9a9f538-5b48-49eb-bb88-ae2a0d04e14a¤Gardens on Paris¤Aurora¤1678 Paris St¤¤CO¤80010
+fa46fef3-ab69-4f3c-92fe-2524099e9266¤Cypress Gardens #52¤Portland¤1440 SW Taylor St Ste 52¤¤OR¤97205
+fa9fa20d-5daf-4d42-a033-51697f8e9673¤Circa 2020¤Redlands¤27000 West Lugonia Ave¤¤CA¤92374
+fb3109ac-5c66-4c4a-a904-a3ce7814c56d¤Celtic Crossing¤St. Peters¤1200 Belfast Drive¤¤MO¤63376
+fba73e6e-2420-401b-9b6e-51c09840fa1c¤Pure Living Heathrow¤Lake Mary¤740 Savory Place¤¤FL¤32746
+fbed578e-791c-4531-93b7-606a9ab0f149¤Quail Landing¤Sumner¤7121 142nd Ave Ct East¤¤WA¤98390
+fc4301bd-37ca-46ef-8cfa-830cf0192d8a¤Gate Five¤Richmond¤1200 Byrd St¤¤VA¤23219
+fc4a5137-3f1a-4c51-9ffe-b9112b4b6055¤Evergreen Manor¤Denver¤5006 W 8th Ave¤¤CO¤80204
+fcbe73ea-b14e-43eb-a4ec-31791df23356¤Royal Crescent¤Somerville¤123 East Market Street¤¤TN¤38068
+fcbe73ea-b14e-43eb-a4ec-31791df23356¤Royal Crescent, LLC¤Somerville¤123 East Market Street¤¤TN¤38068
+fcfc57d7-cfcc-4ab0-938a-3efe3857cfe4¤Blooms¤Tallulah¤102 Synder Street¤¤LA¤71282
+fd1b81f8-afc3-41e2-be4b-f8dffcb0d375¤Patterson Pointe¤Bloomington¤454 South Westplex Ave¤¤IN¤47403
+fd4e5ab2-b8ed-4d7a-89b2-dff448794405¤Quatama Village¤Aloha¤380 NW Gina Way¤¤OR¤97006
+fe1576d5-f4d6-4a66-a00f-e6e466f8e85c¤Somerset Place¤Chicago¤5009 N Sheridan Road¤¤IL¤60640
+fe53954a-ed79-417b-9015-6c4589e453b7¤Sunny Woods¤Hurst¤1604 North Hills Blvd¤¤TX¤76053
+ff73e07b-9784-4f31-bdad-7db8f7fced82¤Plymouth¤Deland¤901 North Amelia Ave¤¤FL¤32724
+ffb5d7de-0e83-4cd2-b2ee-e52911e1e078¤Girard¤Albuquerque¤203 Girard Blvd SE¤¤NM¤87106-2229

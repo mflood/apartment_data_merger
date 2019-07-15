@@ -87,6 +87,6 @@ def create_mapping_table(table_name):
     build_db_conn().execute(sql)
 
 
-create_snowflake_table(table_name=os.getenv("SNOWFLAKE_TABLE", "digible_schema.default_snowflake_table"))
-create_sqlserver_table(table_name=os.getenv("SQLSERVER_TABLE", "digible_schema.default_sqlserver_table"))
-create_mapping_table(table_name=os.getenv("MAPPING_TABLE", "digible_schema.default_mapping_table"))
+create_snowflake_table(table_name=os.getenv("SNOWFLAKE_TABLE"))
+create_sqlserver_table(table_name=os.getenv("SQLSERVER_TABLE"))
+create_mapping_table(table_name=os.getenv("MAPPING_TABLE"))
