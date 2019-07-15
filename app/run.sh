@@ -1,5 +1,9 @@
 #!/bin/sh 
+date
 source venv/bin/activate
-echo $GCP_BUCKET
-echo $GCP_FILE_SNOWFLAKE_TABLE
-echo $GCP_FILE_SQLSERVER_TABLE
+python3 digible/driver.py --snowflake &
+python3 digible/driver.py --sqlserver &
+
+wait
+python3 digible/driver.py --merge
+date
