@@ -46,6 +46,13 @@ def create_snowflake_table(table_name):
 
     build_db_conn().execute(sql)
 
+    base_table_name = table_name.split('.')[-1]
+    # index on zip
+    sql = f"""
+        create index {base_table_name}_zip_idx on {table_name} (zip)
+    """
+    build_db_conn().execute(sql)
+
 
 def create_sqlserver_table(table_name):
 
@@ -66,6 +73,14 @@ def create_sqlserver_table(table_name):
         )
     """
 
+    build_db_conn().execute(sql)
+
+
+    base_table_name = table_name.split('.')[-1]
+    # index on zip
+    sql = f"""
+        create index {base_table_name}_zip_idx on {table_name} (zip)
+    """
     build_db_conn().execute(sql)
 
 
