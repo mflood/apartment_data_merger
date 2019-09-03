@@ -7,8 +7,10 @@ export MYSQL_PASSWORD=
 export POSTGRES_HOST=localhost
 export POSTGRES_PORT=5432
 export POSTGRES_DATABASE=postgres
-export POSTGRES_USERNAME=app_db_user
-export POSTGRES_PASSWORD=fixme
+export POSTGRES_USERNAME=postgres
+export POSTGRES_PASSWORD=
+#export POSTGRES_USERNAME=app_db_user
+#export POSTGRES_PASSWORD=fixme
 
 # used for full and sample
 export MAPPING_TABLE=digible_schema.mapping_table
