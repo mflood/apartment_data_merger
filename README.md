@@ -116,9 +116,3 @@ localpg96 < queries.sql
 cd schema/
 ./run_plot.sh
 ```
-
-
-
-
-
-
