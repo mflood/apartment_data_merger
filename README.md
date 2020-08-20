@@ -2,6 +2,9 @@
 
 > This is my submission for the Digible Coding Challenge
 
+## Overview
+Processes apartment data from two disparate data sources and merges the data together.
+
 ## Download Data
 
 > After downloading, move *snowflake_table.txt* and *sqlserver_table.txt* to *data/* directory
