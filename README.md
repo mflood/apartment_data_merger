@@ -3,7 +3,15 @@
 > This is my submission for the Digible Coding Challenge
 
 ## Overview
-Processes apartment data from two disparate data sources and merges the data together.
+
+Processes apartment data from two disparate data sources and merges the data together:
+
+* Create ETL to import data from two different sources
+* Create data model to store data
+* Create logic using heuristics to join the disparate data
+* run reports
+* Tests
+
 
 ## Download Data
 
