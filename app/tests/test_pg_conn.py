@@ -1,9 +1,9 @@
 import logging
 import os
 import pytest
-from digible.writer.pg_conn import PgConn
-from digible.writer.pg_conn import PgConnException
-import digible.loggingsetup as loggingsetup
+from aptmerge.writer.pg_conn import PgConn
+from aptmerge.writer.pg_conn import PgConnException
+import aptmerge.loggingsetup as loggingsetup
 
 loggingsetup.init(loglevel=logging.DEBUG)
 

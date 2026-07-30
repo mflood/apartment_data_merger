@@ -13,12 +13,12 @@ import argparse
 import logging
 import os
 import sys
-from digible import loggingsetup
-from digible.writer.pg_conn import PgConn
-from digible.writer.buffered_writer import BufferedWriter
-from digible.parser.snowflake_table_parser import SnowflakeTableParser
-from digible.parser.sqlserver_table_parser import SqlServerTableParser
-from digible.merger import Merger
+from aptmerge import loggingsetup
+from aptmerge.writer.pg_conn import PgConn
+from aptmerge.writer.buffered_writer import BufferedWriter
+from aptmerge.parser.snowflake_table_parser import SnowflakeTableParser
+from aptmerge.parser.sqlserver_table_parser import SqlServerTableParser
+from aptmerge.merger import Merger
 
 def parse_args(argv=None):
     """

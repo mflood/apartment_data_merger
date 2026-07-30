@@ -1,2 +1,2 @@
 #!/bin/sh
-docker build -t digible:latest --no-cache .
+docker build -t aptmerge:latest --no-cache .

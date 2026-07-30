@@ -6,7 +6,7 @@
 import logging
 import hashlib
 import csv
-from digible.loggingsetup import LOGNAME
+from aptmerge.loggingsetup import LOGNAME
 
 class SqlServerTableParser():
     """

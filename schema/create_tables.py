@@ -1,10 +1,10 @@
 import logging
 import os
 import sys
-import digible.loggingsetup as loggingsetup
-from digible.writer.pg_conn import PgConn
-from digible.writer.buffered_writer import BufferedWriter
-from digible.parser.snowflake_table_parser import SnowflakeTableParser
+import aptmerge.loggingsetup as loggingsetup
+from aptmerge.writer.pg_conn import PgConn
+from aptmerge.writer.buffered_writer import BufferedWriter
+from aptmerge.parser.snowflake_table_parser import SnowflakeTableParser
 
 
 def build_db_conn():

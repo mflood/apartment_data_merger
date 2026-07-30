@@ -1,5 +1,5 @@
 
-set search_path=digible_schema;
+set search_path=apartment_schema;
 
 
 -- matches

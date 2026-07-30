@@ -1,9 +1,9 @@
 import logging
 import os
 import pytest
-from digible.writer.mysql_conn import MysqlConn
-from digible.writer.mysql_conn import MysqlConnException
-import digible.loggingsetup as loggingsetup
+from aptmerge.writer.mysql_conn import MysqlConn
+from aptmerge.writer.mysql_conn import MysqlConnException
+import aptmerge.loggingsetup as loggingsetup
 
 loggingsetup.init(loglevel=logging.DEBUG)
 

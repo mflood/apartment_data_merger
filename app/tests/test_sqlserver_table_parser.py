@@ -2,8 +2,8 @@ from collections import OrderedDict
 import datetime
 import logging
 import pytest
-from digible.parser.sqlserver_table_parser import SqlServerTableParser
-import digible.loggingsetup as loggingsetup
+from aptmerge.parser.sqlserver_table_parser import SqlServerTableParser
+import aptmerge.loggingsetup as loggingsetup
 
 loggingsetup.init(loglevel=logging.DEBUG)
 
@@ -40,7 +40,7 @@ def test_parse_file(sqlserver_parser):
 
     data = sqlserver_parser.parse_file(filepath="../data/sqlserver_table_sample.txt")
     for item in data:
-        #logging.getLogger('digible').info("%s", item)
+        #logging.getLogger('aptmerge').info("%s", item)
         pass
     
     

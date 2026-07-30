@@ -1,27 +1,31 @@
-# Digible Coding Challenge
+# Apartment Data Merger
 
-> This is my submission for the Digible Coding Challenge
+An ETL pipeline that imports apartment listing data from two disparate
+sources (a Snowflake export and a SQL Server export), merges the records
+using matching heuristics, and loads the result into a Postgres data model
+for reporting.
 
 ## Overview
 
-Processes apartment data from two disparate data sources and merges the data together:
+* ETL to import data from two different source formats
+* Postgres data model to store the merged data
+* Heuristic matching logic to join records across the disparate sources
+* Reporting queries and plots over the merged data
+* Unit and integration tests
 
-* Create ETL to import data from two different sources
-* Create data model to store data
-* Create logic using heuristics to join the disparate data
-* run reports
-* Tests
+## Source data
 
+The pipeline expects two exports in the `data/` directory:
 
-## Download Data
+* `snowflake_table.txt`
+* `sqlserver_table.txt`
 
-> After downloading, move *snowflake_table.txt* and *sqlserver_table.txt* to *data/* directory
-
-> [https://console.cloud.google.com/storage/browser/data_engineer_assessment](https://console.cloud.google.com/storage/browser/data_engineer_assessment)
+Small sample files (`*_sample.txt`) are included in `data/` so the pipeline
+can be exercised without the full exports.
 
 ## Initial Setup
 
-### Set up python Environment
+### Set up python environment
 
 > NOTE: requires python3
 
@@ -36,13 +40,13 @@ cd app/
 
 ### Set config values
 
-> Update the variables in app/env\_secrets.sh
+> Update the variables in app/envs_secret.sh
 
 ## Unit Testing
 
 ```
 cd app
-source envs_secret.sh 
+source envs_secret.sh
 ./run_tests.sh
 ```
 
@@ -50,7 +54,7 @@ source envs_secret.sh
 
 ### Configure for sample data
 
-> Update *env_secrets.sh* to use sample files instead of full files:
+> Update *envs_secret.sh* to use sample files instead of full files:
 
 ```
 # app/envs_secret.sh
@@ -62,7 +66,7 @@ export SNOWFLAKE_FILE=../data/snowflake_table_sample.txt
 export SQLSERVER_FILE=../data/sqlserver_table_sample.txt
 ```
 
-#### Creating sample files
+#### Creating sample files from full exports
 
 ```
 head -n 1000 data/snowflake_table.txt > data/snowflake_table_sample.txt
@@ -76,25 +80,24 @@ tail -n 1000 data/sqlserver_table.txt >> data/sqlserver_table_sample.txt
 
 ```
 cd app/
-source envs_secret.sh 
+source envs_secret.sh
 ./run.sh
 ```
 
 > See Explore Results to test exploration of data with sample
 
-
 ## Normal Run
 
 ### Configure for real data
 
-> Update *env_secrets.sh* to use full files instead of sample files:
+> Update *envs_secret.sh* to use full files instead of sample files:
 
 ```
 # app/envs_secret.sh
 
 # ...
 
-# sample set:
+# full set:
 export SNOWFLAKE_FILE=../data/snowflake_table.txt
 export SQLSERVER_FILE=../data/sqlserver_table.txt
 ```
@@ -103,7 +106,7 @@ export SQLSERVER_FILE=../data/sqlserver_table.txt
 
 ```
 cd app/
-source envs_secret.sh 
+source envs_secret.sh
 ./run.sh
 ```
 

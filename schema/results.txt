@@ -1,4 +1,4 @@
-set search_path=digible_schema;
+set search_path=apartment_schema;
 SET
 with map_count as (
     select count(*) as map_count

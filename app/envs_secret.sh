@@ -13,16 +13,16 @@ export POSTGRES_PASSWORD=
 #export POSTGRES_PASSWORD=fixme
 
 # used for full and sample
-export MAPPING_TABLE=digible_schema.mapping_table
+export MAPPING_TABLE=apartment_schema.mapping_table
 
 # full set
 export SNOWFLAKE_FILE=../data/snowflake_table.txt
 export SQLSERVER_FILE=../data/sqlserver_table.txt
-export SNOWFLAKE_TABLE=digible_schema.snowflake_table
-export SQLSERVER_TABLE=digible_schema.sqlserver_table
+export SNOWFLAKE_TABLE=apartment_schema.snowflake_table
+export SQLSERVER_TABLE=apartment_schema.sqlserver_table
 
 # sample set:
 # export SNOWFLAKE_FILE=../data/snowflake_table_sample.txt
 # export SQLSERVER_FILE=../data/sqlserver_table_sample.txt
-# export SNOWFLAKE_TABLE=digible_schema.snowflake_table_sample
-# export SQLSERVER_TABLE=digible_schema.sqlserver_table_sample
+# export SNOWFLAKE_TABLE=apartment_schema.snowflake_table_sample
+# export SQLSERVER_TABLE=apartment_schema.sqlserver_table_sample

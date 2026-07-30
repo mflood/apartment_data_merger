@@ -1,9 +1,9 @@
 #!/bin/sh 
 date
 source venv/bin/activate
-python3 digible/driver.py --snowflake &
-python3 digible/driver.py --sqlserver &
+python3 aptmerge/driver.py --snowflake &
+python3 aptmerge/driver.py --sqlserver &
 
 wait
-python3 digible/driver.py --merge
+python3 aptmerge/driver.py --merge
 date

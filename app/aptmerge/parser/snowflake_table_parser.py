@@ -9,7 +9,7 @@ import logging
 import hashlib
 import csv
 import re
-from digible.loggingsetup import LOGNAME
+from aptmerge.loggingsetup import LOGNAME
 
 
 # used to patch states

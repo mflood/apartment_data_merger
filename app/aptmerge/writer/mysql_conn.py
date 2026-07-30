@@ -1,15 +1,15 @@
 """
-   pg_conn.py
+   buffered_writer.py
 
-   Manages Postgres Connection
+   Writes records to  table
 """
 import logging
 # pylint: disable=import-error
-import psycopg2
-import psycopg2.extras
-from digible.loggingsetup import LOGNAME
+import pymysql
+import pymysql.cursors
+from aptmerge.loggingsetup import LOGNAME
 
-class PgConnException(Exception):
+class MysqlConnException(Exception):
     """
         Exception to raise when things go South
     """
@@ -17,7 +17,7 @@ class PgConnException(Exception):
 
 # pylint: disable=too-many-instance-attributes
 # pylint: disable=too-many-arguments
-class PgConn():
+class MysqlConn():
     """
         Manages Mysql Connection
         and executes statements
@@ -34,7 +34,6 @@ class PgConn():
         self._database = database
         self._username = username
         self._password = password
-        self._connect_timeout_seconds = 30
 
         self._dry_run = False
 
@@ -53,20 +52,21 @@ class PgConn():
         """
         # Connect to the database
         try:
-            conn = psycopg2.connect(dbname=self._database,
-                                    user=self._username,
-                                    password=self._password,
-                                    host=self._host,
-                                    port=self._port,
-                                    connect_timeout=self._connect_timeout_seconds)
+            connection = pymysql.connect(host=self._host,
+                                         port=self._port,
+                                         user=self._username,
+                                         password=self._password,
+                                         db=self._database,
+                                         charset='utf8mb4',
+                                         cursorclass=pymysql.cursors.DictCursor)
 
-            self._logger.debug("PgConn connected to %s %s", self._host, self._port)
-            self._logger.debug(conn)
-            return conn
-        except psycopg2.OperationalError as error:
-            message = f"Error connecting to postgres: {error}"
+            self._logger.debug("MysqlConn connected to %s %s", self._host, self._port)
+            return connection
+
+        except pymysql.err.OperationalError as error:
+            message = f"Error connecting to mysql: {error}"
             self._logger.error(message)
-            raise PgConnException(message)
+            raise MysqlConnException(message)
 
     def execute(self, sql, param_list=None):
         """
@@ -87,10 +87,10 @@ class PgConn():
                 cursor.execute(sql, param_list)
                 cursor.execute("commit")
 
-        except psycopg2.ProgrammingError as error:
+        except pymysql.err.InternalError as error:
             self._logger.error("SQL ERROR: %s", error)
             self._logger.error("Truncated SQL (2000 chars): %s", sql[:2000])
-            raise PgConnException(error)
+            raise MysqlConnException(error)
         finally:
             connection.close()
 

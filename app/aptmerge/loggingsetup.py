@@ -6,7 +6,7 @@
 
 import logging
 
-LOGNAME = "digible"
+LOGNAME = "aptmerge"
 
 def init(loglevel=logging.DEBUG):
     """

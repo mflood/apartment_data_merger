@@ -4,10 +4,10 @@ import datetime
 import logging
 import os
 import pytest
-import digible.loggingsetup as loggingsetup
-from digible.writer.pg_conn import PgConn
-from digible.writer.buffered_writer import BufferedWriter
-from digible.writer.buffered_writer import BufferedWriterException
+import aptmerge.loggingsetup as loggingsetup
+from aptmerge.writer.pg_conn import PgConn
+from aptmerge.writer.buffered_writer import BufferedWriter
+from aptmerge.writer.buffered_writer import BufferedWriterException
 
 loggingsetup.init(loglevel=logging.DEBUG)
 

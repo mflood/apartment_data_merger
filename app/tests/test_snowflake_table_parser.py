@@ -1,8 +1,8 @@
 import datetime
 import logging
 import pytest
-from digible.parser.snowflake_table_parser import SnowflakeTableParser
-import digible.loggingsetup as loggingsetup
+from aptmerge.parser.snowflake_table_parser import SnowflakeTableParser
+import aptmerge.loggingsetup as loggingsetup
 
 loggingsetup.init(loglevel=logging.DEBUG)
 
@@ -48,7 +48,7 @@ def test_parse_file(snowflake_parser):
 
     data = snowflake_parser.parse_file(filepath="../data/snowflake_table_sample.txt")
     for item in data:
-        #logging.getLogger('digible').info("%s", item)
+        #logging.getLogger('aptmerge').info("%s", item)
         pass
     
     

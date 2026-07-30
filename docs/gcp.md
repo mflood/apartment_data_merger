@@ -20,7 +20,7 @@
     - Click *Credentials*
     - Click *Create Credentials* / Service Account
     
-    Service Account Name: digible_challenge   
+    Service Account Name: aptmerge_challenge   
     
     - Select a role: Project Owner
 
@@ -31,5 +31,5 @@
 
 OR
 
-> https://console.cloud.google.com/storage/browser/data_engineer_assessment
+> https://console.cloud.google.com/storage/browser/your-source-data-bucket
 

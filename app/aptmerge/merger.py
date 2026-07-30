@@ -5,7 +5,7 @@
     by combining snowflake and sqlserver data
 """
 import logging
-from digible.loggingsetup import LOGNAME
+from aptmerge.loggingsetup import LOGNAME
 
 
 # pylint: disable=too-few-public-methods
@@ -47,8 +47,8 @@ class Merger():
         sql = """
 with base as (
     select
-          digible_schema.similarity(k.address, q.address_line1) as address_similarity
-        , digible_schema.similarity(k.apt_name, q.apt_name) as apt_similarity
+          apartment_schema.similarity(k.address, q.address_line1) as address_similarity
+        , apartment_schema.similarity(k.apt_name, q.apt_name) as apt_similarity
         , row_number() over (partition by k.address_hash, q.property_id) as distinct_pairing
         , k.apt_name as k_apt_name
         , k.address
@@ -60,7 +60,7 @@ with base as (
      from {snowflake_table} k
     inner join {sqlserver_table} q
        on k.zip=q.zip
-      and digible_schema.similarity(k.address, q.address_line1) > 0
+      and apartment_schema.similarity(k.address, q.address_line1) > 0
     where k.zip IN ({in_string} )
 ),
 matches as(

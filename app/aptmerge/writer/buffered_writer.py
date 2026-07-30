@@ -8,7 +8,7 @@
 import logging
 import queue
 # pylint: disable=import-error
-from digible.loggingsetup import LOGNAME
+from aptmerge.loggingsetup import LOGNAME
 
 class BufferedWriterException(Exception):
     """

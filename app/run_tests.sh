@@ -14,7 +14,7 @@ fi
 source venv/bin/activate
 
 if [ "$DO_COVERAGE" == "yes" ];then
-    coverage run --source digible -m pytest
+    coverage run --source aptmerge -m pytest
     coverage report -m
 else
     #pytest -vv
