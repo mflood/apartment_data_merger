@@ -1,5 +1,7 @@
 # Apartment Data Merger
 
+![tests](https://github.com/mflood/apartment_data_merger/actions/workflows/tests.yml/badge.svg)
+
 An ETL pipeline that imports apartment listing data from two disparate
 sources (a Snowflake export and a SQL Server export), merges the records
 using matching heuristics, and loads the result into a Postgres data model

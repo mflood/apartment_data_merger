@@ -1,0 +1,43 @@
+name: tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.11", "3.12"]
+    defaults:
+      run:
+        working-directory: app
+    # Placeholder connection values: the unit tests mock out the
+    # database layer but the connection classes read config at
+    # construction time.
+    env:
+      MYSQL_HOST: localhost
+      MYSQL_PORT: "3306"
+      MYSQL_DATABASE: test
+      MYSQL_USERNAME: test
+      MYSQL_PASSWORD: test
+      POSTGRES_HOST: localhost
+      POSTGRES_PORT: "5432"
+      POSTGRES_DATABASE: test
+      POSTGRES_USERNAME: test
+      POSTGRES_PASSWORD: test
+      MAPPING_TABLE: apartment_schema.mapping_table
+      SNOWFLAKE_FILE: ../data/snowflake_table_sample.txt
+      SQLSERVER_FILE: ../data/sqlserver_table_sample.txt
+      SNOWFLAKE_TABLE: apartment_schema.snowflake_table
+      SQLSERVER_TABLE: apartment_schema.sqlserver_table
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run tests
+        run: PYTHONPATH=. python -m pytest tests -v
